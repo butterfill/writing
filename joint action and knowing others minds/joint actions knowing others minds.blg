@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99c (TeX Live 2009)
+The top-level auxiliary file: joint actions knowing others minds.aux
+The style file: newapa.bst
+Database file #1: $HOME/endnote/phd_biblio.bib
+`author' is a missing field, not a string, for entry Astington2005ot
+while executing---line 1385 of file newapa.bst
+You can't pop an empty literal stack for entry butterfill_minimal
+while executing---line 1459 of file newapa.bst
+You've used 18 entries,
+            2708 wiz_defined-function locations,
+            717 strings with 7763 characters,
+and the built_in function-call counts, 7929 in all, are:
+= -- 715
+> -- 321
+< -- 14
++ -- 118
+- -- 114
+* -- 795
+:= -- 1504
+add.period$ -- 54
+call.type$ -- 18
+change.case$ -- 145
+chr.to.int$ -- 18
+cite$ -- 18
+duplicate$ -- 283
+empty$ -- 536
+format.name$ -- 154
+if$ -- 1448
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 18
+newline$ -- 93
+num.names$ -- 73
+pop$ -- 80
+preamble$ -- 1
+purify$ -- 164
+quote$ -- 0
+skip$ -- 198
+stack$ -- 0
+substring$ -- 566
+swap$ -- 67
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 106
+warning$ -- 0
+while$ -- 71
+width$ -- 0
+write$ -- 236
+(There were 2 error messages)
