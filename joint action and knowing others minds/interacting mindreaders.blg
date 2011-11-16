@@ -1,0 +1,45 @@
+This is BibTeX, Version 0.99c (TeX Live 2009)
+The top-level auxiliary file: interacting mindreaders.aux
+The style file: newapa.bst
+Database file #1: $HOME/endnote/phd_biblio.bib
+You've used 4 entries,
+            2708 wiz_defined-function locations,
+            614 strings with 4965 characters,
+and the built_in function-call counts, 1709 in all, are:
+= -- 162
+> -- 40
+< -- 6
++ -- 17
+- -- 12
+* -- 122
+:= -- 299
+add.period$ -- 14
+call.type$ -- 4
+change.case$ -- 26
+chr.to.int$ -- 3
+cite$ -- 4
+duplicate$ -- 86
+empty$ -- 135
+format.name$ -- 16
+if$ -- 349
+int.to.chr$ -- 2
+int.to.str$ -- 0
+missing$ -- 6
+newline$ -- 23
+num.names$ -- 16
+pop$ -- 24
+preamble$ -- 1
+purify$ -- 32
+quote$ -- 0
+skip$ -- 72
+stack$ -- 0
+substring$ -- 112
+swap$ -- 30
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 20
+warning$ -- 0
+while$ -- 16
+width$ -- 0
+write$ -- 58
