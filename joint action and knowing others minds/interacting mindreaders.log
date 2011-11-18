@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.2-0.9995.2 (TeX Live 2009) (format=xelatex 2010.8.4)  16 NOV 2011 21:06
+This is XeTeX, Version 3.1415926-2.2-0.9995.2 (TeX Live 2009) (format=xelatex 2010.8.4)  18 NOV 2011 10:22
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
@@ -581,7 +581,7 @@ Package hyperref Warning: No destination for bookmark of \addcontentsline,
 [1
 
 ]
-Overfull \hbox (18.27339pt too wide) in paragraph at lines 59--60
+Overfull \hbox (18.27339pt too wide) in paragraph at lines 66--67
 []\EU1/SabonLTStd(0)/m/n/12 ***Distinguish from ‘second person’, interactio
 n (Gallagher and Hutto?) 
  []
@@ -590,10 +590,10 @@ n (Gallagher and Hutto?)
 Here is how much of TeX's memory you used:
  9982 strings out of 494665
  159515 string characters out of 3163744
- 261518 words of memory out of 3000000
+ 260518 words of memory out of 3000000
  13045 multiletter control sequences out of 15000+200000
  7340 words of font info for 50 fonts, out of 3000000 for 9000
  669 hyphenation exceptions out of 8191
- 41i,6n,48p,566b,399s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,6n,48p,566b,395s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 Output written on interacting mindreaders.pdf (3 pages).
