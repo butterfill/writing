@@ -1,9 +1,9 @@
-This is XeTeX, Version 3.1415926-2.2-0.9995.2 (TeX Live 2009) (format=xelatex 2010.8.4)  25 NOV 2011 10:51
+This is XeTeX, Version 3.1415926-2.2-0.9995.2 (TeX Live 2009) (format=xelatex 2010.8.4)  25 NOV 2011 11:48
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"interacting mindreaders.tex"
-(./interacting mindreaders.tex
+**"interacting mindreaders.2.tex"
+(./interacting mindreaders.2.tex
 LaTeX2e <2009/09/24>
 Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
 yphenation, german-x-2009-06-19, ngerman-x-2009-06-19, ancientgreek, ibycus, ar
@@ -420,8 +420,8 @@ Package: titling 2009/09/04 v2.1d maketitle typesetting
 \thanksmargin=\skip57
 \droptitle=\skip58
 ))
-(./interacting mindreaders.aux)
-\openout1 = `"interacting mindreaders.aux"'.
+No file "interacting mindreaders.2".aux.
+\openout1 = `"interacting mindreaders.2.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
 LaTeX Font Info:    ... okay on input line 17.
@@ -439,7 +439,6 @@ LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 17.
 LaTeX Font Info:    ... okay on input line 17.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 17.
 LaTeX Font Info:    ... okay on input line 17.
-
 *geometry detected driver: pdftex*
 -------------------- Geometry parameters
 paper: a4paper
@@ -564,40 +563,32 @@ LaTeX Info: Redefining \Ref on input line 396.
 )
 LaTeX Info: Redefining \ref on input line 17.
 LaTeX Info: Redefining \pageref on input line 17.
-
-(./interacting mindreaders.out) (./interacting mindreaders.out)
 \@outlinefile=\write3
-\openout3 = `"interacting mindreaders.out"'.
+\openout3 = `"interacting mindreaders.2.out"'.
 
 \AtBeginShipoutBox=\box33
 LaTeX Info: Redefining \Ref on input line 17.
+
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
+
 LaTeX Font Info:    External font `cmex7' loaded for size
 (Font)              <6> on input line 23.
-
 
 Package hyperref Warning: No destination for bookmark of \addcontentsline,
 (hyperref)                destination is added on input line 31.
 
-LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <7> on input line 47.
-LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <5> on input line 47.
+No file "interacting mindreaders.2".bbl.
 [1
 
-] [2] [3]
-Overfull \hbox (16.89133pt too wide) in paragraph at lines 178--181
-[]\EU1/LinuxLibertineO(0)/m/n/12 Donald Davidson argues that language is necess
-ary for propositional thought
- []
-
-(./interacting mindreaders.bbl) [4] (./interacting mindreaders.aux) ) 
+] (./interacting mindreaders.2.aux) ) 
 Here is how much of TeX's memory you used:
- 9999 strings out of 494665
- 160253 string characters out of 3163744
- 260555 words of memory out of 3000000
- 13060 multiletter control sequences out of 15000+200000
- 7356 words of font info for 52 fonts, out of 3000000 for 9000
+ 9959 strings out of 494665
+ 159276 string characters out of 3163744
+ 253555 words of memory out of 3000000
+ 13031 multiletter control sequences out of 15000+200000
+ 7332 words of font info for 49 fonts, out of 3000000 for 9000
  669 hyphenation exceptions out of 8191
- 41i,8n,48p,566b,294s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,6n,48p,568b,294s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on interacting mindreaders.pdf (4 pages).
+Output written on interacting mindreaders.2.pdf (1 page).
