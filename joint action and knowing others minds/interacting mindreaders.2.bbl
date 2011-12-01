@@ -5,6 +5,20 @@ Bennett, J. (1976).
 \newblock {\em Linguistic Behaviour}.
 \newblock Cambridge: Cambridge University Press.
 
+\bibitem[\protect\citeauthoryear{Csibra, B{\'\i}r{\'o}, Ko{\'o}s \&
+  Gergely}{Csibra et~al.}{2003}]{Csibra:2003jv}
+Csibra, G., B{\'\i}r{\'o}, S., Ko{\'o}s, O., \& Gergely, G. (2003).
+\newblock One-year-old infants use teleological representations of actions
+  productively.
+\newblock {\em Cognitive Science}, {\em 27\/}(1), 111--133.
+
+\bibitem[\protect\citeauthoryear{Csibra \& Gergely}{Csibra \&
+  Gergely}{1998}]{Csibra:1998cx}
+Csibra, G. \& Gergely, G. (1998).
+\newblock The teleological origins of mentalistic action explanations: A
+  developmental hypothesis.
+\newblock {\em Developmental Science}, {\em 1\/}(2), 255--259.
+
 \bibitem[\protect\citeauthoryear{Davidson}{Davidson}{1973}]{Davidson:1973jx}
 Davidson, D. ([1984] 1973).
 \newblock Radical interpretation.
@@ -26,5 +40,11 @@ Dennett, D. (1987).
 Lepore, E. \& Ludwig, K. (2005).
 \newblock {\em Donald Davidson: Meaning, Truth, Language, and Reality}.
 \newblock Oxford University Press.
+
+\bibitem[\protect\citeauthoryear{Southgate, Johnson \& Csibra}{Southgate
+  et~al.}{2008}]{Southgate:2008el}
+Southgate, V., Johnson, M.~H., \& Csibra, G. (2008).
+\newblock Infants attribute goals even to biomechanically impossible actions.
+\newblock {\em Cognition}, {\em 107\/}(3), 1059--1069.
 
 \end{thebibliography}
