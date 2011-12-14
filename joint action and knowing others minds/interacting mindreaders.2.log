@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.2-0.9995.2 (TeX Live 2009) (format=xelatex 2010.8.4)  1 DEC 2011 17:42
+This is XeTeX, Version 3.1415926-2.2-0.9995.2 (TeX Live 2009) (format=xelatex 2010.8.4)  13 DEC 2011 22:02
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
@@ -579,20 +579,20 @@ Package hyperref Warning: No destination for bookmark of \addcontentsline,
 (hyperref)                destination is added on input line 31.
 
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <7> on input line 69.
+(Font)              <7> on input line 53.
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <5> on input line 69.
+(Font)              <5> on input line 53.
 [1
 
-] [2] [3] [4] (./interacting mindreaders.2.bbl) [5]
+] [2] [3] [4] [5] [6] (./interacting mindreaders.2.bbl [7]) [8]
 (./interacting mindreaders.2.aux) ) 
 Here is how much of TeX's memory you used:
- 10011 strings out of 494665
- 160540 string characters out of 3163744
- 259555 words of memory out of 3000000
- 13072 multiletter control sequences out of 15000+200000
+ 10039 strings out of 494665
+ 161149 string characters out of 3163744
+ 262555 words of memory out of 3000000
+ 13100 multiletter control sequences out of 15000+200000
  7356 words of font info for 52 fonts, out of 3000000 for 9000
  669 hyphenation exceptions out of 8191
- 41i,8n,48p,681b,405s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,8n,48p,681b,401s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on interacting mindreaders.2.pdf (5 pages).
+Output written on interacting mindreaders.2.pdf (8 pages).

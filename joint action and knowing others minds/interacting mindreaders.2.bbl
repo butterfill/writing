@@ -1,5 +1,11 @@
 \begin{thebibliography}{}
 
+\bibitem[\protect\citeauthoryear{Baillargeon, Scott \& He}{Baillargeon
+  et~al.}{2010}]{Baillargeon:gx}
+Baillargeon, R., Scott, R.~M., \& He, Z. (2010).
+\newblock False-belief understanding in infants.
+\newblock {\em Trends in Cognitive Sciences}, {\em 14\/}(3), 110--118.
+
 \bibitem[\protect\citeauthoryear{Bennett}{Bennett}{1976}]{Bennett:1976rg}
 Bennett, J. (1976).
 \newblock {\em Linguistic Behaviour}.
@@ -19,6 +25,12 @@ Csibra, G. \& Gergely, G. (1998).
   developmental hypothesis.
 \newblock {\em Developmental Science}, {\em 1\/}(2), 255--259.
 
+\bibitem[\protect\citeauthoryear{Davidson}{Davidson}{1984}]{Davidson:1974gh}
+Davidson, D. (1974 [1984]).
+\newblock Belief and the basis of meaning.
+\newblock In {\em Inquiries into Truth and Interpretation}  (pp.\ 155--170).
+  Oxford: Oxford University Press.
+
 \bibitem[\protect\citeauthoryear{Davidson}{Davidson}{1973}]{Davidson:1973jx}
 Davidson, D. ([1984] 1973).
 \newblock Radical interpretation.
@@ -35,6 +47,26 @@ Dennett, D. (1987).
 \newblock {\em The Intentional Stance}.
 \newblock Cambridge, Mass.: MIT Press.
 
+\bibitem[\protect\citeauthoryear{Gergely, Nadasky, Csibra \& Biro}{Gergely
+  et~al.}{1995}]{Gergely:1995sq}
+Gergely, G., Nadasky, Z., Csibra, G., \& Biro, S. (1995).
+\newblock Taking the intentional stance at 12 months of age.
+\newblock {\em Cognition}, {\em 56}, 165--193.
+
+\bibitem[\protect\citeauthoryear{Hare \& Tomasello}{Hare \&
+  Tomasello}{2004}]{hare_chimpanzees_2004}
+Hare, B. \& Tomasello, M. (2004).
+\newblock Chimpanzees are more skilful in competitive than in cooperative
+  cognitive tasks.
+\newblock {\em Animal Behaviour}, {\em 68\/}(3), 571--581.
+
+\bibitem[\protect\citeauthoryear{Horner \& Whiten}{Horner \&
+  Whiten}{2005}]{Horner:2005pj}
+Horner, V. \& Whiten, A. (2005).
+\newblock Causal knowledge and imitation/emulation switching in chimpanzees
+  (pan troglodytes) and children (homo sapiens).
+\newblock {\em Animal Cognition}, {\em 8}, 164--181.
+
 \bibitem[\protect\citeauthoryear{Lepore \& Ludwig}{Lepore \&
   Ludwig}{2005}]{lepore_donald_2005}
 Lepore, E. \& Ludwig, K. (2005).
@@ -46,5 +78,18 @@ Lepore, E. \& Ludwig, K. (2005).
 Southgate, V., Johnson, M.~H., \& Csibra, G. (2008).
 \newblock Infants attribute goals even to biomechanically impossible actions.
 \newblock {\em Cognition}, {\em 107\/}(3), 1059--1069.
+
+\bibitem[\protect\citeauthoryear{Wimmer \& Mayringer}{Wimmer \&
+  Mayringer}{1998}]{Wimmer:1998kx}
+Wimmer, H. \& Mayringer, H. (1998).
+\newblock False belief understanding in young children: Explanations do not
+  develop before predictions.
+\newblock {\em International Journal of Behavioral Development}, {\em 22\/}(2),
+  403--422.
+
+\bibitem[\protect\citeauthoryear{Woodward}{Woodward}{1998}]{Woodward:1998dm}
+Woodward, A.~L. (1998).
+\newblock Infants selectively encode the goal object of an actor's reach.
+\newblock {\em Cognition}, {\em 69}, 1--34.
 
 \end{thebibliography}
