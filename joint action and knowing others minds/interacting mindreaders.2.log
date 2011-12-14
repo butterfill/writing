@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.2-0.9995.2 (TeX Live 2009) (format=xelatex 2010.8.4)  13 DEC 2011 22:02
+This is XeTeX, Version 3.1415926-2.2-0.9995.2 (TeX Live 2009) (format=xelatex 2010.8.4)  14 DEC 2011 22:04
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
@@ -39,7 +39,7 @@ LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 \belowcaptionskip=\skip42
 \bibindent=\dimen103
 )
-(/Users/stephenbutterfill/Documents/submissions/preamble_steve_paper.tex
+(/Users/stephenbutterfill/Documents/submissions/preamble_steve_paper2.tex
 (/usr/local/texlive/2009/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2008/12/21 v4.2 Page Geometry
 
@@ -135,25 +135,14 @@ ther characters in Unicode lower plane
 \c@zf@famc@Linux Libertine O=\count100
 Package fontspec Info: Defining font family for 'Linux Libertine O' with option
 s [Mapping=tex-text,Mapping=tex-text] on input line 34.
-Package fontspec Info: Delicious-Roman scale = 0.88008 on input line 35.
-\c@zf@famc@Delicious=\count101
-Package fontspec Info: Defining font family for 'Delicious' with options [Mappi
-ng=tex-text,Scale=MatchLowercase,Mapping=tex-text,UprightFont=Delicious-Roman,B
-oldFont=Delicious-Bold,ItalicFont=Delicious-Italic, BoldItalicFont=Delicious-Bo
-ldItalic,SmallCapsFont=Delicious-SmallCaps] on input line 35.
-Package fontspec Info: Delicious-Roman scale = 0.88008 on input line 35.
-Package fontspec Info: Delicious-SmallCaps scale = 0.88008 on input line 35.
-Package fontspec Info: Delicious-Bold scale = 0.88008 on input line 35.
-Package fontspec Info: Delicious-SmallCaps scale = 0.88008 on input line 35.
-Package fontspec Info: Delicious-Italic scale = 0.86595 on input line 35.
-Package fontspec Info: Delicious-SmallCaps scale = 0.86595 on input line 35.
-Package fontspec Info: Delicious-BoldItalic scale = 0.86076 on input line 35.
-Package fontspec Info: Delicious-SmallCaps scale = 0.86076 on input line 35.
-Package fontspec Info: Andale Mono scale = 0.84877 on input line 36.
+\c@zf@famc@Linux Biolinum O=\count101
+Package fontspec Info: Defining font family for 'Linux Biolinum O' with options
+ [Mapping=tex-text,Mapping=tex-text] on input line 35.
+Package fontspec Info: Andale Mono scale = 0.8483 on input line 36.
 \c@zf@famc@Andale Mono=\count102
 Package fontspec Info: Defining font family for 'Andale Mono' with options [Map
 ping=tex-text,Scale=MatchLowercase] on input line 36.
-Package fontspec Info: Andale Mono scale = 0.84877 on input line 36.
+Package fontspec Info: Andale Mono scale = 0.8483 on input line 36.
 Package fontspec Info: Could not resolve font Andale Mono/B (it might not exist
 ) on input line 36.
 Package fontspec Info: Could not resolve font Andale Mono/I (it might not exist
@@ -532,8 +521,8 @@ LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> EU1/LinuxLibertineO(0)/bx/n on input l
 ine 17.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> EU1/Delicious(0)/m/n on input line 17.
-
+(Font)                  OT1/cmss/m/n --> EU1/LinuxBiolinumO(0)/m/n on input lin
+e 17.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
 (Font)                  OT1/cmtt/m/n --> EU1/AndaleMono(0)/m/n on input line 17
 .
@@ -547,8 +536,8 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> EU1/LinuxLibertineO(0)/bx/it on input
  line 17.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> EU1/Delicious(0)/bx/n on input line 1
-7.
+(Font)                  OT1/cmss/bx/n --> EU1/LinuxBiolinumO(0)/bx/n on input l
+ine 17.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> EU1/AndaleMono(0)/bx/n on input line 1
 7.
@@ -584,15 +573,15 @@ LaTeX Font Info:    External font `cmex7' loaded for size
 (Font)              <5> on input line 53.
 [1
 
-] [2] [3] [4] [5] [6] (./interacting mindreaders.2.bbl [7]) [8]
-(./interacting mindreaders.2.aux) ) 
+] [2] [3] [4] [5] [6] [7] [8] [9] (./interacting mindreaders.2.bbl [10])
+[11] (./interacting mindreaders.2.aux) ) 
 Here is how much of TeX's memory you used:
- 10039 strings out of 494665
- 161149 string characters out of 3163744
- 262555 words of memory out of 3000000
- 13100 multiletter control sequences out of 15000+200000
- 7356 words of font info for 52 fonts, out of 3000000 for 9000
+ 10055 strings out of 494665
+ 161533 string characters out of 3163744
+ 262407 words of memory out of 3000000
+ 13115 multiletter control sequences out of 15000+200000
+ 7877 words of font info for 53 fonts, out of 3000000 for 9000
  669 hyphenation exceptions out of 8191
- 41i,8n,48p,681b,401s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,8n,48p,681b,437s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on interacting mindreaders.2.pdf (8 pages).
+Output written on interacting mindreaders.2.pdf (11 pages).
