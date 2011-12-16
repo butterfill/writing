@@ -1,7 +1,7 @@
 %!TEX TS-program = xelatex
 %!TEX encoding = UTF-8 Unicode
 
-\documentclass[12pt,a4paper]{extarticle}
+\documentclass[14pt,a4paper]{extarticle}
 % extarticle is like article but can handle 8pt, 9pt, 10pt, 11pt, 12pt, 14pt, 17pt, and 20pt text
 
 \def \ititle {Interacting Mindreaders}
@@ -12,7 +12,7 @@
 
 \input{$HOME/Documents/submissions/preamble_steve_paper2}
 
-
+%\setromanfont[Mapping=tex-text]{Sabon LT Std} 
 
 \begin{document}
 
@@ -110,6 +110,7 @@ So, on this view, those without metarepresentational abilities are not in a posi
 
 
 \section{The problem of opaque means}
+\label{sec:opaque_means}
 
 While we lack a detailed theory of the evidential basis of goal ascription,
 it is certain that the evidence for goal ascription sometimes includes considerations about which ends actions are means to.
@@ -151,24 +152,39 @@ as in preparing spirit from grain, for example.
 
 The problem of opaque means also affects communicative actions 
  because these characteristically have  goals which the actions are means to realising only because others recognise them as means to realising those goals (a Gricean circle). 
-To illustrate, consider an experiment by
-***ref whose two main conditions are depicted in figure *fig.
+To illustrate, consider an experiment from 
+\citet[][experiment 3]{hare_chimpanzees_2004}
+ whose two main conditions are depicted in figure \vref{fig:reach_point}.
 The pictures in the figure stand for what participants, who were chimpanzees, saw.
 The question was whether participants would be able to work out which of two containers concealed a reward.
 In the condition depicted in the left panel, participants saw a chimpanzee trying but failing to reach for the correct container. 
 Participants had no problem getting the reward in this case, suggesting that they understood the goal of the failed reach.
 In the condition depicted in the right panel, a human pointed at the correct container.
-Participants did not reliably  get the reward in this case, suggesting that they failed to understand the goal of the pointing action.
+Participants did not reliably  get the reward in this case, suggesting that they failed to understand the goal of the pointing action.%
+\footnote{
+The contrast between the two conditions is not due merely to the fact that one involves a human and the other a chimpanzee.
+Participants were also successful when the failed reach was executed by a human rather than another chimpanzee \citep[][experiment 1]{hare_chimpanzees_2004}. 
+}
 This may be because of the problem of opaque means.
 One theoretically possible explanation of these findings is that the participants could identify to which end a failed reach might be a means, but not to which end a communicative gesture might be a means.%
 \footnote{
-*quote Moll \& Tomasello
+Hare and Tomasello 
+consider several explanations for their findings including `the hypothesis that chimpanzees do not understand the communicative intent of a cooperative-communicative experimenter' (\citeyear[p.\ 580]{hare_chimpanzees_2004}).
+\citet[pp.\ 5--7]{Moll:2007gu} argue for a hypothesis along these lines by appeal to a range of related findings.
 }
 Whatever the truth about the chimpanzees' performance,
 this possibility illustrates how the problem of opaque means can be an obstacle to exploiting communicative gestures.
 
-
-***FIGURE***
+\begin{figure}
+\begin{center}
+\includegraphics[width=12cm]{figure_hare_toma_2004_e3.png}
+\caption{
+\label{fig:reach_point}
+	A failed reach (left) and a helpful point (right).
+	Reproduced from \citet[p.\ 557, figure 4]{hare_chimpanzees_2004}.
+}
+\end{center}
+\end{figure}
 
 This, then, is the problem of opaque means:
 failures to identify to which ends actions are means can impair goal ascription.
@@ -216,29 +232,30 @@ Of course this intuitive idea won't work as it stands.
 For the inference it captures relies on the premise that the interpreter and her target are engaged in joint action.
 But for the interpreter to know this premise---for her to know that they are engaged in joint action---it seems she must   already know which goal her target's actions are directed to.
 Worse,
-on many accounts of joint action the truth of the premise  entails that the interpreter knows the goal of her target's actions.%
+on many accounts of joint action the mere truth of the premise  would require the interpreter to know the goal of her target's actions.%
 \footnote{
 *ref}
 Apparently, then, engaging in joint action presupposes, and therefore cannot be a source of, knowledge of others' goals. 
 
 Fortunately there is a way around this.  
 For there are various cues which signal that one agent is prepared to engage in joint action with another.  
-Seeing a new parent struggling to get his twin pram on to the bus, you grab the front wheels and make eye contact, raising your eyebrows and smiling.  
-In this way you signal both that you are disposed to help 
-and 
-that are about to engage in joint action with the stranger.  
+\label{twin_pram}
+Seeing a stranger with the haggard look of a new parent struggling to get his twin pram on to the bus, you grab the front wheels and make eye contact, raising your eyebrows and smiling.
+(The noise of the street rules out talking, 
+and you can barely speak the local language anyway.)   
+In this way you signal that you are about to act jointly with the stranger, to lift the pram with him.   
 Since the stranger is fully committed to getting his pram onto the bus,
 he knows what the goals of his own actions will be.
-This makes enables him to infer the goal of your immanent actions: 
+This enables him to infer the goal of your imminent actions: 
 your goal is his goal, to get the pram onto the bus.
 
 Our suggestion, then, is that the following inference characterises a route to knowledge of others’ goals:
 %
 \begin{enumerate}
-\item We are about to engage in some joint action\footnote{
+\item You are willing to engage in some joint action\footnote{
 *What notion of joint action is needed here?  Any will do as long as it involves distributive goals.
 }
-or other 
+or other with me
 %(for example, because you have made eye contact with me while I was in the middle of attempting to do something).
 
 \item I am not about to change which goal my actions will be directed to.
@@ -249,13 +266,13 @@ Therefore:
 %
 \begin{enumerate}[resume]
 %
-\item The goal of your actions will be my goal.
+\item A goal of your actions will be my goal, the goal I now envisage that my actions will be directed to.
 \end{enumerate}
 %
 Call this the \emph{your-goal-is-my-goal inference}.  
 To say that this inference characterises a route to knowledge implies two things.  
 First, in some cases it is possible to know the premises, 1–2, without already knowing the conclusion, 3.  
-Second, in some cases knowing the two premises puts one in a position to know the conclusion.  
+Second, in some of those cases knowing the premises would put one in a position to know the conclusion.  
 We shall consider these points in turn
 
 
@@ -263,32 +280,151 @@ Is it ever possible to know the premises without first knowing the conclusion?
 Consider the first premise.  
 Sometimes 
 in the right contexts
-you can see in others’ facial expressions, engaging gestures or synchronized bodily movements that they are about to engage in joint action with you.  
+an individual can recognize in another's facial expressions, engaging gestures or synchronized bodily movements that she are about to engage in joint action with him.
 Exploiting these indicators does not typically depend on knowing the particular contents of any of their beliefs, desires or goals.  
-Expressions, gestures and movements can naturally indicate imminent jointness in much the way that can also naturally indicate emotions.\footnote{
+Expressions, gestures and movements can naturally indicate imminent jointness in much the way thay can also naturally indicate emotions.\footnote{
 Ideas along these lines are suggested by the discussion of \emph{emergent coordination} in \citet{Knoblich:2010fk}.
 }  
-Of course these indicators provide no guarantee that others are about to helpfully engage in joint action with you.  
+Of course these indicators provide no guarantee that others are genuinely willing to engage in joint action.  
 But they are sufficiently reliable to ground knowledge in some cases.  
-So knowing the first two premises of the above inference does not require already knowing which particular goals others have.  
+The existence of such indicators shows that knowing the first  premise of the above inference does not require already knowing which particular goals the other has.  
 
-On this point not everything needs to rest on indicators of imminent jointness.
-It is sometimes possible to know that others are about to engage in joint action with you even without relying on such indicators.  
-Thanks to widespread dispositions to act jointly, in some situations it is reasonable to take for granted that others are disposed to be helpful and will act jointly with you.  
-For example, this is often so for children surrounded by family or familiar adults who are having difficulty with a task.  
-And in some cultures parents with struggling small children on public transport (say) can reasonably take for granted that those around them will act jointly with them when the need is clear.
+Not everything needs to rest on indicators, however.
+It is sometimes possible to know that others are about to willing in joint action with you even without relying on such indicators.  
+Thanks to widespread dispositions to act jointly, in some situations it is reasonable to take for granted that others are willing to act jointly.  
+For example, this is often so for children surrounded by family or familiar adults who are struggling with a coat.  
+And in at least some subcultures people using public transport can reasonably take for granted that, within limits, those around them will act jointly with them when the need is clear.
+Of course dispositions to engage in joint action may vary between cultural groups and situations.
+This may be fatal for the peripatetic cosmopolitan,
+but for others what matters is not whether the dispositions are universal but only that they are sufficiently widespread to be predictable.
 
-Does knowing the premises of the your-goal-is-my-goal inference sometimes put one in a position to know the conclusion?  
-If you know that others are about to engage in joint action with you, it is sometimes reasonable to infer that the outcome to which the joint action will be directed is the very outcome you are currently concerned with.  
-Given the account of joint action in Section 6 above, this means that the others each have an individual goal whose fulfilment requires this outcome to occur.  
-So knowing the outcome to which a joint action will be directed puts one in a position to know something about which goals the others have.  
-Of course the inference this rests on is not deductive and will only be correct when certain background conditions are met.  
-These background conditions include the others having largely true beliefs concerning which outcome you are concerned with; I return to this point below.  
+Turning to the second point,
+does knowing the premises of the your-goal-is-my-goal inference sometimes put one in a position to know the conclusion?  
+Of course the inference is not deductive and will only work when certain background conditions are met.  
+These background conditions include the other having largely true beliefs concerning which goal your actions are or will be directed to.
+After all, the other agent may be willing to act jointly with you while being entirely mistaken about the goals to which your actions will be directed.
+Where this happens, the premises of the inference might be true but the conclusion false.
+(We return to this point in section \vref{sec:false_belief}.)  
+But there are situations in which it is reasonable  to ignore  this possibility, as for instance when stereotypes, conventions or simplicity should and do make the goal of your actions obvious to the other agent.
+Given the right conditions,
+that others are willing to engage in joint action with you 
+is sometimes sufficient reason to hold that
+you will end up acting jointly with them
+ even where the goal to which your actions will be directed is already fixed.
+
+In short, then, the two requirements for the your-goal-is-my-goal inference to characterise a route to knowledge are met.  
+In some cases it is possible to know the premises without already knowing the conclusion thanks to natural expressions of willingness to engage in joint action.  
+And knowing the premises sometimes puts one in a position to know the conclusion thanks to the fact that, when things are going well, another's willingness to engage in joint action with you can be based on an accurate assessment of the goals of your actions.
+
+The your-goal-is-my-goal route to knowledge is characterised by an inference.  
+However, exploiting this route to knowledge may not require actually making the inference or knowing the premises.  
+Depending on what knowing requires,
+it may be sufficient to believe the conclusion because one has reliably detected a situation in which the premises of the inference are true;
+it may not be necessary to think of this situation as a situation where the premises are true,
+nor even to be able to think of it in this way.
+
+Our aim in identifying the your-goal-is-my-goal is not to 
+defend a detailed hypothesis about the mechanisms and processes involved in mindreading.
+Instead our present concerns are limited to a normative question about the evidential basis of mindreading.
+The your-goal-is-my-goal inference matters
+not because it describes how interpreters actually assign goals
+but because 
+its existence reveals that interacting mindreaders can have access to evidence unavailable to those relying entirely on observation.
+ 
+
+\section{Avoiding the problem of opaque means}
+
+The problem of opaque means was this:
+ failures to identify to which ends actions are means can impair goal ascription (see section \vref{sec:opaque_means}).
+%As we saw, this problem is particularly likely to arise in cases involving novel tools and communicative gestures.
+Showing how your-goal-is-my-goal makes  avoiding this problem possible is a way of demonstrating the potential value  to mindreaders of interaction. 
+
+In our earlier example 
+a novice parent is struggling to lift his heavy twin pram onto a bus when a stranger joins in and they lift the pram together (\vpageref*{twin_pram}).
+Suppose the stranger starts tipping the pram in a way that the inexperienced parent fails to recognise as a means, indeed the only means, of getting it onto the bus.
+Outside the context of joint action this might give the parent sufficient evidence to reject the idea that the goal of the stranger's actions is to get the pram onto this bus.
+Or suppose the stranger starts by pulling the pram away from the bus in order to better position it for entry,
+and the novice parent does not realise that this is necessary.
+Outside the context of joint action, 
+his evidence might on balance support the conclusion that the goal of the stranger's actions is to take the pram off the bus.
+(Perhaps the stranger is impatient to get onto the bus herself.)
+But in the context of joint action,
+your-goal-is-my goal gives the parent  additional evidence for supposing that, 
+even though the stranger's actions do not seem to him to be a means to getting the pram onto the bus, 
+this really is the goal of her actions.
+Of course this additional evidence will not necessarily trump   other evidence.
+But it does provide a possible way around the problem of opaque means by providing evidence for goal ascriptions that is independent of a mindreader's understanding of which ends actions are means to.
+
+We saw earlier that the problem of opaque means  may impair goal ascription where actions involve novel uses for tools.
+How could your-goal-is-my-goal mitigate the problem in such cases?
+Imagine we are interacting with a young child,
+Katarina,
+and want her to understand how a new tool is used.  
+It is difficult to convey this to her directly.  
+So we first get her interested in achieving an outcome that would require the new tool,
+knowing that she will perform actions directed to achieving this outcome.  
+We then signal to Katarina that we are willing to act jointly with her.  
+Now she is in a position to know what the goal of our action will be when we deploy the tool.  
+She is able to identify this goal 
+despite being unable to recognize it as an end to which our tool-using action is a means.
+She is able to identify this goal 
+because she knows that this is her goal
+and that we were willing to engage in joint action with her.
+This is one illustration of how 
+interacting mindreaders have at their disposal ways of
+identifying the goals of actions involving novel uses of tools
+which are unavailable to mindreaders who can only observe.
+
+
+As this example indicates,
+exploiting your-goal-is-my-goal 
+can shift the burden of identifying goals from a mindreader to her target.
+In the example Katarina is the focal mindreader and we are her target;
+but her success in identifying the goal of our actions
+depends on this,
+that our willingness to act jointly with her is based on \emph{our} knowledge of the goals of \emph{her} actions.
+In purely observational mindreading, the target's beliefs about the goals of the mindreader's actions are not normally relevant (except, of course, when the mindreader is ascribing such beliefs).
+But interacting mindreaders who rely on your-goal-is-my-goal
+thereby rely on their targets' having correctly identified the goals of their actions.
+Of course this is sometimes a reason not to rely on your-goal-is-my-goal.
+But where the target has better understanding of relevant means-ends relations,
+such as actions involving novel tools,
+the your-goal-is-my-goal route to knowledge of other's goals is sometimes the only option.
+
+The distant promise of all this is that 
+understanding how interaction widens the evidential basis for mindreading
+may eventually enable us to explain
+the origins (in evolution or development, and ideally both) of abilities to learn novel and opaque uses for tools from other agents
+without assuming that 
+rich communicative skills
+or 
+sophisticated forms of mindreading 
+%(such as the ability to ascribe propositional attitudes)
+must already be  present.
+
+
+\section{Communicative gestures}
+When introducing the problem of opaque means 
+(in section \vref{sec:opaque_means})
+we suggested that it could sometimes affect
+communicative actions.
+To illustrate this suggestion we drew on 
+an experiment by \citet{hare_chimpanzees_2004}
+in which participants had to find a reward 
+and were helped either by a failed reach or by a helpful point to the target location.
+Strikingly, for chimpanzees the helpful point is no help at all---even though it superficially resembles the failed reach, which occurred first and did help.
+Taking this paradigm as our case study, 
+we want to suggest that your-goal-is-my-goal might 
+enable us to understand how abilities to engage in joint action 
+could be part of what enables mindreaders to make the transation from 
+a simple understanding of goals 
+to 
+understanding of communicative intent.
 
 
 
-
-\section{The problem of false belief [move to later]}
+\section{The problem of false belief}
+\label{sec:false_belief}
 We have just seen that 
 failure to identify to which ends actions are means can impair goal ascription; this was the problem of opaque means.
 Another problem 

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.2-0.9995.2 (TeX Live 2009) (format=xelatex 2010.8.4)  14 DEC 2011 22:04
+This is XeTeX, Version 3.1415926-2.2-0.9995.2 (TeX Live 2009) (format=xelatex 2010.8.4)  16 DEC 2011 18:45
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
@@ -15,8 +15,8 @@ lish, portuguese, romanian, russian, sanskrit, serbian, slovak, slovenian, span
 ish, swedish, turkish, ukenglish, ukrainian, uppersorbian, welsh, loaded.
 (/usr/local/texlive/2009/texmf-dist/tex/latex/extsizes/extarticle.cls
 Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
-(/usr/local/texlive/2009/texmf-dist/tex/latex/base/size12.clo
-File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+(/usr/local/texlive/2009/texmf-dist/tex/latex/extsizes/size14.clo
+File: size14.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
 )
 (/usr/local/texlive/2009/texmf-dist/tex/latex/base/exscale.sty
 Package: exscale 2007/10/29 v2.1h Standard LaTeX package exscale
@@ -396,12 +396,28 @@ Package: titlesec 2007/08/12 v2.8 Sectioning titles
 \titlewidthlast=\dimen151
 \titlewidthfirst=\dimen152
 )
+(/usr/local/texlive/2009/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2009/10/09 v3.1k Customizing captions (AR)
+
+(/usr/local/texlive/2009/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2009/10/09 v3.1k caption3 kernel (AR)
+\captionmargin=\dimen153
+\captionmargin@=\dimen154
+\captionwidth=\dimen155
+\caption@indent=\dimen156
+\caption@parindent=\dimen157
+\caption@hangindent=\dimen158
+)
+\c@ContinuedFloat=\count121
+Package caption Info: hyperref package is loaded.
+Package caption Info: rotating package is loaded.
+)
 (/usr/local/texlive/2009/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2009/05/18 v2.2 Customized lists
 \enit@toks=\toks27
 \labelindent=\skip55
-\enit@outerparindent=\dimen153
-\enitdp@desc=\count121
+\enit@outerparindent=\dimen159
+\enitdp@desc=\count122
 )
 (/usr/local/texlive/2009/texmf-dist/tex/latex/titling/titling.sty
 Package: titling 2009/09/04 v2.1d maketitle typesetting
@@ -455,14 +471,14 @@ driver: pdftex
 \textheight 625.96062pt
 \oddsidemargin  41.54103pt
 \evensidemargin 41.54103pt
-\topmargin  -22.41148pt
-\headheight 12.0pt
-\headsep    23.49976pt
+\topmargin  -29.1114pt
+\headheight 14.0pt
+\headsep    28.19968pt
 \footskip   28.45274pt
-\marginparwidth 35.0pt
+\marginparwidth 15.0pt
 \marginparsep   10.0pt
 \columnsep  10.0pt
-\skip\footins  10.8pt plus 4.0pt minus 2.0pt
+\skip\footins  12.0pt plus 4.0pt minus 2.0pt
 \hoffset 0.0pt
 \voffset 0.0pt
 \mag 1000
@@ -548,7 +564,7 @@ Package: nameref 2007/05/29 v2.31 Cross-referencing by name of section
 (/usr/local/texlive/2009/texmf-dist/tex/latex/oberdiek/refcount.sty
 Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
 )
-\c@section@level=\count122
+\c@section@level=\count123
 LaTeX Info: Redefining \Ref on input line 396.
 )
 LaTeX Info: Redefining \ref on input line 17.
@@ -560,28 +576,72 @@ LaTeX Info: Redefining \pageref on input line 17.
 
 \AtBeginShipoutBox=\box33
 LaTeX Info: Redefining \Ref on input line 17.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <6> on input line 23.
+(Font)              <7> on input line 23.
 
 
 Package hyperref Warning: No destination for bookmark of \addcontentsline,
 (hyperref)                destination is added on input line 31.
 
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <7> on input line 53.
-LaTeX Font Info:    External font `cmex7' loaded for size
 (Font)              <5> on input line 53.
 [1
 
-] [2] [3] [4] [5] [6] [7] [8] [9] (./interacting mindreaders.2.bbl [10])
-[11] (./interacting mindreaders.2.aux) ) 
-Here is how much of TeX's memory you used:
- 10055 strings out of 494665
- 161533 string characters out of 3163744
- 262407 words of memory out of 3000000
- 13115 multiletter control sequences out of 15000+200000
- 7877 words of font info for 53 fonts, out of 3000000 for 9000
- 669 hyphenation exceptions out of 8191
- 41i,8n,48p,681b,437s stack positions out of 5000i,500n,10000p,200000b,50000s
+] [2]
+Overfull \hbox (10.07732pt too wide) in paragraph at lines 115--137
+\EU1/LinuxLibertineO(0)/m/n/14.4 times includes considerations about which ends
+ actions are means
+ []
 
-Output written on interacting mindreaders.2.pdf (11 pages).
+[3] [4]
+File: figure_hare_toma_2004_e3.png Graphic file (type QTm)
+ <use  "figure_hare_toma_2004_e3.png" > [5]
+Overfull \hbox (2.93015pt too wide) in paragraph at lines 203--212
+\EU1/LinuxLibertineO(0)/m/n/14.4 Our overall aim is to defend this claim: there
+ are routes to knowl-
+ []
+
+
+Overfull \hbox (2.28214pt too wide) in paragraph at lines 203--212
+\EU1/LinuxLibertineO(0)/m/n/14.4 preters who merely observe their targets but o
+pen to interpreters
+ []
+
+[6] [7] [8]
+Overfull \hbox (6.74223pt too wide) in paragraph at lines 319--325
+[]\EU1/LinuxLibertineO(0)/m/n/14.4 The your-goal-is-my-goal route to knowledge 
+is characterised
+ []
+
+[9] [10] [11]
+Overfull \hbox (6.89969pt too wide) in paragraph at lines 394--404
+\EU1/LinuxLibertineO(0)/m/n/14.4 communicative skills or sophisticated forms of
+ mindreading must
+ []
+
+[12] [13] [14] [15]
+Overfull \hbox (6.4645pt too wide) in paragraph at lines 572--574
+[]\EU1/LinuxLibertineO(0)/m/n/14.4 ‘goal attribution requires that agents exp
+end the least
+ []
+
+[16]
+Overfull \hbox (15.5013pt too wide) in paragraph at lines 584--598
+\EU1/LinuxLibertineO(0)/m/n/14.4 some agents may weigh the efficiency of altern
+ative actions against
+ []
+
+(./interacting mindreaders.2.bbl [17] [18]) [19]
+(./interacting mindreaders.2.aux) ) 
+Here is how much of TeX's memory you used:
+ 10959 strings out of 494665
+ 177824 string characters out of 3163744
+ 282558 words of memory out of 3000000
+ 14018 multiletter control sequences out of 15000+200000
+ 5709 words of font info for 45 fonts, out of 3000000 for 9000
+ 669 hyphenation exceptions out of 8191
+ 55i,8n,92p,681b,468s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on interacting mindreaders.2.pdf (19 pages).
