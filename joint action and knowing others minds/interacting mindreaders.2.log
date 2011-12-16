@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.2-0.9995.2 (TeX Live 2009) (format=xelatex 2010.8.4)  16 DEC 2011 18:45
+This is XeTeX, Version 3.1415926-2.2-0.9995.2 (TeX Live 2009) (format=xelatex 2010.8.4)  16 DEC 2011 23:23
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
@@ -598,50 +598,66 @@ Overfull \hbox (10.07732pt too wide) in paragraph at lines 115--137
 [3] [4]
 File: figure_hare_toma_2004_e3.png Graphic file (type QTm)
  <use  "figure_hare_toma_2004_e3.png" > [5]
-Overfull \hbox (2.93015pt too wide) in paragraph at lines 203--212
+Overfull \hbox (2.93015pt too wide) in paragraph at lines 204--213
 \EU1/LinuxLibertineO(0)/m/n/14.4 Our overall aim is to defend this claim: there
  are routes to knowl-
  []
 
 
-Overfull \hbox (2.28214pt too wide) in paragraph at lines 203--212
+Overfull \hbox (2.28214pt too wide) in paragraph at lines 204--213
 \EU1/LinuxLibertineO(0)/m/n/14.4 preters who merely observe their targets but o
 pen to interpreters
  []
 
 [6] [7] [8]
-Overfull \hbox (6.74223pt too wide) in paragraph at lines 319--325
+Overfull \hbox (6.74223pt too wide) in paragraph at lines 320--326
 []\EU1/LinuxLibertineO(0)/m/n/14.4 The your-goal-is-my-goal route to knowledge 
 is characterised
  []
 
 [9] [10] [11]
-Overfull \hbox (6.89969pt too wide) in paragraph at lines 394--404
+Overfull \hbox (6.89969pt too wide) in paragraph at lines 395--405
 \EU1/LinuxLibertineO(0)/m/n/14.4 communicative skills or sophisticated forms of
  mindreading must
  []
 
-[12] [13] [14] [15]
-Overfull \hbox (6.4645pt too wide) in paragraph at lines 572--574
+[12] [13]
+
+Package natbib Warning: Citation `Csibra:2003kp' on page 14 undefined on input 
+line 496.
+
+
+Package natbib Warning: Citation `Csibra:2003kp' on page 14 undefined on input 
+line 496.
+
+[14] [15] [16] [17]
+Overfull \hbox (6.4645pt too wide) in paragraph at lines 649--651
 []\EU1/LinuxLibertineO(0)/m/n/14.4 ‘goal attribution requires that agents exp
 end the least
  []
 
-[16]
-Overfull \hbox (15.5013pt too wide) in paragraph at lines 584--598
+[18]
+Overfull \hbox (15.5013pt too wide) in paragraph at lines 661--675
 \EU1/LinuxLibertineO(0)/m/n/14.4 some agents may weigh the efficiency of altern
 ative actions against
  []
 
-(./interacting mindreaders.2.bbl [17] [18]) [19]
-(./interacting mindreaders.2.aux) ) 
+(./interacting mindreaders.2.bbl [19] [20])
+
+Package natbib Warning: There were undefined citations.
+
+[21] (./interacting mindreaders.2.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 10959 strings out of 494665
- 177824 string characters out of 3163744
+ 10971 strings out of 494665
+ 178091 string characters out of 3163744
  282558 words of memory out of 3000000
- 14018 multiletter control sequences out of 15000+200000
- 5709 words of font info for 45 fonts, out of 3000000 for 9000
+ 14029 multiletter control sequences out of 15000+200000
+ 5717 words of font info for 46 fonts, out of 3000000 for 9000
  669 hyphenation exceptions out of 8191
  55i,8n,92p,681b,468s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on interacting mindreaders.2.pdf (19 pages).
+Output written on interacting mindreaders.2.pdf (21 pages).
