@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.2-0.9995.2 (TeX Live 2009) (format=xelatex 2010.8.4)  20 DEC 2011 18:31
+This is XeTeX, Version 3.1415926-2.2-0.9995.2 (TeX Live 2009) (format=xelatex 2010.8.4)  21 DEC 2011 00:01
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
@@ -581,92 +581,119 @@ Package caption Info: End \AtBeginDocument code.
 LaTeX Font Info:    External font `cmex7' loaded for size
 (Font)              <7> on input line 23.
 
+Overfull \hbox (7.20537pt too wide) in paragraph at lines 28--42
+\EU1/LinuxLibertineO(0)/m/n/12 answering this question, philosophers sometimes 
+focus on mere
+ []
+
+
+Overfull \hbox (1.58536pt too wide) in paragraph at lines 28--42
+\EU1/LinuxLibertineO(0)/m/n/12 know things about their thoughts and actions whi
+ch one might
+ []
+
 
 Package hyperref Warning: No destination for bookmark of \addcontentsline,
-(hyperref)                destination is added on input line 53.
+(hyperref)                destination is added on input line 57.
 
 [1
 
 ]
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <5> on input line 76.
- [2]
-Overfull \hbox (10.07732pt too wide) in paragraph at lines 138--155
+(Font)              <5> on input line 83.
+
+Overfull \hbox (19.86293pt too wide) in paragraph at lines 73--91
+\EU1/LinuxLibertineO(0)/m/n/14.4 overlook questions about its evidential basis.
+ Indeed, while philoso-
+ []
+
+[2]
+Overfull \hbox (1.4661pt too wide) in paragraph at lines 141--152
+\EU1/LinuxLibertineO(0)/m/n/14.4 identifying relations between actions and the 
+outcomes to which
+ []
+
+[3] [4] [5] [6]
+Overfull \hbox (10.07732pt too wide) in paragraph at lines 298--315
 \EU1/LinuxLibertineO(0)/m/n/14.4 times includes considerations about which ends
  actions are means
  []
 
-[3] [4]
+[7]
 File: figure_hare_toma_2004_e3.png Graphic file (type QTm)
- <use  "figure_hare_toma_2004_e3.png" > [5]
-Overfull \hbox (2.93015pt too wide) in paragraph at lines 230--239
+ <use  "figure_hare_toma_2004_e3.png" > [8]
+Overfull \hbox (2.93015pt too wide) in paragraph at lines 390--399
 \EU1/LinuxLibertineO(0)/m/n/14.4 Our overall aim is to defend this claim: there
  are routes to knowl-
  []
 
 
-Overfull \hbox (2.28214pt too wide) in paragraph at lines 230--239
+Overfull \hbox (2.28214pt too wide) in paragraph at lines 390--399
 \EU1/LinuxLibertineO(0)/m/n/14.4 preters who merely observe their targets but o
 pen to interpreters
  []
 
-[6] [7] [8] [9]
-Overfull \hbox (6.74223pt too wide) in paragraph at lines 346--352
+[9] [10] [11] [12]
+Overfull \hbox (6.74223pt too wide) in paragraph at lines 506--512
 []\EU1/LinuxLibertineO(0)/m/n/14.4 The your-goal-is-my-goal route to knowledge 
 is characterised
  []
 
-[10] [11] [12]
-Overfull \hbox (6.89969pt too wide) in paragraph at lines 436--446
+[13] [14] [15]
+Overfull \hbox (6.89969pt too wide) in paragraph at lines 596--606
 \EU1/LinuxLibertineO(0)/m/n/14.4 communicative skills or sophisticated forms of
  mindreading must
  []
 
-[13] [14]
-Overfull \hbox (12.28369pt too wide) in paragraph at lines 526--550
+[16] [17]
+Overfull \hbox (12.28369pt too wide) in paragraph at lines 686--710
 \EU1/LinuxLibertineO(0)/m/n/14.4 three-year-old children. In one condition part
 icipants were shown
  []
 
-[15] [16]
-Overfull \hbox (2.48465pt too wide) in paragraph at lines 614--638
+[18] [19]
+Overfull \hbox (2.48465pt too wide) in paragraph at lines 774--798
 []\EU1/LinuxLibertineO(0)/m/n/14.4 The problem of opaque means occurs when inte
 rpreters must
  []
 
-
-Overfull \hbox (0.65103pt too wide) in paragraph at lines 639--650
+[20]
+Overfull \hbox (0.65103pt too wide) in paragraph at lines 799--810
 []\EU1/LinuxLibertineO(0)/m/n/14.4 The your-goal-is-my-goal route to knowledge 
 sometimes en-
  []
 
-[17]
-Overfull \hbox (6.3477pt too wide) in paragraph at lines 666--671
+
+Overfull \hbox (6.3477pt too wide) in paragraph at lines 826--831
 \EU1/LinuxLibertineO(0)/m/n/14.4 interpreter with a route to knowledge of the g
 oals of other agents’
  []
 
-[18] [19] [20] [21] [22]
-Overfull \hbox (6.4645pt too wide) in paragraph at lines 874--876
+[21] [22] [23] [24]
+Overfull \hbox (6.4645pt too wide) in paragraph at lines 1002--1004
 []\EU1/LinuxLibertineO(0)/m/n/14.4 ‘goal attribution requires that agents exp
 end the least
  []
 
-
-Overfull \hbox (15.5013pt too wide) in paragraph at lines 886--900
+[25]
+Overfull \hbox (15.5013pt too wide) in paragraph at lines 1014--1028
 \EU1/LinuxLibertineO(0)/m/n/14.4 some agents may weigh the efficiency of altern
 ative actions against
  []
 
-[23] (./interacting mindreaders.2.bbl [24] [25]) [26]
-(./interacting mindreaders.2.aux) ) 
+(./interacting mindreaders.2.bbl [26] [27] [28]) [29]
+(./interacting mindreaders.2.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 10972 strings out of 494665
- 178060 string characters out of 3163744
- 283558 words of memory out of 3000000
- 14031 multiletter control sequences out of 15000+200000
+ 11000 strings out of 494665
+ 178725 string characters out of 3163744
+ 282558 words of memory out of 3000000
+ 14059 multiletter control sequences out of 15000+200000
  5709 words of font info for 45 fonts, out of 3000000 for 9000
  669 hyphenation exceptions out of 8191
  55i,8n,92p,681b,468s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on interacting mindreaders.2.pdf (26 pages).
+Output written on interacting mindreaders.2.pdf (29 pages).

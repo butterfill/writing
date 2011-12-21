@@ -31,11 +31,16 @@ Csibra, G. \& Gergely, G. (1998).
   developmental hypothesis.
 \newblock {\em Developmental Science}, {\em 1\/}(2), 255--259.
 
-\bibitem[\protect\citeauthoryear{Davidson}{Davidson}{1984}]{Davidson:1974gh}
-Davidson, D. (1974 [1984]).
+\bibitem[\protect\citeauthoryear{Davidson}{Davidson}{1984a}]{Davidson:1974gh}
+Davidson, D. (1974 [1984]a).
 \newblock Belief and the basis of meaning.
 \newblock In {\em Inquiries into Truth and Interpretation}  (pp.\ 155--170).
   Oxford: Oxford University Press.
+
+\bibitem[\protect\citeauthoryear{Davidson}{Davidson}{1984b}]{Davidson:1984wh}
+Davidson, D. (1984b).
+\newblock {\em Inquiries into Truth and Interpretation}.
+\newblock Oxford: Oxford University Press.
 
 \bibitem[\protect\citeauthoryear{Davidson}{Davidson}{1973}]{Davidson:1973jx}
 Davidson, D. ([1984] 1973).
@@ -52,6 +57,21 @@ Davidson, D. (1990).
 Dennett, D. (1987).
 \newblock {\em The Intentional Stance}.
 \newblock Cambridge, Mass.: MIT Press.
+
+\bibitem[\protect\citeauthoryear{Ferguson \& Breheny}{Ferguson \&
+  Breheny}{2011}]{ferguson_eye_2011}
+Ferguson, H.~J. \& Breheny, R. (2011).
+\newblock Eye movements reveal the time-course of anticipating behaviour based
+  on complex, conflicting desires.
+\newblock {\em Cognition}, {\em 119\/}(2), 179--196.
+
+\bibitem[\protect\citeauthoryear{Ferguson \& Breheny}{Ferguson \&
+  Breheny}{2012}]{ferguson_listeners_2012}
+Ferguson, H.~J. \& Breheny, R. (2012).
+\newblock Listeners' eyes reveal spontaneous sensitivity to others'
+  perspectives.
+\newblock {\em Journal of Experimental Social Psychology}, {\em 48\/}(1),
+  257--263.
 
 \bibitem[\protect\citeauthoryear{Gergely, Nadasky, Csibra \& Biro}{Gergely
   et~al.}{1995}]{Gergely:1995sq}
@@ -73,12 +93,25 @@ Horner, V. \& Whiten, A. (2005).
   (pan troglodytes) and children (homo sapiens).
 \newblock {\em Animal Cognition}, {\em 8}, 164--181.
 
+\bibitem[\protect\citeauthoryear{Keysar, Lin \& Barr}{Keysar
+  et~al.}{2003}]{Keysar:2003xu}
+Keysar, B., Lin, S., \& Barr, D.~J. (2003).
+\newblock Limits on theory of mind use in adults.
+\newblock {\em Cognition}, {\em 89\/}(1), 25--41.
+
 \bibitem[\protect\citeauthoryear{Knoblich, Butterfill \& Sebanz}{Knoblich
   et~al.}{2010}]{Knoblich:2010fk}
 Knoblich, G., Butterfill, S., \& Sebanz, N. (2010).
 \newblock Psychological research on joint action: Theory and data.
 \newblock In B.~Ross (Ed.), {\em Psychology of Learning and Motivation},
   volume~51. Academic Press.
+
+\bibitem[\protect\citeauthoryear{Knoblich \& Sebanz}{Knoblich \&
+  Sebanz}{2006}]{Knoblich:2006bn}
+Knoblich, G. \& Sebanz, N. (2006).
+\newblock The social nature of perception and action.
+\newblock {\em Current Directions in Psychological Science}, {\em 15\/}(3),
+  99--104.
 
 \bibitem[\protect\citeauthoryear{Leekam, Solomon \& Teoh}{Leekam
   et~al.}{2010}]{leekam_adults_2010}
@@ -100,6 +133,20 @@ Moll, H. \& Tomasello, M. (2007).
   hypothesis.
 \newblock {\em Philosophical Transactions of the Royal Society B}, {\em
   362\/}(1480), 639--648.
+
+\bibitem[\protect\citeauthoryear{Povinelli}{Povinelli}{2001}]{Povinelli:2001jf}
+Povinelli, D.~J. (2001).
+\newblock On the possibility of detecting intentions prior to understanding
+  tem.
+\newblock In B.~F. Malle, L.~Moses, \& D.~A. Baldwin (Eds.), {\em Intentions
+  and Intentionality}  (pp.\ 225--248). Cambridge, MA: MIT Press.
+
+\bibitem[\protect\citeauthoryear{Senju, Southgate, White \& Frith}{Senju
+  et~al.}{2009}]{senju_mindblind_2009}
+Senju, A., Southgate, V., White, S., \& Frith, U. (2009).
+\newblock Mindblind eyes: An absence of spontaneous theory of mind in asperger
+  syndrome.
+\newblock {\em Science}, {\em 325\/}(5942), 883--885.
 
 \bibitem[\protect\citeauthoryear{Southgate, Johnson \& Csibra}{Southgate
   et~al.}{2008}]{Southgate:2008el}
