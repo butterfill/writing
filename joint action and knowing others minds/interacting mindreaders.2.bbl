@@ -2,8 +2,14 @@
 
 \bibitem[\protect\citeauthoryear{Apperly}{Apperly}{2010}]{Apperly:2010kx}
 Apperly, I.~A. (2010).
-\newblock {\em Mindreaders: The Cognitive Basis of "Theory of Mind"}.
+\newblock {\em Mindreaders: The Cognitive Basis of ``Theory of Mind''}.
 \newblock Hove: Psychology Press.
+
+\bibitem[\protect\citeauthoryear{Apperly \& Butterfill}{Apperly \&
+  Butterfill}{2009}]{Apperly:2009ju}
+Apperly, I.~A. \& Butterfill, S. (2009).
+\newblock Do humans have two systems to track beliefs and belief-like states?
+\newblock {\em Psychological Review}, {\em 2009\/}(116), 4.
 
 \bibitem[\protect\citeauthoryear{Baillargeon, Scott \& He}{Baillargeon
   et~al.}{2010}]{Baillargeon:gx}
@@ -15,6 +21,15 @@ Baillargeon, R., Scott, R.~M., \& He, Z. (2010).
 Bennett, J. (1976).
 \newblock {\em Linguistic Behaviour}.
 \newblock Cambridge: Cambridge University Press.
+
+\bibitem[\protect\citeauthoryear{Call \& Tomasello}{Call \&
+  Tomasello}{2005}]{Call:2005qe}
+Call, J. \& Tomasello, M. (2005).
+\newblock What chimpanzees know about seeing revisited: An explanation of the
+  third kind.
+\newblock In N.~Eilan, C.~Hoerl, T.~McCormack, \& J.~Roessler (Eds.), {\em
+  Joint Attention:Communication and other Minds}  (pp.\ 45--64). Oxford: Oxford
+  University Press.
 
 \bibitem[\protect\citeauthoryear{Csibra}{Csibra}{2003}]{Csibra:2003kp}
 Csibra, G. (2003).
@@ -36,14 +51,8 @@ Csibra, G. \& Gergely, G. (1998).
   developmental hypothesis.
 \newblock {\em Developmental Science}, {\em 1\/}(2), 255--259.
 
-\bibitem[\protect\citeauthoryear{Davidson}{Davidson}{1984a}]{Davidson:1974gh}
-Davidson, D. (1974 [1984]a).
-\newblock Belief and the basis of meaning.
-\newblock In {\em Inquiries into Truth and Interpretation}  (pp.\ 155--170).
-  Oxford: Oxford University Press.
-
-\bibitem[\protect\citeauthoryear{Davidson}{Davidson}{1984b}]{Davidson:1984wh}
-Davidson, D. (1984b).
+\bibitem[\protect\citeauthoryear{Davidson}{Davidson}{1984}]{Davidson:1984wh}
+Davidson, D. (1984).
 \newblock {\em Inquiries into Truth and Interpretation}.
 \newblock Oxford: Oxford University Press.
 
@@ -62,6 +71,11 @@ Davidson, D. (1990).
 Dennett, D. (1987).
 \newblock {\em The Intentional Stance}.
 \newblock Cambridge, Mass.: MIT Press.
+
+\bibitem[\protect\citeauthoryear{Doherty}{Doherty}{2006}]{Doherty:2006wz}
+Doherty, M.~J. (2006).
+\newblock The development of mentalistic gaze understanding.
+\newblock {\em Infant and Child Development}, {\em 15}, 179--186.
 
 \bibitem[\protect\citeauthoryear{Gergely, Nadasky, Csibra \& Biro}{Gergely
   et~al.}{1995}]{Gergely:1995sq}
@@ -145,6 +159,13 @@ Moll, H. \& Tomasello, M. (2007).
 \newblock {\em Philosophical Transactions of the Royal Society B}, {\em
   362\/}(1480), 639--648.
 
+\bibitem[\protect\citeauthoryear{O'Neill}{O'Neill}{2005}]{ONeill:2005ff}
+O'Neill, D.~K. (2005).
+\newblock Talking about "new" information: The given/new distinction and
+  children's developing theory of mind.
+\newblock In J.~Astington \& J.~A. Baird (Eds.), {\em Why language matters for
+  theory of mind}  (pp.\ 84--105). Oxford: Oxford University Press.
+
 \bibitem[\protect\citeauthoryear{Povinelli}{Povinelli}{2001}]{Povinelli:2001jf}
 Povinelli, D.~J. (2001).
 \newblock On the possibility of detecting intentions prior to understanding
@@ -182,6 +203,13 @@ Want, S. \& Harris, P. (2001).
 Warneken, F., Hare, B., Melis, A.~P., Hanus, D., \& Tomasello, M. (2007).
 \newblock Spontaneous altruism by chimpanzees and young children.
 \newblock {\em {PLoS} Biol}, {\em 5\/}(7), e184.
+
+\bibitem[\protect\citeauthoryear{Wellman \& Phillips}{Wellman \&
+  Phillips}{2001}]{Wellman:2001if}
+Wellman, H.~M. \& Phillips, A.~T. (2001).
+\newblock Developing intentional understandings.
+\newblock In B.~F. Malle, L.~Moses, \& D.~A. Baldwin (Eds.), {\em Intentions
+  and Intentionality}  (pp.\ 225--248). Cambridge, MA: MIT Press.
 
 \bibitem[\protect\citeauthoryear{Wimmer \& Mayringer}{Wimmer \&
   Mayringer}{1998}]{Wimmer:1998kx}
