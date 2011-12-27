@@ -1,5 +1,10 @@
 \begin{thebibliography}{}
 
+\bibitem[\protect\citeauthoryear{Apperly}{Apperly}{2010}]{Apperly:2010kx}
+Apperly, I.~A. (2010).
+\newblock {\em Mindreaders: The Cognitive Basis of "Theory of Mind"}.
+\newblock Hove: Psychology Press.
+
 \bibitem[\protect\citeauthoryear{Baillargeon, Scott \& He}{Baillargeon
   et~al.}{2010}]{Baillargeon:gx}
 Baillargeon, R., Scott, R.~M., \& He, Z. (2010).
@@ -58,26 +63,17 @@ Dennett, D. (1987).
 \newblock {\em The Intentional Stance}.
 \newblock Cambridge, Mass.: MIT Press.
 
-\bibitem[\protect\citeauthoryear{Ferguson \& Breheny}{Ferguson \&
-  Breheny}{2011}]{ferguson_eye_2011}
-Ferguson, H.~J. \& Breheny, R. (2011).
-\newblock Eye movements reveal the time-course of anticipating behaviour based
-  on complex, conflicting desires.
-\newblock {\em Cognition}, {\em 119\/}(2), 179--196.
-
-\bibitem[\protect\citeauthoryear{Ferguson \& Breheny}{Ferguson \&
-  Breheny}{2012}]{ferguson_listeners_2012}
-Ferguson, H.~J. \& Breheny, R. (2012).
-\newblock Listeners' eyes reveal spontaneous sensitivity to others'
-  perspectives.
-\newblock {\em Journal of Experimental Social Psychology}, {\em 48\/}(1),
-  257--263.
-
 \bibitem[\protect\citeauthoryear{Gergely, Nadasky, Csibra \& Biro}{Gergely
   et~al.}{1995}]{Gergely:1995sq}
 Gergely, G., Nadasky, Z., Csibra, G., \& Biro, S. (1995).
 \newblock Taking the intentional stance at 12 months of age.
 \newblock {\em Cognition}, {\em 56}, 165--193.
+
+\bibitem[\protect\citeauthoryear{Hare, Call \& Tomasello}{Hare
+  et~al.}{2001}]{Hare:2001ph}
+Hare, B., Call, J., \& Tomasello, M. (2001).
+\newblock Do chimpanzees know what conspecifics know?
+\newblock {\em Animal Behaviour}, {\em 61\/}(1), 139--151.
 
 \bibitem[\protect\citeauthoryear{Hare \& Tomasello}{Hare \&
   Tomasello}{2004}]{hare_chimpanzees_2004}
@@ -86,11 +82,21 @@ Hare, B. \& Tomasello, M. (2004).
   cognitive tasks.
 \newblock {\em Animal Behaviour}, {\em 68\/}(3), 571--581.
 
-\bibitem[\protect\citeauthoryear{Keysar, Lin \& Barr}{Keysar
-  et~al.}{2003}]{Keysar:2003xu}
-Keysar, B., Lin, S., \& Barr, D.~J. (2003).
-\newblock Limits on theory of mind use in adults.
-\newblock {\em Cognition}, {\em 89\/}(1), 25--41.
+\bibitem[\protect\citeauthoryear{Hughes, Fujisawa, Ensor, Lecce \&
+  Marfleet}{Hughes et~al.}{2006}]{Hughes:2006fu}
+Hughes, C., Fujisawa, K.~K., Ensor, R., Lecce, S., \& Marfleet, R. (2006).
+\newblock Cooperation and conversations about the mind: A study of individual
+  differences in 2-year-olds and their siblings.
+\newblock {\em British Journal of Developmental Psychology}, {\em 24\/}(1),
+  53--72.
+
+\bibitem[\protect\citeauthoryear{Hughes \& Leekam}{Hughes \&
+  Leekam}{2004}]{Hughes:2004zj}
+Hughes, C. \& Leekam, S. (2004).
+\newblock What are the links between theory of mind and social relations?
+  review, reflections and new directions for studies of typical and atypical
+  development.
+\newblock {\em Social Development}, {\em 13\/}(4), 590--619.
 
 \bibitem[\protect\citeauthoryear{Knoblich, Butterfill \& Sebanz}{Knoblich
   et~al.}{2010}]{Knoblich:2010fk}
@@ -124,6 +130,13 @@ Lewis, D. (1974).
 \newblock Radical interpretation.
 \newblock {\em Synthese}, {\em 27\/}(3-4), 331--344.
 
+\bibitem[\protect\citeauthoryear{Liszkowski, Carpenter \& Tomasello}{Liszkowski
+  et~al.}{2008}]{Liszkowski:2008al}
+Liszkowski, U., Carpenter, M., \& Tomasello, M. (2008).
+\newblock Twelve-month-olds communicate helpfully and appropriately for
+  knowledgeable and ignorant partners.
+\newblock {\em Cognition}, {\em 108\/}(3), 732--739.
+
 \bibitem[\protect\citeauthoryear{Moll \& Tomasello}{Moll \&
   Tomasello}{2007}]{Moll:2007gu}
 Moll, H. \& Tomasello, M. (2007).
@@ -139,18 +152,23 @@ Povinelli, D.~J. (2001).
 \newblock In B.~F. Malle, L.~Moses, \& D.~A. Baldwin (Eds.), {\em Intentions
   and Intentionality}  (pp.\ 225--248). Cambridge, MA: MIT Press.
 
-\bibitem[\protect\citeauthoryear{Senju, Southgate, White \& Frith}{Senju
-  et~al.}{2009}]{senju_mindblind_2009}
-Senju, A., Southgate, V., White, S., \& Frith, U. (2009).
-\newblock Mindblind eyes: An absence of spontaneous theory of mind in asperger
-  syndrome.
-\newblock {\em Science}, {\em 325\/}(5942), 883--885.
-
 \bibitem[\protect\citeauthoryear{Southgate, Johnson \& Csibra}{Southgate
   et~al.}{2008}]{Southgate:2008el}
 Southgate, V., Johnson, M.~H., \& Csibra, G. (2008).
 \newblock Infants attribute goals even to biomechanically impossible actions.
 \newblock {\em Cognition}, {\em 107\/}(3), 1059--1069.
+
+\bibitem[\protect\citeauthoryear{Tomasello}{Tomasello}{2008}]{tomasello:2008or%
+igins}
+Tomasello, M. (2008).
+\newblock {\em {Origins of human communication}}.
+\newblock The MIT Press.
+
+\bibitem[\protect\citeauthoryear{Tomasello \& Carpenter}{Tomasello \&
+  Carpenter}{2007}]{Tomasello:2007gl}
+Tomasello, M. \& Carpenter, M. (2007).
+\newblock Shared intentionality.
+\newblock {\em Developmental Science}, {\em 10\/}(1), 121--5.
 
 \bibitem[\protect\citeauthoryear{Want \& Harris}{Want \&
   Harris}{2001}]{Want:2001hp}
@@ -158,6 +176,12 @@ Want, S. \& Harris, P. (2001).
 \newblock Learning from other people's mistakes: Causal understanding in
   learning to use a tool.
 \newblock {\em Child Development}, {\em 72\/}(2), 431--443.
+
+\bibitem[\protect\citeauthoryear{Warneken, Hare, Melis, Hanus \&
+  Tomasello}{Warneken et~al.}{2007}]{warneken:2007sa}
+Warneken, F., Hare, B., Melis, A.~P., Hanus, D., \& Tomasello, M. (2007).
+\newblock Spontaneous altruism by chimpanzees and young children.
+\newblock {\em {PLoS} Biol}, {\em 5\/}(7), e184.
 
 \bibitem[\protect\citeauthoryear{Wimmer \& Mayringer}{Wimmer \&
   Mayringer}{1998}]{Wimmer:1998kx}

@@ -2,44 +2,44 @@ This is BibTeX, Version 0.99c (TeX Live 2009)
 The top-level auxiliary file: interacting mindreaders.2.aux
 The style file: newapa.bst
 Database file #1: $HOME/endnote/phd_biblio.bib
-You've used 27 entries,
+You've used 31 entries,
             2708 wiz_defined-function locations,
-            777 strings with 8633 characters,
-and the built_in function-call counts, 12185 in all, are:
-= -- 1111
-> -- 481
-< -- 23
-+ -- 178
-- -- 169
-* -- 1165
-:= -- 2273
-add.period$ -- 85
-call.type$ -- 27
-change.case$ -- 213
-chr.to.int$ -- 26
-cite$ -- 27
-duplicate$ -- 465
-empty$ -- 841
-format.name$ -- 214
-if$ -- 2272
+            799 strings with 9313 characters,
+and the built_in function-call counts, 13847 in all, are:
+= -- 1244
+> -- 570
+< -- 25
++ -- 211
+- -- 202
+* -- 1326
+:= -- 2611
+add.period$ -- 97
+call.type$ -- 31
+change.case$ -- 246
+chr.to.int$ -- 30
+cite$ -- 31
+duplicate$ -- 527
+empty$ -- 944
+format.name$ -- 251
+if$ -- 2570
 int.to.chr$ -- 2
 int.to.str$ -- 0
-missing$ -- 31
-newline$ -- 138
-num.names$ -- 112
-pop$ -- 143
+missing$ -- 37
+newline$ -- 158
+num.names$ -- 128
+pop$ -- 171
 preamble$ -- 1
-purify$ -- 244
+purify$ -- 283
 quote$ -- 0
-skip$ -- 333
+skip$ -- 377
 stack$ -- 0
-substring$ -- 854
-swap$ -- 126
+substring$ -- 921
+swap$ -- 140
 text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 154
+type$ -- 174
 warning$ -- 0
-while$ -- 114
+while$ -- 125
 width$ -- 0
-write$ -- 359
+write$ -- 410
