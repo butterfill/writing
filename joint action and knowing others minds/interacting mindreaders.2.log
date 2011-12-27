@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.2-0.9995.2 (TeX Live 2009) (format=xelatex 2010.8.4)  27 DEC 2011 18:32
+This is XeTeX, Version 3.1415926-2.2-0.9995.2 (TeX Live 2009) (format=xelatex 2010.8.4)  28 DEC 2011 00:10
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
@@ -612,82 +612,94 @@ Overfull \hbox (17.81491pt too wide) in paragraph at lines 197--225
 on is widely thought
  []
 
-[5] [6] [7]
-Overfull \hbox (9.69809pt too wide) in paragraph at lines 338--345
-\EU1/LinuxLibertineO(0)/m/n/14.4 beneficial outcomes an observed action is the 
-best available means
+[5] [6]
+Overfull \hbox (2.2917pt too wide) in paragraph at lines 300--327
+\EU1/LinuxLibertineO(0)/m/n/14.4 that ascriptions of goals to actions constrain
+, and are constrained
  []
 
-[8]
-Overfull \hbox (10.07732pt too wide) in paragraph at lines 392--409
+[7]
+Overfull \hbox (12.2504pt too wide) in paragraph at lines 370--372
+[]\EU1/LinuxLibertineO(0)/m/n/14.4 the occurrence of outcome $\OML/cmm/m/it/14.
+4 G$ \EU1/LinuxLibertineO(0)/m/n/14.4 is typically desirable for agents
+ []
+
+[8] [9]
+Overfull \hbox (10.07732pt too wide) in paragraph at lines 463--480
 \EU1/LinuxLibertineO(0)/m/n/14.4 times includes considerations about which ends
  actions are means
  []
 
-[9] [10]
+[10] [11]
 File: figure_hare_toma_2004_e3.png Graphic file (type QTm)
- <use  "figure_hare_toma_2004_e3.png" > [11]
-Overfull \hbox (2.93015pt too wide) in paragraph at lines 484--493
+ <use  "figure_hare_toma_2004_e3.png" > [12]
+Overfull \hbox (2.93015pt too wide) in paragraph at lines 555--564
 \EU1/LinuxLibertineO(0)/m/n/14.4 Our overall aim is to defend this claim: there
  are routes to knowl-
  []
 
 
-Overfull \hbox (2.28214pt too wide) in paragraph at lines 484--493
+Overfull \hbox (2.28214pt too wide) in paragraph at lines 555--564
 \EU1/LinuxLibertineO(0)/m/n/14.4 preters who merely observe their targets but o
 pen to interpreters
  []
 
-[12] [13] [14]
-Overfull \hbox (6.74223pt too wide) in paragraph at lines 600--606
+[13] [14] [15]
+Overfull \hbox (6.74223pt too wide) in paragraph at lines 671--677
 []\EU1/LinuxLibertineO(0)/m/n/14.4 The your-goal-is-my-goal route to knowledge 
 is characterised
  []
 
-[15] [16] [17]
-Overfull \hbox (6.89969pt too wide) in paragraph at lines 690--700
+[16]
+Overfull \hbox (2.41492pt too wide) in paragraph at lines 704--708
+\EU1/LinuxLibertineO(0)/m/n/14.4 section []3[][] on page 10[][][]). Showing how
+ your-goal-is-my-goal makes
+ []
+
+[17] [18]
+Overfull \hbox (6.89969pt too wide) in paragraph at lines 761--771
 \EU1/LinuxLibertineO(0)/m/n/14.4 communicative skills or sophisticated forms of
  mindreading must
  []
 
-[18] [19]
-Overfull \hbox (12.28369pt too wide) in paragraph at lines 780--804
+[19] [20]
+Overfull \hbox (12.28369pt too wide) in paragraph at lines 851--875
 \EU1/LinuxLibertineO(0)/m/n/14.4 three-year-old children. In one condition part
 icipants were shown
  []
 
-[20] [21]
-Overfull \hbox (2.48465pt too wide) in paragraph at lines 868--892
+[21] [22]
+Overfull \hbox (2.48465pt too wide) in paragraph at lines 939--963
 []\EU1/LinuxLibertineO(0)/m/n/14.4 The problem of opaque means occurs when inte
 rpreters must
  []
 
-[22]
-Overfull \hbox (0.65103pt too wide) in paragraph at lines 893--904
+[23]
+Overfull \hbox (0.65103pt too wide) in paragraph at lines 964--975
 []\EU1/LinuxLibertineO(0)/m/n/14.4 The your-goal-is-my-goal route to knowledge 
 sometimes en-
  []
 
 
-Overfull \hbox (6.3477pt too wide) in paragraph at lines 920--925
+Overfull \hbox (6.3477pt too wide) in paragraph at lines 991--996
 \EU1/LinuxLibertineO(0)/m/n/14.4 interpreter with a route to knowledge of the g
 oals of other agents’
  []
 
-[23] [24] (./interacting mindreaders.2.bbl [25] [26]
-Underfull \hbox (badness 1057) in paragraph at lines 149--153
+[24] [25] [26] (./interacting mindreaders.2.bbl [27] [28]
+Underfull \hbox (badness 1057) in paragraph at lines 137--141
 \EU1/LinuxLibertineO(0)/m/n/14.4 month-olds communicate helpfully and appropria
 tely for
  []
 
-[27] [28]) [29] (./interacting mindreaders.2.aux) ) 
+[29]) [30] (./interacting mindreaders.2.aux) ) 
 Here is how much of TeX's memory you used:
- 11038 strings out of 494665
- 179409 string characters out of 3163744
+ 11033 strings out of 494665
+ 179211 string characters out of 3163744
  284558 words of memory out of 3000000
- 14097 multiletter control sequences out of 15000+200000
- 5709 words of font info for 45 fonts, out of 3000000 for 9000
+ 14093 multiletter control sequences out of 15000+200000
+ 5701 words of font info for 44 fonts, out of 3000000 for 9000
  669 hyphenation exceptions out of 8191
  55i,8n,92p,569b,468s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on interacting mindreaders.2.pdf (29 pages).
+Output written on interacting mindreaders.2.pdf (30 pages).
