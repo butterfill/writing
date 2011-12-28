@@ -2,44 +2,48 @@ This is BibTeX, Version 0.99c (TeX Live 2009)
 The top-level auxiliary file: interacting mindreaders.2.aux
 The style file: newapa.bst
 Database file #1: $HOME/endnote/phd_biblio.bib
-You've used 34 entries,
+Warning--empty publisher in Bratman:2012fk
+You can't pop an empty literal stack for entry pacherie_framing_2011
+while executing---line 1459 of file newapa.bst
+You've used 48 entries,
             2708 wiz_defined-function locations,
-            822 strings with 10111 characters,
-and the built_in function-call counts, 15455 in all, are:
-= -- 1385
-> -- 654
-< -- 29
-+ -- 239
-- -- 229
-* -- 1490
-:= -- 2910
-add.period$ -- 107
-call.type$ -- 34
-change.case$ -- 271
-chr.to.int$ -- 34
-cite$ -- 34
-duplicate$ -- 583
-empty$ -- 1049
-format.name$ -- 287
-if$ -- 2874
+            910 strings with 11533 characters,
+and the built_in function-call counts, 20807 in all, are:
+= -- 1873
+> -- 808
+< -- 43
++ -- 289
+- -- 277
+* -- 1970
+:= -- 3907
+add.period$ -- 150
+call.type$ -- 48
+change.case$ -- 369
+chr.to.int$ -- 48
+cite$ -- 49
+duplicate$ -- 815
+empty$ -- 1457
+format.name$ -- 349
+if$ -- 3877
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 39
-newline$ -- 173
-num.names$ -- 146
-pop$ -- 182
+missing$ -- 55
+newline$ -- 242
+num.names$ -- 202
+pop$ -- 243
 preamble$ -- 1
-purify$ -- 310
+purify$ -- 424
 quote$ -- 0
-skip$ -- 418
+skip$ -- 585
 stack$ -- 0
-substring$ -- 1026
-swap$ -- 156
-text.length$ -- 5
+substring$ -- 1400
+swap$ -- 213
+text.length$ -- 6
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 194
-warning$ -- 0
-while$ -- 143
+type$ -- 274
+warning$ -- 1
+while$ -- 198
 width$ -- 0
-write$ -- 452
+write$ -- 633
+(There was 1 error message)

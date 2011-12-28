@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.2-0.9995.2 (TeX Live 2009) (format=xelatex 2010.8.4)  28 DEC 2011 00:10
+This is XeTeX, Version 3.1415926-2.2-0.9995.2 (TeX Live 2009) (format=xelatex 2010.8.4)  28 DEC 2011 16:53
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
@@ -625,7 +625,7 @@ Overfull \hbox (12.2504pt too wide) in paragraph at lines 370--372
  []
 
 [8] [9]
-Overfull \hbox (10.07732pt too wide) in paragraph at lines 463--480
+Overfull \hbox (10.07732pt too wide) in paragraph at lines 465--482
 \EU1/LinuxLibertineO(0)/m/n/14.4 times includes considerations about which ends
  actions are means
  []
@@ -633,73 +633,67 @@ Overfull \hbox (10.07732pt too wide) in paragraph at lines 463--480
 [10] [11]
 File: figure_hare_toma_2004_e3.png Graphic file (type QTm)
  <use  "figure_hare_toma_2004_e3.png" > [12]
-Overfull \hbox (2.93015pt too wide) in paragraph at lines 555--564
+Overfull \hbox (2.93015pt too wide) in paragraph at lines 558--567
 \EU1/LinuxLibertineO(0)/m/n/14.4 Our overall aim is to defend this claim: there
  are routes to knowl-
  []
 
-
-Overfull \hbox (2.28214pt too wide) in paragraph at lines 555--564
-\EU1/LinuxLibertineO(0)/m/n/14.4 preters who merely observe their targets but o
-pen to interpreters
- []
-
-[13] [14] [15]
-Overfull \hbox (6.74223pt too wide) in paragraph at lines 671--677
+[13] [14] [15] [16] [17] [18]
+Overfull \hbox (6.74223pt too wide) in paragraph at lines 802--808
 []\EU1/LinuxLibertineO(0)/m/n/14.4 The your-goal-is-my-goal route to knowledge 
 is characterised
  []
 
-[16]
-Overfull \hbox (2.41492pt too wide) in paragraph at lines 704--708
+
+Overfull \hbox (2.41492pt too wide) in paragraph at lines 835--839
 \EU1/LinuxLibertineO(0)/m/n/14.4 section []3[][] on page 10[][][]). Showing how
  your-goal-is-my-goal makes
  []
 
-[17] [18]
-Overfull \hbox (6.89969pt too wide) in paragraph at lines 761--771
+[19] [20]
+Overfull \hbox (6.89969pt too wide) in paragraph at lines 892--902
 \EU1/LinuxLibertineO(0)/m/n/14.4 communicative skills or sophisticated forms of
  mindreading must
  []
 
-[19] [20]
-Overfull \hbox (12.28369pt too wide) in paragraph at lines 851--875
+[21] [22]
+Overfull \hbox (12.28369pt too wide) in paragraph at lines 982--1006
 \EU1/LinuxLibertineO(0)/m/n/14.4 three-year-old children. In one condition part
 icipants were shown
  []
 
-[21] [22]
-Overfull \hbox (2.48465pt too wide) in paragraph at lines 939--963
+[23] [24]
+Overfull \hbox (2.48465pt too wide) in paragraph at lines 1070--1094
 []\EU1/LinuxLibertineO(0)/m/n/14.4 The problem of opaque means occurs when inte
 rpreters must
  []
 
-[23]
-Overfull \hbox (0.65103pt too wide) in paragraph at lines 964--975
+[25]
+Overfull \hbox (0.65103pt too wide) in paragraph at lines 1095--1106
 []\EU1/LinuxLibertineO(0)/m/n/14.4 The your-goal-is-my-goal route to knowledge 
 sometimes en-
  []
 
-
-Overfull \hbox (6.3477pt too wide) in paragraph at lines 991--996
+[26]
+Overfull \hbox (6.3477pt too wide) in paragraph at lines 1122--1127
 \EU1/LinuxLibertineO(0)/m/n/14.4 interpreter with a route to knowledge of the g
 oals of other agents’
  []
 
-[24] [25] [26] (./interacting mindreaders.2.bbl [27] [28]
-Underfull \hbox (badness 1057) in paragraph at lines 137--141
+[27] [28] (./interacting mindreaders.2.bbl [29] [30]
+Underfull \hbox (badness 1057) in paragraph at lines 172--176
 \EU1/LinuxLibertineO(0)/m/n/14.4 month-olds communicate helpfully and appropria
 tely for
  []
 
-[29]) [30] (./interacting mindreaders.2.aux) ) 
+[31] [32]) [33] (./interacting mindreaders.2.aux) ) 
 Here is how much of TeX's memory you used:
- 11033 strings out of 494665
- 179211 string characters out of 3163744
+ 11092 strings out of 494665
+ 180479 string characters out of 3163744
  284558 words of memory out of 3000000
- 14093 multiletter control sequences out of 15000+200000
+ 14152 multiletter control sequences out of 15000+200000
  5701 words of font info for 44 fonts, out of 3000000 for 9000
  669 hyphenation exceptions out of 8191
- 55i,8n,92p,569b,468s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 55i,8n,92p,569b,473s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on interacting mindreaders.2.pdf (30 pages).
+Output written on interacting mindreaders.2.pdf (33 pages).
