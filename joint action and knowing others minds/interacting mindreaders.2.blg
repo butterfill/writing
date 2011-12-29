@@ -2,50 +2,52 @@ This is BibTeX, Version 0.99c (TeX Live 2009)
 The top-level auxiliary file: interacting mindreaders.2.aux
 The style file: newapa.bst
 Database file #1: $HOME/endnote/phd_biblio.bib
+`author' is a missing field, not a string, for entry Astington2005ot
+while executing---line 1385 of file newapa.bst
 Warning--empty publisher in Bratman:2012fk
 You can't pop an empty literal stack for entry pacherie_framing_2011
 while executing---line 1459 of file newapa.bst
 You can't pop an empty literal stack for entry tincoff:2011
 while executing---line 1459 of file newapa.bst
-You've used 54 entries,
+You've used 59 entries,
             2708 wiz_defined-function locations,
-            946 strings with 12715 characters,
-and the built_in function-call counts, 23616 in all, are:
-= -- 2134
-> -- 931
-< -- 47
-+ -- 334
-- -- 322
-* -- 2256
-:= -- 4440
-add.period$ -- 169
-call.type$ -- 54
-change.case$ -- 420
-chr.to.int$ -- 54
-cite$ -- 55
-duplicate$ -- 909
-empty$ -- 1637
-format.name$ -- 406
-if$ -- 4381
-int.to.chr$ -- 1
+            970 strings with 13233 characters,
+and the built_in function-call counts, 25570 in all, are:
+= -- 2308
+> -- 1003
+< -- 52
++ -- 359
+- -- 346
+* -- 2440
+:= -- 4813
+add.period$ -- 184
+call.type$ -- 59
+change.case$ -- 456
+chr.to.int$ -- 58
+cite$ -- 60
+duplicate$ -- 988
+empty$ -- 1775
+format.name$ -- 441
+if$ -- 4740
+int.to.chr$ -- 2
 int.to.str$ -- 0
-missing$ -- 61
-newline$ -- 273
-num.names$ -- 226
-pop$ -- 271
+missing$ -- 67
+newline$ -- 298
+num.names$ -- 247
+pop$ -- 294
 preamble$ -- 1
-purify$ -- 481
+purify$ -- 524
 quote$ -- 0
-skip$ -- 651
+skip$ -- 707
 stack$ -- 0
-substring$ -- 1611
-swap$ -- 236
+substring$ -- 1730
+swap$ -- 254
 text.length$ -- 6
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 310
+type$ -- 336
 warning$ -- 1
-while$ -- 225
+while$ -- 243
 width$ -- 0
-write$ -- 713
-(There were 2 error messages)
+write$ -- 778
+(There were 3 error messages)
