@@ -5,45 +5,47 @@ Database file #1: $HOME/endnote/phd_biblio.bib
 Warning--empty publisher in Bratman:2012fk
 You can't pop an empty literal stack for entry pacherie_framing_2011
 while executing---line 1459 of file newapa.bst
-You've used 48 entries,
+You can't pop an empty literal stack for entry tincoff:2011
+while executing---line 1459 of file newapa.bst
+You've used 54 entries,
             2708 wiz_defined-function locations,
-            910 strings with 11533 characters,
-and the built_in function-call counts, 20807 in all, are:
-= -- 1873
-> -- 808
-< -- 43
-+ -- 289
-- -- 277
-* -- 1970
-:= -- 3907
-add.period$ -- 150
-call.type$ -- 48
-change.case$ -- 369
-chr.to.int$ -- 48
-cite$ -- 49
-duplicate$ -- 815
-empty$ -- 1457
-format.name$ -- 349
-if$ -- 3877
+            946 strings with 12715 characters,
+and the built_in function-call counts, 23616 in all, are:
+= -- 2134
+> -- 931
+< -- 47
++ -- 334
+- -- 322
+* -- 2256
+:= -- 4440
+add.period$ -- 169
+call.type$ -- 54
+change.case$ -- 420
+chr.to.int$ -- 54
+cite$ -- 55
+duplicate$ -- 909
+empty$ -- 1637
+format.name$ -- 406
+if$ -- 4381
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 55
-newline$ -- 242
-num.names$ -- 202
-pop$ -- 243
+missing$ -- 61
+newline$ -- 273
+num.names$ -- 226
+pop$ -- 271
 preamble$ -- 1
-purify$ -- 424
+purify$ -- 481
 quote$ -- 0
-skip$ -- 585
+skip$ -- 651
 stack$ -- 0
-substring$ -- 1400
-swap$ -- 213
+substring$ -- 1611
+swap$ -- 236
 text.length$ -- 6
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 274
+type$ -- 310
 warning$ -- 1
-while$ -- 198
+while$ -- 225
 width$ -- 0
-write$ -- 633
-(There was 1 error message)
+write$ -- 713
+(There were 2 error messages)
