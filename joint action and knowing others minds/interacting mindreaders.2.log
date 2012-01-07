@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.2-0.9995.2 (TeX Live 2009) (format=xelatex 2010.8.4)  30 DEC 2011 20:28
+This is XeTeX, Version 3.1415926-2.2-0.9995.2 (TeX Live 2009) (format=xelatex 2010.8.4)  1 JAN 2012 14:42
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
@@ -15,8 +15,8 @@ lish, portuguese, romanian, russian, sanskrit, serbian, slovak, slovenian, span
 ish, swedish, turkish, ukenglish, ukrainian, uppersorbian, welsh, loaded.
 (/usr/local/texlive/2009/texmf-dist/tex/latex/extsizes/extarticle.cls
 Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
-(/usr/local/texlive/2009/texmf-dist/tex/latex/extsizes/size14.clo
-File: size14.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+(/usr/local/texlive/2009/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 (/usr/local/texlive/2009/texmf-dist/tex/latex/base/exscale.sty
 Package: exscale 2007/10/29 v2.1h Standard LaTeX package exscale
@@ -428,22 +428,22 @@ Package: titling 2009/09/04 v2.1d maketitle typesetting
 (./interacting mindreaders.2.aux)
 \openout1 = `"interacting mindreaders.2.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
 
 *geometry detected driver: pdftex*
 -------------------- Geometry parameters
@@ -471,14 +471,14 @@ driver: pdftex
 \textheight 625.96062pt
 \oddsidemargin  41.54103pt
 \evensidemargin 41.54103pt
-\topmargin  -29.1114pt
-\headheight 14.0pt
-\headsep    28.19968pt
+\topmargin  -22.41148pt
+\headheight 12.0pt
+\headsep    23.49976pt
 \footskip   28.45274pt
-\marginparwidth 15.0pt
+\marginparwidth 35.0pt
 \marginparsep   10.0pt
 \columnsep  10.0pt
-\skip\footins  12.0pt plus 4.0pt minus 2.0pt
+\skip\footins  10.8pt plus 4.0pt minus 2.0pt
 \hoffset 0.0pt
 \voffset 0.0pt
 \mag 1000
@@ -486,78 +486,78 @@ driver: pdftex
 (1in=72.27pt, 1cm=28.45pt)
 -----------------------
 Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid this).
- on input line 17.
+ on input line 21.
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 17.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 17.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 17.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 17.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 17.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 17.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 17.
-LaTeX Font Info:    Redeclaring math accent \check on input line 17.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 17.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 17.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 17.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 17.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 17.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 17.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 17.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 17.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 17.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 17.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 17.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 17.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 17.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 17.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 17.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 17.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 17.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 21.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 21.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 21.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 21.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 21.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 21.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 21.
+LaTeX Font Info:    Redeclaring math accent \check on input line 21.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 21.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 21.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 21.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 21.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 21.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 21.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 21.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 21.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 21.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 21.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 21.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 21.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 21.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 21.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 21.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 21.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 21.
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `normal' on input line 17.
+(Font)              `operators' in the math version `normal' on input line 21.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> EU1/LinuxLibertineO(0)/m/n on input lin
-e 17.
+e 21.
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `bold' on input line 17.
+(Font)              `operators' in the math version `bold' on input line 21.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> EU1/LinuxLibertineO(0)/m/n on input li
-ne 17.
+ne 21.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  EU1/LinuxLibertineO(0)/m/n --> EU1/LinuxLibertineO(0)/m
-/n on input line 17.
+/n on input line 21.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
 (Font)                  EU1/LinuxLibertineO(0)/m/n --> EU1/LinuxLibertineO(0)/m
-/n on input line 17.
+/n on input line 21.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> EU1/LinuxLibertineO(0)/m/it on input l
-ine 17.
+ine 21.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> EU1/LinuxLibertineO(0)/bx/n on input l
-ine 17.
+ine 21.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
 (Font)                  OT1/cmss/m/n --> EU1/LinuxBiolinumO(0)/m/n on input lin
-e 17.
+e 21.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> EU1/AndaleMono(0)/m/n on input line 17
+(Font)                  OT1/cmtt/m/n --> EU1/AndaleMono(0)/m/n on input line 21
 .
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  EU1/LinuxLibertineO(0)/m/n --> EU1/LinuxLibertineO(0)/b
-x/n on input line 17.
+x/n on input line 21.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
 (Font)                  EU1/LinuxLibertineO(0)/m/n --> EU1/LinuxLibertineO(0)/b
-x/n on input line 17.
+x/n on input line 21.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> EU1/LinuxLibertineO(0)/bx/it on input
- line 17.
+ line 21.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  OT1/cmss/bx/n --> EU1/LinuxBiolinumO(0)/bx/n on input l
-ine 17.
+ine 21.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> EU1/AndaleMono(0)/bx/n on input line 1
-7.
-Package hyperref Info: Link coloring OFF on input line 17.
+(Font)                  OT1/cmtt/m/n --> EU1/AndaleMono(0)/bx/n on input line 2
+1.
+Package hyperref Info: Link coloring OFF on input line 21.
 (/usr/local/texlive/2009/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2007/05/29 v2.31 Cross-referencing by name of section
 
@@ -567,153 +567,49 @@ Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
 \c@section@level=\count123
 LaTeX Info: Redefining \Ref on input line 396.
 )
-LaTeX Info: Redefining \ref on input line 17.
-LaTeX Info: Redefining \pageref on input line 17.
+LaTeX Info: Redefining \ref on input line 21.
+LaTeX Info: Redefining \pageref on input line 21.
 
 (./interacting mindreaders.2.out) (./interacting mindreaders.2.out)
 \@outlinefile=\write3
 \openout3 = `"interacting mindreaders.2.out"'.
 
 \AtBeginShipoutBox=\box33
-LaTeX Info: Redefining \Ref on input line 17.
+LaTeX Info: Redefining \Ref on input line 21.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <7> on input line 23.
+(Font)              <6> on input line 27.
+
+Overfull \hbox (5.47922pt too wide) in paragraph at lines 31--50
+[]\EU1/LinuxLibertineO(0)/m/n/10.95 Could interacting mindreaders be in a posit
+ion to know things which
+ []
 
 
 Package hyperref Warning: No destination for bookmark of \addcontentsline,
-(hyperref)                destination is added on input line 83.
+(hyperref)                destination is added on input line 87.
 
 [1
 
 ]
-Overfull \hbox (4.62772pt too wide) in paragraph at lines 96--100
-\EU1/LinuxLibertineO(0)/m/n/14.4 not about what sorts of mechanisms are involve
-d. While philoso-
- []
-
-[2]
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <5> on input line 173.
- [3]
-Overfull \hbox (5.63248pt too wide) in paragraph at lines 201--223
-\EU1/LinuxLibertineO(0)/m/n/14.4 mental states often includes the occurrence (a
-nd non-occurrence)
- []
-
-[4]
-Overfull \hbox (1.61588pt too wide) in paragraph at lines 230--232
-[]\EU1/LinuxLibertineO(0)/m/n/14.4 Developing these ideas requires us to fill i
-n some background
- []
-
-[5]
-Overfull \hbox (17.81491pt too wide) in paragraph at lines 253--281
-\EU1/LinuxLibertineO(0)/m/n/14.4 our argument, but mainly because goal ascripti
-on is widely thought
- []
-
-[6] [7] [8]
-Overfull \hbox (12.2504pt too wide) in paragraph at lines 427--429
-[]\EU1/LinuxLibertineO(0)/m/n/14.4 the occurrence of outcome $\OML/cmm/m/it/14.
-4 G$ \EU1/LinuxLibertineO(0)/m/n/14.4 is typically desirable for agents
- []
-
-[9] [10]
-Overfull \hbox (10.07732pt too wide) in paragraph at lines 527--544
-\EU1/LinuxLibertineO(0)/m/n/14.4 times includes considerations about which ends
- actions are means
- []
-
-[11] [12]
+(Font)              <7> on input line 177.
+LaTeX Font Info:    External font `cmex7' loaded for size
+(Font)              <5> on input line 177.
+ [2] [3] [4] [5] [6] [7] [8] [9]
 File: figure_hare_toma_2004_e3.png Graphic file (type QTm)
- <use  "figure_hare_toma_2004_e3.png" > [13]
-Overfull \hbox (2.93015pt too wide) in paragraph at lines 625--634
-\EU1/LinuxLibertineO(0)/m/n/14.4 Our overall aim is to defend this claim: there
- are routes to knowl-
- []
-
-[14] [15] [16] [17]
-Overfull \hbox (3.07253pt too wide) in paragraph at lines 830--835
-\EU1/LinuxLibertineO(0)/m/n/14.4 knowing the conclusion, 3. Second, in some of 
-those cases know-
- []
-
-[18] [19]
-Overfull \hbox (6.74223pt too wide) in paragraph at lines 890--905
-[]\EU1/LinuxLibertineO(0)/m/n/14.4 The your-goal-is-my-goal route to knowledge 
-is characterised
- []
-
-[20]
-Overfull \hbox (2.41492pt too wide) in paragraph at lines 909--913
-\EU1/LinuxLibertineO(0)/m/n/14.4 section []3[][] on page 11[][][]). Showing how
- your-goal-is-my-goal makes
- []
-
-[21] [22] [23]
-Overfull \hbox (12.28369pt too wide) in paragraph at lines 1069--1093
-\EU1/LinuxLibertineO(0)/m/n/14.4 three-year-old children. In one condition part
-icipants were shown
- []
-
-[24] [25] [26]
-Overfull \hbox (0.65103pt too wide) in paragraph at lines 1191--1202
-[]\EU1/LinuxLibertineO(0)/m/n/14.4 The your-goal-is-my-goal route to knowledge 
-sometimes en-
- []
-
-[27] [28]
-Overfull \hbox (5.73332pt too wide) in paragraph at lines 1299--1328
-\EU1/LinuxLibertineO(0)/m/n/14.4 false beliefs may easily arise, particularly i
-n cases involving novel
- []
-
-
-Overfull \hbox (2.06128pt too wide) in paragraph at lines 1299--1328
-\EU1/LinuxLibertineO(0)/m/n/14.4 presupposing sophisticated forms of mindreadin
-g, might instead
- []
-
-
-./interacting mindreaders.2.tex:1336: Package varioref Error: \vref at page bou
-ndary 29-30 (may loop).
-
-See the varioref package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1336 ...ection \vref{sec:communicative_gestures}
-                                                  ).
-? 
-[29] (./interacting mindreaders.2.bbl [30] [31] [32]
-Underfull \hbox (badness 1057) in paragraph at lines 213--217
-\EU1/LinuxLibertineO(0)/m/n/14.4 month-olds communicate helpfully and appropria
-tely for
- []
-
-[33] [34]
-Underfull \hbox (badness 1389) in paragraph at lines 347--350
-\EU1/LinuxLibertineO(0)/m/n/14.4 M. (1998).  Acquisition of Word-Object associa
-tions by
- []
-
-
-Underfull \hbox (badness 1226) in paragraph at lines 347--350
-\EU1/LinuxLibertineO(0)/m/n/14.4 14-Month-Old infants.  \EU1/LinuxLibertineO(0)
-/m/it/14.4 Developmental Psychology\EU1/LinuxLibertineO(0)/m/n/14.4 , \EU1/Linu
-xLibertineO(0)/m/it/14.4 34\EU1/LinuxLibertineO(0)/m/n/14.4 (6),
- []
-
-[35]) [36] (./interacting mindreaders.2.aux) ) 
+ <use  "figure_hare_toma_2004_e3.png" >
+[10] [11] [12] [13] [14] [15] [16] [17] [18] [19] [20] [21]
+(./interacting mindreaders.2.bbl [22] [23] [24] [25] [26]) [27]
+(./interacting mindreaders.2.aux) ) 
 Here is how much of TeX's memory you used:
- 11141 strings out of 494665
- 181502 string characters out of 3163744
- 283558 words of memory out of 3000000
- 14202 multiletter control sequences out of 15000+200000
- 5693 words of font info for 43 fonts, out of 3000000 for 9000
+ 11160 strings out of 494665
+ 181800 string characters out of 3163744
+ 285491 words of memory out of 3000000
+ 14212 multiletter control sequences out of 15000+200000
+ 7869 words of font info for 52 fonts, out of 3000000 for 9000
  669 hyphenation exceptions out of 8191
- 55i,8n,92p,745b,511s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 55i,8n,92p,745b,515s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on interacting mindreaders.2.pdf (36 pages).
+Output written on interacting mindreaders.2.pdf (27 pages).

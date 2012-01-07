@@ -1,0 +1,52 @@
+Intentionality without Intentions
+
+PART I : the notion of *motor representation of a goal* is theoretically coherent
+
+(1) (a) to explain the distinction, which we have already invoked,
+between merely purposive activities and genuinely intentional ones,
+and (b) to show that motor action falls on the genuinely intentional
+side.
+-- on the distinction, (1)(a), I think the key point is that genuinely
+intentional activities are activities guided by representational
+processes and, in particular, by representations of the goals to which
+they are directed.
+-- on (1)(b), I take this to be empirical and uncontroversial
+
+(2) outlines of an account of motor representation
+-- This should explicate the notion of a motor representation of a goal, specifically, (a) what the functions of motor representation are, (b) what sort of processes characterise them, and (c) what kinds of content they have.  [As far as I can tell we don't have to be very original at this point; the idea is more that, in making a case for their significance to philosophers, we also have to tell philosophers what they are.]
+NB: The relation between a motor goal representation and a movement allows for generality but is not completely arbitrary in the way that the relation between an intention and the movements which realise its execution may be.  So motor goal representations are not reducible to representations of movements but also cannot be understood fully independently of the movements which realise them.
+For any action, there may be many motor goal representations of it.  Expertise is characterised by the multiplicity of motor goal representations for the same action.
+
+
+The difference and the relation between R-I and R-M.
+
+
+
+PART II : In what senses are motor representations a more primitive source of intentionality than propositional desires and intentions?
+
+So far we have argued (Part I) that motor goal representations are a source of intentionality.  By this we mean that if you could strip away the beliefs, desires and intentions from an action you would be left not with mere bodily movements but with motor actions which are goal-directed in virtue of being guided by representations of their goals.  In this second part we defend the further claim that there are senses in which motor representations are a source of intentionality more primitive than propositional desires and intentions.  
+
+
+
+(3) Which events are actions?  Standardly this question is answered by appeal to intentions: those events which are intentional under some description.  This answer is not entirely satisfactory since the content of an intention singles out a much broader category of events than those we would normally recognise as actions.  A better answer can be given by appeal to motor action. [*see 'purposive motor actions.pdf']
+[Corrado's suggestion: consider finger movements of 'irrelevant'/'semi-relevant' fingers in precision grasp.]
+
+
+(3b) more primitive than: let R-I be the type of relation between an intention and an event where the event is intentional under a description in virtue of being so related to the intention.  Let R-M be type of the relation between a motor representation and an event where the event is intentional under a description in virtue of being so related to the motor representation.  We have just argued that for an event to be a relatum of any relations of type R-I depends on its being a relatum of some relations of type R-M.  It is clear that the converse dependence does not hold (relations of type R-M can obtain irrespective of whether relations of type R-I obtain).  This is therefore one sense in which motor representations are a more primitive source of intentionality than propositional intentions.
+
+(3c) given the parallels between R-I and R-M (both involve representations of outcomes, for instance), it seems reasonable to distinguish two notions of agency which we might call *deliberative agency* and *motor agency*.  Deliberative agency is what philosophers refer to agency simpliciter; we assume (for present purposes) that Davidson is right in characterising this form of agency with the claim that to be the (deliberative) agent of an action is for the action to be intentional under some description. To be the motor agent of an action is for the action to be an event which is intentional under a motor representation.  Deliberative agency in humans requires motor agency but not conversely. 
+
+
+(4) Practical reasoning.  Which actions are basic in this sense:
+setting aside other plans we might have, we can intend to perform such
+an action without any normative requirement to engage in further
+planning?  If we ignore cases of actions which are abstaining and
+mental actions, these actions are co-extensive with motor actions.
+(This claim might be arrived at by arguing that practical reasoning has to
+end at a point at which the motor system can take over: the goal of
+practical reasoning is not to determine bodily movements but motor
+representations of actions.) [*see 'with corrado motor intention action.pdf']  
+It follows that abilities to engage in practical reasoning, and to arrive at intentions, presuppose this much awareness of motor actions: one has a way of identifying actions which are in fact motor actions.  (Clearly one needn't think of the actions in terms of  motor representations as such.)
+
+(4b) more primitive than: the basic units of practical reasoning are motor actions, and a minimal awareness of motor action is necessary to engage in practical reasoning.  The converse is not true: abilities to engage in practical reasoning, and to represent propositional intentions, are not required for motor control.  
+

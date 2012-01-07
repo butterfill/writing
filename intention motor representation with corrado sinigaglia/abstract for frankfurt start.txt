@@ -1,0 +1,32 @@
+A central challenge for philosophy of action, perhaps the central challenge, is to explain what distinguishes bodily movements manifesting agency from bodily movements which are mere happenings.\footnote{
+"The problem of action is to explicated the contrast between ... the bodily movements that [an agent] makes and those that occur without his making them" \citep[p.\ 157]{frankfurt1978problem}.
+}
+Call this the movement-action challenge.
+Our aim is to show how motor action plays an essential part in meeting the challenge.
+
+
+1. Refining the challenge
+
+This challenge must be further specified in two ways.  
+First, philosophers sometimes assume that the distinction cannot be made in terms of purely kinematic properties of movements.
+For example, Frankfurt writes:
+ 
+ "the movements of a person's body do not definitively reveal whether he is performing an action: the very same movements may occur when an action is being performed or when a mere happening is occurring" \citep[p.\ 160]{frankfurt1978problem}
+ 
+In fact the kinematics of human bodily movements which are (or are caused by) actions differ systematically from those of mere bodily movements, and human observers are able to identify actions from purely kinematic information \citep{runeson_kinematic_1983}. 
+So one correct answer to the movement-action challenge, as formulated above, could be given by specifying the kinematic features that distinguish manifestations of agency from other bodily movements.
+This answer is clearly unsatisfactory.
+After all, kinematic features distinguishing mere movements from movements manifesting agency are a consequence of dynamical features, many of which are in turn a consequence of motor control.
+An adequate answer to the challenge should involve not just identifying various ways in which mere movements in fact differ from actions but rather identifying differences \emph{in virtue of which} some movements manifest agency.
+
+Second, as initially formulated the challenge indicates that there is a single distinction between mere movements and movements manifesting agency.
+*Multiple.
+*Focus on higher-end distinction, agency in fullest sense.
+*This has meant that lowest level has been neglected.
+*Correct neglect.
+*Then show that 
+
+
+2. Existing attempts to meet the challenge are indifferent concerning motor control
+
+

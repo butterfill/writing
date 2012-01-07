@@ -1,0 +1,7 @@
+While few researchers doubt that action execution involves motor processes distinct from explicit practical reasoning, or that these processes involve representations of the body and its movements as well as of action outcomes, there is a strong tendency to think that 
+in many species, planning and monitoring action involves representations of joint displacements and of action outcomes which feature in processes distinct from explicit practical reasoning.
+
+Of course it is consistent with endorsing this standard view to suppose that intentions are not always involved in grounding the outcome-directedness of purposive action. In different cases the relation between an action and an outcome to which it is directed might be grounded in propositional attitudes other than intentions (*ref Velleman), or in the action being the exercise of a habit, or in the action having a proper function (*ref Millikan, Price), or in an open-ended range of other ways. 
+We shall argue that, among the possibly myriad ways in which purposiveness is grounded, there is also a role for motor representation. In fact, it may be that the role of motor representation in grounding purposiveness is more fundamental than that of intention in this sense: Intentions can only ever rationally result in bodily action by interlocking with motor representations which 
+
+a series of claims which show that, for intentions concerning outcomes which involve bodily movement, fully understanding how the purposiveness of action is grounded requires appeal to motor representation.

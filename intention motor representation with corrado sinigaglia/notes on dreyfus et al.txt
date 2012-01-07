@@ -1,0 +1,23 @@
+Dreyfus
+
+"this analysis [Searle's] leaves unclear just how intentionality is supposed to be passed along, from an intention in action that represents only the action’s overall conditions of satisfaction, to every movement of the flow." (292-3)
+
+absorbed coping: objects pull actions out of one, or so it seems phenomenologically
+
+"Once the phenomenon [absorbed coping] is clear, it becomes clear too, that the intention in action need not reach down and directly govern the flow. Rather than a representation of the action's success conditions directly governing the agent's subsidiary movements, a sense of the conditions of improvement could take over the job. The intention in action would then be merely an occasion that triggered the motor intentionality of the bodily movements." (294)
+
+"[Freeman's model]  would ... solve Searle’s problem of explaining ... how ... the subsidiary bodily movements can be intentional even though they don’t have conditions of satisfaction." (298)
+
+Nice contrast between two models of explanation:
+
+"To take Searle’s example, an expert skier’s intention in action to ski down a mountain, activates and governs his background capacities as he performs the unrepresented, but none the less intentional, activity of shifting his weight from ski to ski, etc. On the Freeman/Merleau-Ponty account, once the volition has initiated the action, absorbed coping, with its own kind of intentionality, correlated with the causal properties of the brain as a dynamical system, takes over and carries out the task." (298)
+
+"Existential phenomenologists such as Merleau-Ponty claim that, to do justice to the unique character of absorbed coping and its primacy, we must adopt a richer ontology than the one assumed by Husserl and Searle of minds containing intentional content, on the one hand, and meaningless bodily movements, on the other. According to Merleau-Ponty, the motor intentionality that underlies action is not best understood as a bodily movement caused by an intention in action, whether this intention is taken to be a mental event or a logical structure. Rather, motor intentionality has what he calls a third kind of being---a kind of being that is not a combination of the physical and the mental, but rather a direct way of responding appropriately to the solicitations of the environment in which the agent is inextricably embedded." (302)
+
+
+Rowlands
+"Are there such things as actions that possess representational status but that do not acquire this status from any other representational state?" (440)
+
+"The sorts of saccadic movements employed by the batsman in solving the problem of where and when the ball is going to reach him are things the batsman does rather than things that happen to him. However, they fall short of actions in the traditional sense since they are individuated by way of neither an antecedent intention nor an intention-in-action." (441)
+
+

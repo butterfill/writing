@@ -1,0 +1,14 @@
+Since different representational formats are involved, if intentions properly represent actions such as grasping or throwing then it seems that the need for transformation is inescapable.
+
+
+
+
+
+
+In mainstream philosophy of action, motor actions are rarely considered.  For instance, the notion appears only in passing in a recent Blackwell Companion to the Philosophy of Action. Discussions of what action is concern whether actions are tryings or bodily movements; motor actions are rarely or never considered as candidates.  And in discussions of agency, it is taken for granted that agency can be understood in terms of propositional attitudes and the bodily movements they cause. This suggests that motor action and motor representations may have no significance for a philosophical understanding action and agency.  To make this vivid, we could imagine animals resembling humans as closely as possible but with no motor systems, their absence being compensated for by vastly greater general-purpose inferential powers and cognitive resources.  For these animals, conscious practical reasoning would be necessary for much of what our motor systems provide; in particular conscious practical reasoning would be necessary for the planning, monitoring and adjustment of the smallest details of what for us are motor actions. From a psychological point of view, these hyper-intellectual agents would be radically different from humans.  But if mainstream views are even only roughly right, the hyper-intellectuals would be indistinguishable from humans as far as the philosophy of action goes. Opposing this view, we shall argue that the content and nature of ordinary intentions is in a certain way determined by motor representations of action.  The truth is that fully understanding action and agency requires understanding at least something of how intentions interface with motor representations.
+
+
+
+
+Ludo, while acting on an intention to grasp the cup, is moving various body parts. Some but not all of these movements will be parts of the intentional action, parts of the grasping. If he moves a leg in order to maintain balance while reaching, this may be part of the the intentional action; whereas if he simultaneously scratches his head or blinks this is unlikely to be part of the grasping action. The ordinary concept of a grasp distinguishes extraneous movements from those which are parts of the action. More precisely, for each occasion on which a grasp occurs, the concept determines to an interesting extent which among all the movements performed are part of the action and which are extraneous to it. Furthermore, many ordinary thinkers lack the theoretical knowledge which would allow them to distinguish extraneous movements from those which are parts of the action.
+

@@ -1,0 +1,32 @@
+In any case, let me give just some suggestions for a possible discussion
+
+A. The logical structure of action: R(I,E) and the Davidson suggestion according to which "our primitive actions, the ones we do not by doing something else, mere movements of the  body---these are all the actions there are. We never do more than move our bodies."
+
+The notion of motor goals and motor actions.
+
+Many authors think that unreflective motor actions (absorbed coping) paradigmatically instantiate motor goals and that such actions have to be considered as basic actions (see, for instance, Dreyfus).  
+
+1/question: how to define such actions as basic actions? Basic and not basic actions: Is it a categorical or functional distinction? Does it depend on the means/end relation only or does it also depend on the individual's motor expertise (see Searle)?
+
+2/question: how to define such actions as basic actions? The logical structure of basic actions: Kelly claims that there is no difference between modality and content; others claims that in these cases the relation does not present in I a propositional attitude (a representation) (Dreyfus, and others). 
+
+Last but not least, how does the notion of motor goal/basic action help us to understand how mental representation might cause motor behaviour ...
+
+B. Are we really legitimate to characterise as an action a relation R (I, E) recurring just in our brain, without the production of any overt motor behaviour? In other terms: does the relation R (I, E) really need the actual production of movements or is it enough that the motor components classically indicated by E can be just represented as such in order to instantiate the intentional relation? Take the case of motor imagery. But this seems to be the case also when we perceive object affordances and, of course, others actions...
+
+1/question: What does action representation differ from action execution? Does such difference do with the I component of action? Does it do with the E component? 
+2/question: To this regard, is there a difference between motor and non motor actions? 
+
+This is but a provisional list of questions that has to be improved and of course better articulated... But just for starting in the discussion... Maybe we can avoid to face what is at issue in the Dreyfus/Searle debate (representational vs. no-representational concept of action). Maybe the question could be what Davidson quotation really implies in the light of the neurophysiology of action.... Or maybe better we can start from your distinction between different action purposiveness and than we can introduce the notion of motor goal and so and so on. In this case, we could use Davidson's quotation as exergue.   
+
+
+
+TAKE 2
+
+there some points that deserve to be considered in the light of our notion of motor action. 
+
+What kind of action accounts can be understood as giving an action explanation in the case of motor actions? 
+
+What kind of purposiveness can be considered as characterising a motor action as such?
+
+Can a motor action be accounted as such by means of either a mentalistic or a teleological explanation? Tertium non datur?
