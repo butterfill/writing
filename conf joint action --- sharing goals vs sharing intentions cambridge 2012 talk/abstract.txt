@@ -1,0 +1,46 @@
+Sharing Intentions and Sharing Goals:
+What Is Shared Intention Really For?
+
+for Pre-reflective and Reflective Processing in Social Interaction workshop
+12-14 March 2012
+
+* Standard view: 
+Here is what I take to be a standard view among philosophers.
+There is a particularly important form of interaction, joint action,
+and shared intention is needed to characterise this form of interaction.
+(The point here is to say why the notion of shared intention is needed,
+we have not yet said anything about what shared intention is.
+Rather we are trying to provide motivation for, and constraints on, an account of shared intention.)
+
+* Contrast cases:
+The apparent need for shared intention is usually brought out by considering contrast cases:
+  - walking together vs. walking in parallel (Gilbert)
+  - running to the shelter because of a storm vs running there as part of a ballet (Searle)
+These contrast cases are supposed to point is to the special kind of interaction to be characterised, joint action, and to show that characterising it requires some special ingredient linking the agents' intentions together.
+
+* Shared intention:
+  - varying accounts of what it is 
+  - necessary conditions for shared intention
+
+* Reasons for doubt
+  - cognitive demands
+  - desire to explain emergence of sophisticated forms of social cognition by appeal to interaction
+  - [for later: why is this not terminological?  
+      We can simply say that there are various forms of joint action, not all of them involve shared intention.
+      But this attitude causes disruption to the standard story because it raises the question,
+      What  is shared intention good for?
+      On the standard story it matters because it makes possible the sorts of joint action anchored by the contrast cases.  
+      What I am going to argue is that the contrast cases do not point to a single kind of joint action, and that the challenge they present can be answered without shared intention.
+      This leaves us with an open question about what shared intention is good for,
+      and what should constrain an account of shared intention.]
+
+* Compare individual action
+  - standard view is that where an action is directed to a goal it involves an intention
+  - I don't believe this it all
+  - in some cases goal-directedness is a consequence of motor representation, not intention; and
+  - in some cases goal-directedness is a consequence of teleological function, not intention.
+  
+
+* Goals vs intentions
+
+
