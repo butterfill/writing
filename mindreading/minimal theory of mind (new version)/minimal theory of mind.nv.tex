@@ -284,25 +284,28 @@ So a constructive approach is needed. ***
 
 \section{Minimal theory of mind}
 
-In this section we identify concepts and principles necessary for constructing a form of theory of mind cognition.  We begin with someone, call her Lucky, capable  of representing nonintentional behaviour only and ask what more is needed for minimal theory of mind cognition.  We describe Lucky’s progress with a series of five principles. The principles are constructed in such a way that it would be coherent to suppose that Lucky has the abilities codified by the first \textit{n} principles only. They are not intended to represent a developmental or evolutionary progression.  The principles can also be extended to explain more sophisticated theory of mind abilities than those considered here.  We restrict ourselves to these five principles because they are sufficient to explain success on some well-known false belief tasks.%
+In this section we begin with someone, call her Lucky, capable  of representing nonintentional behaviour only and ask what more is needed for minimal theory of mind cognition.  We describe Lucky’s progress with a series of five principles. The principles are constructed in such a way that it would be coherent to suppose that Lucky has the abilities codified by the first \textit{n} principles only. They are not intended to represent a developmental or evolutionary progression.  The principles can also be extended to explain more sophisticated theory of mind abilities than those considered here.  We restrict ourselves to these five principles because they are sufficient to explain success on some false belief tasks.%
 \footnote{
 In standard false belief tasks, “[t]he subject is aware that he/she and another person [call him Maxi] witness a certain state of affairs x.  Then, in the absence of the other person the subject witnesses an unexpected change in the state of affairs from x to y” \citep[][p.\ 106]{en_89}.  The test concerns whether the subject realises that Maxi will falsely believe x to obtain.  In many cases the states of affairs, x and y, differ only with respect to the location of an object \citep[e.g.][]{en_1092, en_1208, en_1824}. 
-As we go on to discuss, our proposal for a minimal theory of mind could easily be extended to cover a range of other cases;
+As we go on to discuss, our proposal for a minimal theory of mind could be extended to cover a range of other cases;
 but importantly there are also false belief tasks success on which cannot be explained by minimal theory of mind cognition (see section ***).
 }
 
 
-	We aim to provide the core elements of a computational theory in Marr’s sense (\citeyear[][pp.\ 15-29]{en_917}) where our computational theory, unlike the standard full-blown theory of mind which hinges on beliefs, desires and other propositional attitudes, is one that could be realised in a cognitively efficient manner without requiring conceptual sophistication.\footnote{ 	To provide a computation theory in Marr’s sense is not to imply that its implementation will involve computational processes.}  There are multiple ways in which this computational theory might be implemented.  We shall not discuss how the theory might be implemented here other than to note that it seems unlikely that the principles formulated below are represented explicitly.  It is valuable to articulate the computational theory in some detail before formulating and testing conjectures about implementation.  
+	We aim to provide the core elements of a computational theory in Marr’s sense (\citeyear[][pp.\ 15-29]{en_917}) where our computational theory, unlike the standard full-blown theory of mind which hinges on beliefs, desires and other propositional attitudes, is one that could be realised in a cognitively efficient manner without requiring conceptual sophistication.\footnote{ 	Computational theories in Marr’s sense are not necessarily  implemented by computational processes.}  There are multiple ways in which this computational theory might be implemented.  We shall not discuss how the theory might be implemented here other than to note that it seems unlikely that the principles formulated below are represented explicitly.  It is valuable to articulate the computational theory in some detail before formulating and testing conjectures about implementation.  
 
 
 
 \subsection{First principle}
 
-***HERE
+The first principle concerns goal-directed action.
+The term ‘goal-directed action’ can be used to mean several things.  One is intentional action.  To represent intentional actions as such you also have to represent intentions or  propositional attitudes such as beliefs and desires \citep[]{en_18}. 
+This notion is therefore no use for constructing a minimal theory of mind---our aim is to explain how Lucky could  track perceptions and beliefs without representing beliefs or other propositional attitudes as such.
+Instead we need a more basic notion of goal-directed action.  
 
-Until now Lucky has been aware only of object-directed actions.  A further basic unit of action in theory of mind cognition is goal-directed action. To illustrate, a paradigm goal-directed action would be drinking from a bottle, which typically involves multiple object-directed actions such as first grasping a bottle and then lifting a bottle.  Many predictions do not directly concern object-directed actions but rather goal-directed actions.  Awareness of goal-directed actions is therefore an important further step in acquiring minimal theory of mind cognition. 
-
-The term ‘goal-directed action’ can be used to mean several things.  One is intentional action.  This notion is no use for constructing a minimal theory of mind.  To represent intentional actions as such you also have to represent intentions and related propositional attitudes such as beliefs \citep[]{en_18}.  Constructing a minimal theory of mind requires a basic notion of goal-directed action.  We take the units of goal-directed action to be collections of one or more object-directed behaviours.  We stipulate that for an outcome, \textit{g}, to be the goal of a collection of object-directed behaviours is for it to occur in order to bring about \textit{g}; that is, \textit{g} is the function of this collection.  Here ‘function’ should be understood teleologically.  On the simplest teleological construal of function, for an action to have the function of bringing about \textit{g} would be for actions of this type to have brought about \textit{g} in the past and for this action to occur in part because of this fact \citep[see further][]{en_144, en_141, en_162, en_139, en_161}.  Lucky needs some ability to track the functions of things (in this sense of ‘function’) so that she can distinguish from among all the outcomes of an action those which are its goals.%
+A suitable notion of goal-directed action can be chracterised in terms of functions \citep{Taylor:1964tr,Dretske:1988sq}.
+The units of goal-directed action are events comprising mere bodily movements.  
+We stipulate that for an outcome, \textit{g}, to be the goal of some bodily movements is for these bodily movements to occur in order to bring about \textit{g}; that is, \textit{g} is the function of this collection.  Here ‘function’ should be understood teleologically.  On the simplest teleological construal of function, for an action to have the function of bringing about \textit{g} would be for actions of this type to have brought about \textit{g} in the past and for this action to occur in part because of this fact \citep[see further][]{en_144, en_141, en_162, en_139, en_161}.  Lucky needs some ability to track the functions of things (in this special sense of ‘function’) so that she can link some bodily movements to the goals to which they are directed.%
 \footnote{
 Note that the requirement is not that Lucky understands the theoretical account of functions, only that she can distinguish between things which have different functions in this theoretical sense of ‘function’.  A wide variety of research supports the claim that young children, non-human primates and corvids track the functions of things (including 
 	\citealp{en_1086},
@@ -314,13 +317,60 @@ Note that the requirement is not that Lucky understands the theoretical account 
 ).
 }
 
-This is not an account of full-blown goal-directed action.  It is what someone who has only a minimal grasp of goal-directed action might understand.  Representing goals in this sense does not require representing representations because such goals are non-representational.  Representing goals only involves representing outcomes as functions of behaviours. 
+This is not supposed to be a fully adequate account of goal-directed action.
+For our purposes what matters  is not whether the account correctly identifies what goal-directed action is, but rather that it characterises what someone who has only a minimal grasp of goal-directed action might understand.  
+For comparison, consider an individual whose understanding of kinship could be characterised by an incorrect theory of social relations.
+In practice it may not matter that the individual fails to fully understand kinship providing that she can reliably identify who is whose kin in her everyday life.  
+Similarly, Lucky does not need to fully understand goal-directed action in order to be able to pick out, in a limited but useful range of cases, which bodily movements are directed to which outcomes.
 
-To illustrate the difference between object-directed and goal-directed actions, consider a scrub-jay repeatedly caching and re-caching a worm (we take our inspiration from studies such as Emery \& Clayton, 2001).  The outcome of this collection of object-directed caching behaviours is (let’s say) that an observer is deprived of information about the location of the worm.  This is not an outcome of any of the constituent object-directed behaviours taken individually.  It is only an outcome of the collection considered as a whole.  The significance of the whole sequence can only by appreciated by Lucky once she is equipped to represent goals.  
+Note that representing goal-directed action as we have characterised it does not require representing representations.
+It only requires representing outcomes as functions of bodily movements. 
+(The term `goal' is sometimes used, perhaps improperly, to refer to intentions or other representations;
+but as we use the term, a goal is simply an outcome to which an action is directed.)
 
-The first principle, then, is that object-directed actions form larger units of action which are directed to goals.  This second principle is sufficient to explain some cases of imitative learning, which can be defined as attempting to reproduce the actions necessary to achieve a goal \citep[]{en_1317}.  
+
+The first principle, then, is that bodily movements form units which are directed to goals.  This first principle is sufficient to explain some cases of imitative learning, which can be defined as attempting to reproduce the actions necessary to achieve a goal \citep[]{en_1317}.  
 
 
+
+\subsection{Second principle}
+Before describing the second principle we need to introduce two concepts.
+An agent’s \textit{field} at any given time is a set of objects.  Whether an object falls within the agent’s field is determined by spatial and physical constraints such as proximity and lighting.  The agent’s orientation and posture will also play a role in determining which objects fall into an agent’s field, as will eye direction in some species.  To fall within an agent’s field, there must be no opaque barriers between the agent and the object, unless the object was recently in motion and not behind a barrier.  These constraints ensure that objects which fall into an agent’s field are approximately those the agent can perceive.\footnote{ 	A variety of research in spatial and motor cognition suggests that adult humans (and perhaps others) not only compute other agents’ fields but also spontaneously locate objects within the spatial perspectives of other agents \citep[e.g.][]{en_1700, en_1701}.  }
+
+Let us say that an agent is \textit{encountering} an object if it is in her field.  The notion of encountering defines a relation between an agent and an object.  Within limits, this notion of encountering can do some of the work that the concept of perception does.  Encountering an object is like perceiving one to the extent that both notions involve a relation between agents and objects, both notions have approximately the same extension (someone perceives an object just if she encounters it), and both notions are bound up with action.  But to track who encounters what does not require understanding perception or related psychological concepts.  
+
+With these concepts in place, we can state the second principle: one can’t initiate goal-directed actions on an object unless one is encountering it.  So for an object-directed action to occur it is not sufficient merely that the object is present; the agent must also be encountering the object.  This principle is not true but it is a useful heuristic.
+
+What applications does the first principle have?  Sometimes it is possible to exercise control over an agent’s behaviour by manipulating whether she encounters an object.  A simple application of this would be keeping some food concealed from competitors close enough to grab it.  Concealing the food prevents the competitor from encountering it and therefore from grabbing it.
+
+The hypothesis that an individual tracks what others encounter is also sufficient to explain success on some tests for level 1 perspective taking.  \citet[]{en_1550} asked children to hide objects from an experimenter.  The setup meant that the only hiding place left the objects in full view of the child herself.  Even the youngest children tested, two-and-a-half-year-olds, could do this reliably.  They were also able to say who could see an object in different conditions.  The researchers concluded that children can think about seeing:
+%
+\begin{quote}
+“children could conceptually distinguish what they saw from what another person might see, [and] could think about what the other person saw rather than what they saw when asked to do so.” \citep[][p.\ 1210]{en_1550}
+\end{quote}
+%
+An alternative hypothesis consistent with these results is that children relied on knowledge of encountering rather than of seeing.  On this hypothesis, children interpreted the experimenter as requesting them to place the object where she would not be encountering it.  And they interpreted questions about who can see what in terms of who is encountering what.
+
+We are not claiming that the best explanation of these findings is the hypothesis that two-year-olds represent encountering rather than seeing; any such claim would require new experiments.  But this hypothesis is not known to be less likely than any of the competing hypotheses, and it can explain children’s performance without ascribing them sophisticated psychological concepts such as seeing.
+
+The principle about encountering being required for object-directed action could also explain success on another test for level 1 perspective taking by Moll and Tomasello (\citeyear[]{en_1202}).  An experimenter was positioned so that she could see only one of two objects (see Figure \vref{figure:level_1_perspective_taking}).  She then asked the child, ‘Where is the other toy? Where is it? I cannot find it!’ and then ‘Can you give it to me?’ (2006: 607).  Two-year-olds were significantly more likely to give the experimenter the toy she could not see.  
+
+
+
+\begin{figure}
+\begin{center}
+\includegraphics{figure_level_1_perspective_taking.png}
+\caption{
+\label{figure:level_1_perspective_taking}
+Experimental setup for Moll \& Tomasello’s 2006 experiment on level 1 perspective taking.  The experimenter was unable to see one of two objects clearly visible to the child.  When the experimenter asked “I cannot find it! … Can you give it to me?”, two-year-olds reliably handed the hidden toy to the experimenter \citep[source: ][figure 1]{en_1202}.
+}
+\end{center}
+\end{figure}
+
+
+The authors suggest that children of this age “knew what another person could and could not see when that differed from what they saw” \citep[][p.\ 609]{en_1202}.  An alternative possibility is that children were representing encountering rather than seeing.  Children may interpret the experimenter’s saying “Where is it? I cannot find it!” as expressing an inability to act.  Since encountering an object is a condition for acting on it, this would explain why they reliably handed the experimenter the object she was not encountering.\footnote{ 	Children in Moll and Tomasello’s experiment reliably work out which object the experimenter is requesting.  This suggests some understanding of pragmatics which could be taken as evidence of further theory of mind cognition.  The hypothesis about encountering is neutral on this issue.  Its purpose is only to show that success on these tasks may involve representing encountering rather than seeing.}
+
+Perhaps it is a mistake to think of our hypothesis about encountering as an alternative to claims about seeing and perceiving.  It is striking that philosophers have quite different views about what seeing involves—there are debates about whether it is possible to see things without seeing that something is the case \citep[e.g.][]{en_1671}, about whether and in what sense seeing is a representational notion \citep[]{en_1619, en_1705}, and about whether vision is intrinsically a source of knowledge \citep[]{en_1706}, for example.  By contrast, developmental researchers say little about what they take understanding seeing or perceiving to consist in.  Which notion of perception is the one children understand?  Without an answer to this question it is unclear what it means to claim that children understand seeing or perceiving and unclear what predictions follow from this claim.  The notion of encountering might be taken as a first step towards specifying what subjects understand when they understand perceiving.  It is only a first step because it may need elaborating in order to characterise what subjects understand about perception (see footnote 9 above); but it is a vital step because it involves minimising reliance on commonsense psychological concepts in favour of a constructive account.
 
 
 
