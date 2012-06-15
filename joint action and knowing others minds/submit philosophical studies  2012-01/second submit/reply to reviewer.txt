@@ -1,0 +1,19 @@
+The reviewer's comments and two suggestions were extremely useful.  The paper has been  revised to incorporate both suggestions. 
+
+--- First suggestion:
+"The authors might address what a passive observer C might think of what B is doing.  Suppose the passive observer knows what A is doing (trying to get the pram on the bus).  Then C, observing A's cues for engaging in joint activity with B, could infer as easily as B that A is trying to lift the stroller to help get it on the bus.  I don't think that this undermines the author's argument, because C relies on the very capacities to engage in interaction that the authors emphasize.  But it might be nice to address this sort of case, just to clarify their thesis:  after all, C does not on this occasion engage in any reciprocity, interaction, or willingness to interact.   (Nor does C rely on any deception or cognitive sophistication; cf. p14)."
+
+--- Reply to first suggestion:
+This has been done in a new section, section 8 on pp. 20-1 titled 'Observing Interaction'.  There is also a new paragraph on p. 15 (the third full paragraph) and corresponding minor changes to statements of the argument throughout.  As the reviewer points out, the suggestion doesn't undermine the main line of argument.  Even so, it seemed appropriate to devote a whole section to it both because it clarifies our thesis and because it suggests a further way in which interaction may matter for mindreading.
+
+
+--- Second suggestion:
+"Concerning the your-goal-is-my-goal inference: the authors rely on the idea that the mind-reader A has a fixed goal G so that when the other person B expresses willingness to engage in joint activity, A can infer that B will have the same goal.  But is this always the case?  Often when someone makes an overture to engage in shared activity, it's not always clear that you are supposed to keep on doing exactly what you were doing.  There are, of course, cases where someone joins in and adopts a goal that the other or others have.  But often shared activity gets individuals doing things they weren't doing before.  So when A signals that they are willing to act jointly, can the mindreader (B) assume that A has the same goal?  Couldn't A be trying to get him to have some different goal with him? So, clarifying the inference to rule out this case might be helpful."
+
+--- Reply to first suggestion:
+This has been done in with a slight change to premise (1) on page 13 and a new paragraph on page 14 (the second full paragraph) .  
+
+
+
+
+I've mentioned a couple of suggestions, but the paper is pretty much fit to be published as is.  I think it meets the high standards for Philosophical Studies.
