@@ -1,0 +1,21 @@
+
+Perner et al (2011) argue that children under four years of age cannot 'profit from identity information'?  Is this a problem for the proposed study?  Does their inability to 'profit from identity information' already imply that they cannot understand false beliefs involving identity?  (In that case the proposed experiments would be uninformative if they showed that two- or three-year-olds fail FB:identity while passing comparable FB:location tasks.)
+
+
+Study 2: Lost & Found
+
+-- same person is introduced twice, once as 'the firefighter' and once as 'Mr Mueller'; then Ss are told 'Mr Mueller is the firefighter' and have to use this information.  In the terms Perner et al favour, Ss have to understand that two discourse referents are associated with the same external referent.
+
+-- In FB:Identity, there is a single object which undergoes perceptual transformation; what we require is just that children can recognize that a single single object has changed its appearance.  Discourse referents are not involved.
+
+
+
+Study 1: Key
+
+-- a key is introduced as opening the snake's cage and marked accordingly (green sticker); a key is introduced as opening the lion's cage  and marked accordingly (yellow sticker); then Ss are shown that one and the same key has been marked with both stickers and told 'the yellow key is also the green key'; they have to use this information to infer that the same key opens both cages.  
+
+-- Three-year-old's poor performance can't be explained just by a failure to understand the identity sentence because they are also shown that the keys are identical.  Given the 'dual function' control condition, it seems failure must also hinge on Ss difficulty recovering from their own earlier false belief that two keys are involved.  I'm puzzled about this condition but I don't see a parallel to design #4 on the shortlist.  Perhaps the key difference is that, in our proposals, Ss never have false beliefs about identity themselves.
+
+Maybe there is a warning here: if we had a design where both Ss and Protagonist initially have a false belief about identity, and then the truth about identity is revealed to Ss but not protagonists, then we might run into problems where children have difficulty recovering from the initial false belief.  (It should be possible to control for this possibility, of course.)
+
+

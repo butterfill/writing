@@ -1,0 +1,19 @@
+\expandafter\ifx\csname doTocEntry\endcsname\relax \expandafter\endinput\fi 
+\doTocEntry\tocsection{1}{\csname a:TocLink\endcsname{1}{x1-10001}{QQ2-1-1}{Introduction}}{4}\relax 
+\doTocEntry\tocsection{2}{\csname a:TocLink\endcsname{1}{x1-20002}{QQ2-1-2}{Motivation}}{6}\relax 
+\doTocEntry\tocsection{3}{\csname a:TocLink\endcsname{1}{x1-30003}{QQ2-1-3}{More motivation}}{9}\relax 
+\doTocEntry\tocsection{4}{\csname a:TocLink\endcsname{1}{x1-40004}{QQ2-1-4}{Minimal theory of mind}}{10}\relax 
+\doTocEntry\tocsubsection{4.1}{\csname a:TocLink\endcsname{1}{x1-50001}{QQ2-1-5}{First principle}}{11}\relax 
+\doTocEntry\tocsubsection{4.2}{\csname a:TocLink\endcsname{1}{x1-60002}{QQ2-1-6}{Second principle}}{12}\relax 
+\doTocEntry\toclof{1}{\csname a:TocLink\endcsname{1}{x1-60021}{}{\ignorespaces   A subordinate observes as food is placed. The subordinate can also see the dominant. There are three conditions: control—the dominant sees food being placed; `uninformed'—the dominant’s view is blocked while the food is placed; and `misinformed'—the dominant sees the food being placed then has their view blocked while it is moved. \citep  [Source:][pp. 142, fig. 1]{en_1545} }}{figure}\relax 
+\doTocEntry\tocsubsection{4.3}{\csname a:TocLink\endcsname{1}{x1-70003}{QQ2-1-8}{Third principle}}{17}\relax 
+\doTocEntry\tocsubsection{4.4}{\csname a:TocLink\endcsname{1}{x1-80004}{QQ2-1-9}{Fourth principle}}{20}\relax 
+\doTocEntry\tocsubsection{4.5}{\csname a:TocLink\endcsname{1}{x1-90005}{QQ2-1-10}{Extensions and variations}}{21}\relax 
+\doTocEntry\tocsubsection{4.6}{\csname a:TocLink\endcsname{1}{x1-100006}{QQ2-1-11}{But is it theory of mind cognition?}}{22}\relax 
+\doTocEntry\tocsection{5}{\csname a:TocLink\endcsname{1}{x1-110005}{QQ2-1-12}{Limits: how to distinguish minimal from full-blown theory of mind cognition}}{23}\relax 
+\doTocEntry\toclof{2}{\csname a:TocLink\endcsname{1}{x1-110042}{}{\ignorespaces   How to test whether infants can ascribe false beliefs about identity. The subject is in the foreground with only the back of her head visible; the protagonist sits opposite, facing the subject. A screen conceals some of the action from the protagonist. }}{figure}\relax 
+\doTocEntry\toclof{3}{\csname a:TocLink\endcsname{1}{x1-110063}{}{\ignorespaces   How to test whether infants can ascribe false beliefs about identity where the mistake involves belief whose truth would entail that there were fewer objects than there in fact are. As in Figure 2\hbox {}, the subject is in the foreground with only the back of her head visible; the protagonist sits opposite, facing the subject. A screen conceals some of the action from the protagonist. }}{figure}\relax 
+\doTocEntry\tocsection{6}{\csname a:TocLink\endcsname{1}{x1-120006}{QQ2-1-15}{Limits: how to distinguishing minimal theory of mind from behavioural strategies}}{39}\relax 
+\doTocEntry\tocsection{7}{\csname a:TocLink\endcsname{1}{x1-130007}{QQ2-1-16}{Conclusion}}{41}\relax 
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{1}{x1-140007}{QQ2-1-17}{References\ttl@gmk {\@mkboth {\MakeUppercase  {References}}{\MakeUppercase  {References}}}}}{43}\relax 
+\par 

@@ -1,0 +1,57 @@
+htfcss: cmti  font-style: italic;
+htfcss: cmbx  font-weight: bold;
+htfcss: cmbxsl  font-weight: bold; font-style: oblique;
+htfcss: cmmi font-style: italic;
+htfcss: cmmib font-style: italic; font-weight: bold;
+htfcss: cmbsy font-weight: bold;
+htfcss: cmbsy font-weight: bold;
+htfcss: cmbsy font-weight: bold;
+File: mtm.nv.4oo
+File: mtm.nv.tmp
+File: mtm.nv-settings.4os
+File: mtm.nv-styles.4oy
+File: mtm.nv-manifest.4of
+File: mtm.nv-meta.4ot
+File: figure_hare_food_perception.png.4og
+File: mtm.nv-m2.4om
+File: mtm.nv-m3.4om
+File: mtm.nv-m4.4om
+File: mtm.nv-m5.4om
+File: mtm.nv-m6.4om
+File: mtm.nv-m7.4om
+File: mtm.nv-m8.4om
+File: mtm.nv-m9.4om
+File: mtm.nv-m10.4om
+File: mtm.nv-m11.4om
+File: mtm.nv-m12.4om
+File: mtm.nv-m13.4om
+File: mtm.nv-m14.4om
+File: mtm.nv-m15.4om
+File: figure_charlie_samantha_experiment.png.4og
+File: figure_identity_balls_experiment.png.4og
+File: mtm.nv.4od
+File: mtm.nv.odt
+--- characters ---
+Font("cmr","10","10","100")
+Font("cmr","12","12","100")
+Font("cmbsy","10","10","120")
+Font("cmbsy","8","8","100")
+Font("cmbsy","6","6","100")
+Font("cmex","10","10","120")
+Font("cmex","8","8","100")
+Font("cmex","7","7","100")
+Font("cmr","8","8","100")
+Font("cmr","6","6","100")
+Font("cmmi","12","12","100")
+Font("cmmi","8","8","100")
+Font("cmmi","6","6","100")
+Font("cmsy","10","10","120")
+Font("cmsy","8","8","100")
+Font("cmsy","6","6","100")
+Font("cmr","17","17","120")
+Font("cmr","12","12","120")
+Font("cmr","10","10","109")
+Font("cmbx","10","10","109")
+Font("cmti","12","12","100")
+Font("cmti","10","10","100")
+Font("cmti","10","10","109")
