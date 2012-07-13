@@ -1,0 +1,101 @@
+Interacting Mindreaders proof corrections
+
+Queries
+----------
+1. Please check and confirm the year for the following references: Bratman (1999); Bratman (2012); Searle (2002)
+
+REPLY: 
+Bratman (1999) -- this paper was first published in 1997 in Raimo Tuomela and Ghita Holmstrom-Hintikka (eds.), Contemporary Action Theory, Volume 2: Social Action (Dordrecht: Kluwer).  However I am referring to the pages in version reprinted in the 1999 book.
+
+Bratman (2012) -- this book isn't finished yet, please remove the sole reference to it (at line 16FL02).
+
+Searle (2002) -- this paper was published in 1990 in P. Cohen, J. Morgan, and M.E. Pollack (eds.), Intentions in Communication. Cambridge, MA: MIT Press. However I am referring to the pages in version reprinted in the 2002 book.
+
+
+2. Please the following reference: Bratman (2012) with journal title and bibliographic details
+
+Bratman (2012) -- this book isn't finished yet, please remove the sole reference to it (at line 16FL02).
+
+
+Corrections
+------------
+
+line 1FL02: missing closing quotation mark after " others "
+
+line 113: missing apostrophe: should be "others' actions"
+
+line 122: missing apostrophe: should be "others' purposive actions"
+
+line 126: missing apostrophe: should be "the others' advance"
+
+lines 140, 144, 149, 151: missing apostrophe on " others " (should be " others' ")
+
+line 158: replace 'on Sect.' with 'in Sect.'
+
+line 172: missing apostrophe on " agents "  (should be " agents' ")
+
+line 181: missing apostrophe on " agents "  (should be " agents' ")
+
+line 182: missing apostrophe on " agents "  (should be " agents' ")
+
+line 10FL02: missing colon after the right parenthesis just before the quote starts
+
+line 211: spacing and indentation is incorrect (this line needs to be part of the main body of text, not part of the list)
+
+line 313: replace " other's " with " others' " (plural others + apostrophe)
+
+line 317: missing apostrophe on " agents " (should be " agents' ")
+
+line 319: replace " agents " with " agent's " (should be possessive not plural!)
+
+line 331: replace "agent neutral" with "agent-neutral" (my mistake)
+
+line 350: missing apostrophe on " agents " (should be " agents' ")
+
+line 353: missing apostrophe on " agents " (should be " agents' ")
+
+line 354: missing apostrophe on " others " (should be " others' ")
+
+line 356: missing apostrophe on " others " (should be " others' ")
+
+line 358: missing apostrophe on " agents " (should be " agents' ")
+
+line 17FL05: delete space between closing quotation mark and period
+
+line 17FL07: missing closing quotation mark, should be " their actions'; this "
+
+line 396: missing apostrophe on " others " (should be " others' ")
+
+line 18FL07: delete space between closing quotation mark and period
+
+line 18FL08: missing apostrophe on 'actions' (should be " actions' ")
+
+line 404: replace '12' with '1 and 2' (this is a reference to numbered items above)
+
+line 454: replace 'ingredient' with 'ingredients' (my mistake)
+
+line 475: missing apostrophe on " others " (should be " others' ")
+
+line 545: missing apostrophe on " others " (should be " others' ")
+
+line 618: missing apostrophe, " targets " should be " target's "
+
+line 623: missing apostrophe on " others " (should be " others' ")
+
+line 629: missing apostrophe on " others " (should be " others' ")
+
+line 647: missing apostrophe on " others " (should be " others' ")
+
+line 654: replace " other's " with " others' " (my mistake)
+
+line 674: missing apostrophe on " others " (should be " others' ")
+
+line 711: missing apostrophe on " others " (should be " others' ")
+
+line 715: missing apostrophe on " agents " (should be " agents' ")
+
+line 720: missing apostrophe on " targets " (should be " targets' ")
+
+line 738: missing apostrophe on " others " (should be " others' ")
+
+line 743: missing apostrophe on " others " (should be " others' ")

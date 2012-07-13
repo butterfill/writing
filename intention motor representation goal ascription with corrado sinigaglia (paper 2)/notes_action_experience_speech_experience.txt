@@ -1,0 +1,25 @@
+Dear Corrado,
+
+Flight was good, but it's lucky I got an early bus because it took a while to get to the airport (still had plenty of time), now I'm on the train.  Thanks for a great visit!
+
+Here are some notes on our discussion on the way to the bus ...
+
+1. We stipulate that a speech experience is an experience associated with encountering speech (and similarly for action experience).  
+
+2. What are speech experiences experiences of?  One possibility is that they are experiences of sounds only.  Let us call this the Acoustic View.
+
+3. Consider the view that perceiving speech or perceiving action depends on motor representations and processes in this way: our abilities to distinguish one phoneme from another somehow involve being able, when encountering phonemes, to represent motorically the phonemes as action outcomes.  This is a component of the motor theory of speech perception due to Liberman and Mattingly.   We could go further and say that the phenomenal character of speech experiences depends on motor representations of action outcomes.  Let us call this the Motor View.  (Corrado: at this point you talked about introducing O'Regan's views.)  
+
+4. Strikingly, the Motor View of (3) is consistent with the Acoustic View (2).  This is because it is coherent to suppose that motor representations modulate acoustic experiences; and there is some evidence that this occurs (Repp & Knoblich).  In that case it would be true, as the Motor View requires, that the phenomenal character of speech experiences depends on motor representations of action outcomes (phonemes); but it would also be true that these are experiences of sounds only.
+
+5. Of course the Motor View is also compatible with rejecting the Acoustic View in favour of what we shall call the Action View, according to which speech experiences are experiences of actions.  However, at this point it is not obvious what would be evidence for the Action View over the Acoustic View.  In particular, the fact that motor representations and processes are involved in, or even essential for, speech experience does not distinguish the Action View from the Acoustic View.
+
+6. What could provide evidence against the Acoustic View (and so indirectly support the Action View)?  Clearly, it is possible to rationally distinguish between two phonemes (or syllables) on the basis of experience only when the speech experiences associated with these phonemes differ phenomenally.  Now on the Acoustic View, speech experiences are experiences of sounds only. So when two speech experiences differ phenomenally, they are experiences of (or as of) different sounds.  So if the Acoustic View is right, listeners can only rationally distinguish two phonemes on the basis of speech experience if they experience the phonemes as differing in sound.  Conversely, evidence against the Acoustic View would be situations in which listeners judge both that two events involve the same sounds but different phonemes (or syllables).
+ 
+7. In order to provide such evidence, consider this experiment based on the McGurk effect ... [The experiments we discussed are characterised roughly in tables in the paper on google docs]
+
+ciao,
+Steve
+
+
+
