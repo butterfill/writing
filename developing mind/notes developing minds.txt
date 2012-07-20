@@ -1,0 +1,19 @@
+
+`535. The child knows what something is called if he can reply correctly to the question "what is that called?"
+536. Naturally, the child who is just learning to speak has not yet got the concept is called at all.
+537. Can one say of someone who hasn't this concept that he knows what such-and-such is called?
+538. The child, I should like to say, learns to react in such-and-such a way; and in so reacting it doesn't so far know anything. Knowing only begins at a later level.'
+\citep[p.\ 71]{Wittgenstein:1974dk}
+
+`So far we have found four ways of understanding words:
+(1) On suitable occasions you use the word properly.
+(2) When you hear it you act appropriately.
+(3) You associate the word with another word (say in a different language) which has the appropriate effect on behaviour.
+(4) When the word is being first learnt, you may associate it with an object, which is what it "means," or a representative of various objects that it "means."
+In the fourth case, the word acquires, through association, some of the same causal efficacy as the object. The word "motor" can make you leap aside, just as the motor can, but it cannot break your bones. The effects which a word can share with its object are those which proceed according to laws other than the general laws of physics, i.e. those which, according to our terminology, involve vital movements as opposed to merely mechanical movements. The effects of a word that we understand are always mnemic phenomena in the sense explained in Lecture IV, in so far as they are identical with, or similar to, the effects which the object itself might have.'
+\citep[p.\ 75]{Russell:1921ww}
+
+`We have thus, in addition to our four previous ways in which words can mean, two new ways, namely the way of memory and the way of imagination. That is to say:
+(5) Words may be used to describe or recall a memory−image: to describe it when it already exists, or to recall it when the words exist as a habit and are known to be descriptive of some past experience.
+(6) Words may be used to describe or create an imagination−image: to describe it, for example, in the case of a poet or novelist, or to create it in the ordinary case for giving information−though, in the latter case, it is intended that the imagination−image, when created, shall be accompanied by belief that something of the sort occurred.'
+\citep[p.\ 77]{Russell:1921ww}
