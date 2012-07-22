@@ -17,3 +17,8 @@ In the fourth case, the word acquires, through association, some of the same cau
 (5) Words may be used to describe or recall a memory−image: to describe it when it already exists, or to recall it when the words exist as a habit and are known to be descriptive of some past experience.
 (6) Words may be used to describe or create an imagination−image: to describe it, for example, in the case of a poet or novelist, or to create it in the ordinary case for giving information−though, in the latter case, it is intended that the imagination−image, when created, shall be accompanied by belief that something of the sort occurred.'
 \citep[p.\ 77]{Russell:1921ww}
+
+Nativism:
+`the availability of the concept being acquired will have to be presupposed even to give canonical expression to the experiences that fix that concept.' \citep[p.\ 272]{Fodor:1981ep} --- what's nice about the core knowledge view is that it offers a modified view of hypothesis testing; first the stimuli are associated with some core notion, and this association then somehow leads to the ability to use a word correctly, which then somehow leads to the acquisition of a concept.
+
+
