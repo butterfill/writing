@@ -1,0 +1,39 @@
+p. 4 line 2: Please replace 'Also' with 'In addition, '
+
+p. 4 line 41 in footnote 2: please replace 'evidence that' with 'evidence for the claim that'
+
+p. 6 line 26: please replace 'representational objects' with 'contents'
+
+p. 7 line 8: please delete the space between the period and the mark for footnote 3
+
+p. 8 line 43 in footnote 6: there is an extra right bracket.  For consistency with the style used in footnote 10 on p. 19 at line 34, the first right bracket should be removed.
+
+p. 9 lines 37-8 in footnote 7: there are three extra right brackets.   For consistency with the style used in footnote 10 on p. 19 at line 34, the first of each pair of right brackets should be removed.
+
+* p. 10 line 25: please replace 'a ball rotate' with 'rotating a ball'
+
+p. 10 line 43 in footnote 8: there is an extra right bracket.  For consistency with the style used in footnote 10 on p. 19 at line 34, the first right bracket should be removed.
+
+p. 11 line 28: please delete the inner brackets so that '(Kosslyn et al (2001))' becomes '(Kosslyn et al 2001)'
+
+p. 16 line 29: please delete the inner brackets so that 'Levine (2010)' becomes 'Levine 2010'
+
+p. 17 line 12: please insert a period at the end of the sentence (after 'Do that!')
+
+* p. 17 line 25: please replace 'intending to grasping' with 'intending to grasp'
+
+* p. 17 lines 26-7:  please replace 'intending to grasping' with 'intending to grasp' (again)
+
+p. 19 line 25: please insert a space after the last comma on this line (so that '1998,2001' becomes '1998, 2001')
+
+p. 20 line 21: please replace 'that motor representation' with 'that some motor representations'
+
+p. 20 line 22: please replace 'modulates' with 'modulate'
+
+* p. 21 line 36: please replace 'alternatives exists' with 'alternatives exist'
+
+* p. 21 lines 36-7: please delete 'if there is no way of fully solving the interface problem other than by menas of deferential action concepts, '
+
+p. 22 line 40 in footnote 12: please add 'Gabriella Bottini, ' after 'thanks to '
+
+* p. 22 line 31 in footnote 12: please replace 'Pacherie and Natalie Sebanz.' with 'Pacherie, Natalie Sebanz and an anonymous referee.'
