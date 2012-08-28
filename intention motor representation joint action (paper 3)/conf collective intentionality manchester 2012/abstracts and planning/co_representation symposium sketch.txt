@@ -1,0 +1,16 @@
+Co-representation
+
+Acting together in real-time, as in joint music performance, requires individuals to adjust their actions to temporally interlock with others’.  
+The need for precise temporal coordination means that these adjustments cannot be fully explained in terms of intentions, commitments or linguistic communication.
+Recent behavioural and neuroscientific studies have investigated the possibility that agents can integrate a co-actor into their own action planning.
+These studies also indicate that individuals plan joint actions from a group perspective rather than an individual perspective.
+Whereas philosophers investigating joint action have tended to focus on shared intentions and interlocking commitments, these studies reveal the need for interdependent motor processes and representations.
+This symposium aims, first, to introduce psychological research on how representations of tasks, actions and the consequences of actions facilitate joint action and, second, to identify conceptually challenges posed by this research.
+
+
+Guenther Knoblich (Evolving intentions for social interaction: from entrainment to joint action. Philosophical Transactions of the Royal Society B, 363:2021–2031.)
+
+Chris Peacocke (*)
+
+Elisabeth Pacherie (Pacherie, E. and Dokic, J. (2006). From mirror neurons to joint actions. Cognitive Systems Research, 7(2-3):101–112.)
+
