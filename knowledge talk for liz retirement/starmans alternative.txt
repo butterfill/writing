@@ -1,0 +1,11 @@
+Liz wants to know whether Z.  
+
+One day Liz finds a paper whose authors are arguing that X; moreover, X entails Z.  Now Liz knows and justifiably trusts the authors; moreover the paper is convincing.  She therefore accepts, on the basis of the paper, that X is true.  From this she infers that Z is true.  However, exceptionally, the authors have made a subtle error which means that their methods were fatally flawed.  In fact, X is not true at all.  
+
+By coincidence and unknown to Liz, another lab has recently used a completely different paradigm to successfully establish that Y.  Since Y also entails Z, Z must be true.
+
+Question 1: Does Liz accept that Z?  Yes  /  No
+
+Question 2:  Does Liz know that Z?  Yes  /  No
+
+
