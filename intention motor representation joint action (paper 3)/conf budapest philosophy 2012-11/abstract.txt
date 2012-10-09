@@ -1,0 +1,27 @@
+Shared Agency and Motor Representation
+
+Shared agency is paradigmatically involved when two or more people paint a house together, tidy the toys away together, or lift a two-handled basket together.  To characterise shared agency, some philosophers have appealed to a special kind of intention or structure of intention, knowledge or commitment often called 'shared intention'.  In this talk I shall argue that fully characterising shared agency may additionally require appeal to  motor representation.  Shared agency is not only a matter of what we intend: sometimes it also depends on interlocking structures of motor representation.  This may have consequences for some metaphysical, normative and phenomenological questions about shared agency.
+
+
+
+Shared Intention and Motor Representation in Joint Action
+
+There are phenomena, call them joint actions, paradigm cases of which are held to involve several people walking together, dancing together, and lifting a two-handled basket together.  Some joint actions can be contrasted with parallel but merely individual actions.  For instance, contrast two people walking together with two people who just happen to be walking side-by-side down a crowded street.  The two pairs' movements may be the same and similarly coordinated (both pairs need to avoid collisions), but walking together is a joint action whereas merely walking side by side is not.   Such contrasts invite the question, How do joint actions differ from parallel but merely individual actions?  Several philosophers have shown that this question can be answered, at least partially, by appeal to a special kind of intention or structure of intention, knowledge or commitment often called shared intention.  In this talk I argue that fully answering this question may in addition require appeal to motor representation.  So whereas philosophers have tend to assume that motor representation is only an enabling condition for joint action and of no direct interest to narrowly philosophical theories of joint action, I shall argue that a certain structure of motor representation plays a distinctive role in explaining how joint action contrasts with individual action.  
+
+
+
+
+painting a house together, 	tidying up the toys together and lifting a two-handled basket.  
+
+
+One feature of joint action is that it involves there being a single goal to which two or more agent's activities, taken together, are directed.
+
+
+
+Are there distinct roles for shared intention and motor representation in explaining joint action?  
+
+
+
+What is the relation between a joint action and the goal or goals to which it is directed?  
+
+On the assumption that motor representation plays a role in explaining how effective joint action is possible, do we also need motor representation to explain what joint action is? Philosophers tend to assume that motor representation is only an enabling condition for joint action and of no direct interest to narrowly philosophical theories of joint action and shared intention. In this talk I shall argue that social motor representation and shared intention have distinctive roles in explaining the purposiveness of joint action. This gives rise to a challenge. On the one hand, effective joint action—imagine two people erecting a tent in a gale together—sometimes requires both shared intentions and social motor representations plus a certain kind of harmony between the two. On the other hand, recognizing their distinctive roles precludes the existence of direct inferential links between shared intentions and social motor representations. The challenge is to explain how these two kinds of representation could sometimes harmoniously contribute to effective joint action despite the lack of inferential integration. 
