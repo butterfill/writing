@@ -1,0 +1,64 @@
+
+Report 1 – suggests something on development and moral cognition and the nativism/empiricism discussion. You may well have the latter covered but just haven’t explicitly mentioned it, as it falls under the Vygotsky-nativist dispute. But I wonder about the former?
+
+ >>> I think it is almost certainly a good idea to add a chapter on moral cognition.  I have to admit that I know almost nothing about this research, so I would want to spend some time thinking and reading before being committed.  But I was impressed that two people mention it, and I guess it would be a topic likely to interest readers.
+ 
+>>> The nativism/empiricism debate features in Chapter 3 on number.  Given the interest in it, I now propose to devote more space to it in the Introduction and Conclusion, and to return to it in other chapters, probably Chapter 4 on colours and Chapter 7 on beliefs.  
+
+
+Report 2 – this is from a psychologist, as you will no doubt have worked out. Sympathetic to the proposal but wonders if more could be done to tie the chapters together under more of unifying thread.
+
+>>> I think this is a good challenge.  I propose to address it in two ways.  One is by noting (in the Introduction) that developmental findings generate a series of puzzles which have a common structure; Chapters 2, 3, 4 and 7 will then each cover a different case in which the puzzle arises.  The second way to tie things together is by formulating, in the Introduction, a conjecture about development based on the two key breakthroughs: because we have limited access to core knowledge, development is often a process of rediscovering information already represented in core knowledge, and social interaction is the engine of rediscovery.  The different chapters then evaluate this conjecture case-by-case. But I also don't want to put too much emphasis on a novel conjecture or a single unifying theme, and I propose to write the chapters in such a way that they could be read in isolation without too much difficulty.  
+
+>>> I would anticipate difficulty in balancing the need for an introduction to be inclusive (e.g. by discussing moral cognition, and by considering a variety of conflicting views) with the need for unity.  
+
+
+Report 3 – like 1 would like to see more on the nativism-anti-nativism dispute, also something on modularity and cog neuroscience, which you allude to in the proposal but don’t offer much more detail. Again these strike me as pretty good suggestions. What do you think?
+
+ >>> I agree with all of this.  This is a very useful report, full of hints and pointers all of which I intend to make use of.  I should mention, though, that on cognitive neuroscience the proposal is quite modest: to introduce some relevant findings along the way.
+
+
+Report 4 – suggests adding a glossary. Given that you will be using a number of terms that are probably unfamiliar to philosophy students,  I think this is an excellent idea.
+
+ >>> I agree.
+ 
+
+Report 5 – stresses that it is quite understandable you have not included it, given the overall aims of the proposal, but like report 1 mentions moral issues (here in the shape of Kohlberg-Gilligan debate). Like report 2 it may also be picking up on the lack of a strong enough thread connecting the cog sci with the philosophy e.g. how and why philosophical questions about cognitive development matter to cog sci, and vice-versa. I think this is something that could be addressed in the introduction, and perhaps at the beginning of each chapter - but let me know what you think.
+
+>>>  I think it would almost certainly be good to stretch to moral issues; perhaps 'cognitive' should be replaced with 'mental' in the subtitle (although this might sound crusty).  
+
+>>> On the links between cog sci and philosophy, I agree that there's an important concern that needs addressing throughout.  In the Introduction I propose to distinguish philosophy as a narrowly formal exercise from philosophy as one component of a larger project of understanding how minds develop and how they work.   But I should also to highlight a difference between Report 5's take on things and what I'm proposing.  
+
+>>> The way Report 5 presents things, philosophy and developmental psychology are two disciplines and the question is why someone interested in philosophy would want to know about developmental psychology.  This is not how I see things at all.  Of course, as indicated in the outline, I do propose to include some material on how developmental findings might challenge philosophical claims.  But it seems to be relatively unusual for developmental findings to bear in any direct way on existing philosophical questions.  I am also not proposing a book on philosophy of developmental psychology as a part of a more general philosophy of science.  Instead I propose to start with a question (How do humans come to know about objects, causes and the rest?) which has been discussed by philosophers since at least Plato and more recently by scientists, and answering which raises a mixture of existing and new philosophical questions about minds.  So the idea is to avoid higher-order questions about relations between disciplines by starting with a question that needs both scientific and philosophical methods.  The two main reasons for philosophers to be interested in questions about cognitive development are just that famous philosophers have discussed these questions, and researching development often requires doing philosophy.  
+
+>>> In brief, then, I don't see things quite as Report 5 presents them, but I do agree that making the proposed book obviously interesting to a sufficiently wide range of philosophy would be a key concern.  Of the suggestions in the five reports, I think this is the most challenging.
+
+
+Other 
+---
+
+One thing you didn't mention is that two reports (3 and 4) suggest that the proposed book might be too challenging for undergraduates.  I think this is a concern to hold in mind.  I'm not yet sure how it might be addressed; perhaps it would be something to return to after some of the proposed book is written.
+
+One overall effect of the reports is that the requirements on the  Introduction and Conclusion have become quite extensive (e.g. they need to include some discussion of nativism and modularity).  I propose to stick with the idea of organising the central chapters by particular cases (such as number, colour and action) but to use subsections to introduce and discuss notions like modularity.
+
+
+
+
+
+
+
+This is different from the idea that knowing about developmental research will help philosophers in answering questions they already have, and isn't a matter of doing philosophy of science for the special case of developmental psychology.  I'm emphasising this because I was worried that you and the reviewers wouldn't like the proposal because there's a risk that too few philosophers will be interested in questions about development.  The promise is that 
+
+
+
+
+
+
+One reason offered might be that developmental findings support or conflict with philosophical views; another possible reason is that philosophy of developmental psychology is a part of a more general philosophy of science.  As noted in the proposal, I am planning to include some material that can be motivated in these ways (but not very much).  But 
+
+
+Report 5 offers two sorts of motivation for philosophical interest in cognitive development.  One is the idea that developmental findings might bear on the truth of philosophical claims, the other idea is that philosophy of developmental psychology is a part of a more general philosophy of science.  As noted in the proposal, I am planning to include some material that can be understood in this way. 
+
+But I think there might be a difference between what the author of Report 5 is expecting and what I'm planning.  The way Report 5 presents things, philosophy and developmental psychology are two disciplines and the question is how results from one might matter to the other.  As noted in the proposal, I aim planning to include some material that can be understood in this way.  But mostly the plan is about how cognitive development raises new philosophical issues or issues that call for new applications of philosophical ideas.  ***
+ 
+ 
