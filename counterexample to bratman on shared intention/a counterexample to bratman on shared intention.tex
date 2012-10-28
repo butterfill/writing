@@ -1,0 +1,224 @@
+ %!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+
+\def \papersize {a4paper}
+
+\documentclass[12pt,\papersize]{extarticle}
+% extarticle is like article but can handle 8pt, 9pt, 10pt, 11pt, 12pt, 14pt, 17pt, and 20pt text
+
+\def \ititle {Is This a Counterexample to Bratman on Shared Intention?}
+\def \isubtitle {}
+\def \iauthor {Stephen A.\ Butterfill}
+\def \iemail{s.butterfill@warwick.ac.uk}
+%\date{}
+
+\input{$HOME/Documents/submissions/preamble_steve_paper3}
+%\author{}
+%\date{}
+
+%\setromanfont[Mapping=tex-text]{Sabon LT Std} 
+
+\begin{document}
+
+\setlength\footnotesep{1em}
+
+\bibliographystyle{$HOME/Documents/submissions/mynewapa} %apalike
+
+\maketitle
+%\tableofcontents
+\title{}
+
+\begin{abstract}
+\noindent
+***
+
+\end{abstract}
+
+\section{Shared Intention}
+Why, if at all, is a notion of shared intention needed? 
+This question is standardly answered by appeal to contrast cases \citep[compare][p.\ 150]{Bratman:2009lv}.
+Thus \citet{gilbert_walking_1990} contrasts our intentionally walking together with two people who happen to be walking side by side. 
+The two pairs' movements may be the same and similarly coordinated (to avoid collision), so intentionally walking together cannot be only a matter of how we move our bodies or how our movements are coordinated. 
+Also, in both cases each individual's walking is intentional, so our intentionally walking together cannot be a matter only of our each intentionally walking.%
+\footnote{
+Compare \citet{Pears:1971fk} who uses contrast cases to argue that whether something is an ordinary, individual action depends on its antecedents. 
+}  
+Perhaps, then, a notion of shared intention is needed to distinguish the two cases.
+It is our acting on a shared intention that we walk together which distinguishes us from two strangers who happen to be walking side by side.%
+\footnote{
+Many philosophers agree that a notion of shared intention is useful for understanding acting together. 
+Compare \citet[p.\ 5]{Gilbert:2006wr}: `I take a collective action to involve a collective intention.'  See also  
+	\citet[p.\ 381]{Carpenter:2009wq}, 
+	\citet[p.\ 369]{Call:2009fk}, 
+	\citet{Kutz:2000si}, 
+	\citet[p.\ 117]{rakoczy_pretend_2006} and 
+	\citet{Tollefsen:2005vh}.
+	}
+	
+
+But what could shared intention be?
+In an influential series of papers,\footnote{ 
+See \citet{Bratman:1992mi,Bratman:1993je,Bratman:1999fr,Bratman:2009lv}.
+For influences beyond philosophy, see e.g.\ \citet{Tomasello:2005wx} and \citet{Knoblich:2008hy}. 
+}
+Bratman claims that the following are collectively sufficient\footnotemark \ conditions for you and I to have a shared intention that we J:
+%
+\footnotetext{
+In \citet{Bratman:1992mi}, the following were offered as jointly sufficient \textit{and individually necessary} conditions; the retreat to sufficient conditions occurs in \citet[][pp.\ 143-4]{Bratman:1999fr} where he notes that `for all that I have said, shared intention might be multiply realizable.'
+} 
+%
+\begin{quote}
+\label{quote:bratman_account}
+`1. (a) I intend that we J and (b) you intend that we J
+ 
+`2. I intend that we J in accordance with and because of la, lb, and meshing subplans of la and lb; you intend that we J in accordance with and because of la, lb, and meshing subplans of la and lb
+ 
+`3. 1 and 2 are common knowledge between us' \citep[][p.\ View 4]{Bratman:1993je}
+\end{quote}
+%
+Care is needed in specifying the contents of the intentions concerning our J-ing in these clauses. 
+As mentioned above, an appeal to shared intention is supposed to  characterise systematically a difference between two agents who intentionally J together (e.g.\ walk  together) and two agents who also  J together but do not do so intentionally (e.g.\ they happen to be walking side by side). 
+So we must avoid tacitly appealing to this distinction by  restricting possible values of J to those which involve our intentionally doing something together. 
+Rather the above  conditions, (1)--(3), must be sufficient for shared intention even for some values of J which are `neutral with respect to shared intentionality'.%
+\footnote{
+ \citet[p.\ 147]{Bratman:1999fr}.
+ This refines Bratman's earlier view that some admissable values of J are cooperatively neutral 
+ 	where an  act-type is \emph{cooperatively neutral} just if `joint performance of an act of that type may be cooperative, but it need not be' \citep[p.\ 330]{Bratman:1992mi}. 
+}
+
+A consequence is that, in the right situations, one of us can rationally intend that we J unilaterally, that is without anyone else having this intention. 
+If you know that I am going to Chicago via a certain route at a particular time
+and if you can rationally intend that you go to Chicago in the same manner,
+then you can rationally intend that we go to Chicago together---providing, of course, that you intend our going to Chicago together in a way that is neutral with respect to shared intentionality.
+What follows depends on the premise that this is indeed possible.%
+\footnote{ 
+\citet{Bratman:1999fr}  defends this claim at length. 
+Note also that a primary application of his account of shared intention depends on its truth.
+}
+
+
+In this paper we give a counterexample to Bratman's  claim that the above conditions, (1)--(3), are collectively sufficient conditions for shared intention. 
+We will also suggest a revision which would enable the counterexample to be avoided.
+Apart from improving our understanding of what shared intention is, 
+this will also bear on the kinds of planning that are involved in acting together.
+
+Before going further we must distinguish two versions of the claim that (1)--(3) are collectively sufficient for shared intention.
+The \emph{weak claim} is that there is some J such that these conditions are sufficient for you and I to intend that we J.
+The \emph{strong claim} is that for any J, these conditions are sufficient for you and I to intend that we J.
+One of Bratman's aims is to show that it is possible to give an account of shared intention using concepts that `are available within the theory of individual planning agency' \citep[p.\ 163]{Bratman:2009lv}.  
+Achieving this aim would require the strong claim, and it is to the strong claim that our counterexample is directed. 
+
+
+\section{Background: Cooperatively Neutral Act-types}
+When Elisabeth and her daughters go to the park together, 
+	they usually do so cooperatively 
+	but sometimes she is coerced by threats and tantrums.  
+(Bratman's example is going to Chicago `in the mafia sense', but we are  more familiar with domestic coercion.)
+Observing them one day, we might 
+	know that Elisabeth and her daughters are going to the park together 
+	without knowing whether this particular trip is cooperative or coercive.
+So we can think of this action in a way that is cooperatively neutral.
+In general an act-type is \emph{cooperatively neutral} just if `joint performance of an act of that type may be cooperative, but it need not be' \citep[p.\ 330]{Bratman:1992mi}. 
+
+What an agent intends when then she intends that we J in the first of Bratman's sufficient conditions, (1), can be a cooperatively neutral act type. 
+Bratman allows for this possibility in order to avoid potentially circular appeal to shared intention in specifying what we intend when we intend that we J.
+
+
+
+
+\section{The Counterexample}
+Although it is simple, introducing the counterexample will involve several steps.
+
+Ayesha and Benji  are playing a simple video game which involves moving a cross around a two-dimensional space littered with barriers.
+Ayesha can only move the cross backwards or forwards,
+while Benji can only move it left or right.
+Ayesha and Benji are given tasks independently. 
+These tasks always involve making the cross touch a target within 100 seconds of starting. 
+A player succeeds when the cross touches her target, regardless of what happens to the cross afterwards.  
+(It does not have to stay touching the target.)
+For example, 
+	Ayesha's task might be to make the cross touch the red square
+	while
+	Benji's task might be to make the cross touch the blue circle. 
+It is possible that either or both succeed, or that they both fail.
+Ayesha and Benji always have common knowledge of the tasks they are assigned.
+Each movement carries a small cost to the player who moves, so that Ayesha and Benji each attempt to minimize how much he or she moves the cross consistently with completing his or her task.
+Ayesha and Benji are each neutral on whether the other succeeds or fails.
+They are not opponents and do not seek to undermine each other's efforts, but each is entirely concerned  with his or her own task.
+
+
+
+
+In the previous round, 
+	Ayesha's task was to touch the red square
+	and
+	Benji's task was to touch the blue circle.
+As it happened, the red square and the blue circle were positioned such that it was impossible to touch one without touching the other, as Ayesha and Benji knew.
+Furthermore, Ayesha intended that they, Ayesha and Benji, move the cross to the red square; Benji intended that they, Ayesha and Benji, move the cross to the blue circle; and each intended that they do so in accordance with and because of these intention and meshing subplans of them; and this was all common knowledge between them.
+In this way, Ayesha and Benji almost met Bratman's conditions for shared intention.
+They would have met the conditions but for the fact that Ayesha intended that they J$_1$ whereas Benji intended that they J$_2$ where J$_1$ $\neq$ J$_2$.
+
+At first glance this combination of intentions may seem incoherent or irrational. 
+How could Ayesha rationally intend that they, Ayesha and Benji, J$_1$ knowing that Benji has no corresponding intention? 
+To see that this is possible, note that, on Bratman's view,
+ the act types which are intended can be \emph{cooperatively neutral}, that is such that `joint performance of an act of that type may be cooperative, but it need not be' \citep[p.\ 330]{Bratman:1992mi}.
+(This enables Bratman to avoid circularity in specifying what a shared intention is.)  
+So Ayesha's knowledge that Benji intends that they J$_2$ together with her knowledge that their J$_2$-ing is sufficient for their J$_1$-ing makes it possible for her to intend, unilaterally, that they J$_1$.%
+\footnote{
+These issues are discussed at length in \citet{Bratman:1999fr}. 
+Note that Bratman's account requires that it be possible for Ayesha to intend, unilaterally, that they J$_1$.%
+}
+
+
+
+\section{Prior counterexamples}
+***Must mention that Tollefsen and Gold \& Sugden counterexamples fail.
+
+
+\section{The Counterexample}
+Suppose that Aravinda runs the trains and Gerhard  the busses.
+Let us stipulate that the extent to which the two services, train and bus, are coordinated is to be measured by the total time passengers spend waiting between a bus and a train.
+So changes to the timetables would result in better coordination just if the changes would total waiting time.
+To illustrate, improving coordination might involve having trains arrive at a station shortly before, rather than shortly after, busses depart from there.
+Now Aravinda and Gerhard each intend that they, Aravinda and Gerhard, coordinate the trains with the busses to the greatest extent possible given other constraints; and they intend to do this by way of these intentions and meshing subplans of them, and this is common knowledge between them. 
+Aravinda and Gerhard thus meet Bratman's sufficient conditions for them to have a shared intention.
+Acting on this intention, 
+every January Aravinda updates the train timetables and sends Gerhard the changes.
+Likewise, Gerhard  updates the bus timetables every June and sends Aravinda the changes.
+In this way  each is responsive to the other's intentions and subplans of these. 
+Indeed, each may even try to predict changes in the other's subplans and modify their own accordingly.  
+But from each individual's point of view, the other's plans are  merely a constraint.
+
+***
+
+So whether Gerhard succeeds relative to his intention depends on both his own and Aravinda's plans; and likewise for Aravinda.
+%This is why each intends that they optimally coordinate the services in accordance with meshing subplans.
+This is why each is responsive to the other's plans. 
+Indeed, each may even try to predict changes in the other's plans and modify their own accordingly.  
+But from each individual's point of view, the other's plans are  merely a constraint.
+This approach to planning suffers from two defects.
+First, it is unlikely to be optimal in the sense of resulting, eventually, in a combination of plans such that no other combination of plans would have been better for at least one service and no worse for either service.
+Second, it is unlikely to be efficient in the sense of allowing Gerhard and Aravinda to arrive at an optimal combination of plans for the two services, trains and buses, with the fewest iterations.
+How could they do better?
+One possibility may be to have a single plan covering busses and trains---perhaps, for example, Aravinda could buy Gerhard's franchise. 
+%But suppose that this is not possible, and that there are limits on how much information Aravinda and Gerhard can share. 
+Now there is a single goal to which Aravinda and Gerhard's activities are both directed.
+But suppose that this is not possible, and that they are unable to integrate their planning more tightly---practical constraints or regulation prevents them from opening up their planning to each other.
+Can they still do better than treat each other's plans as a constraint?
+Possibly.
+Each plans the whole bus--train operation. 
+
+New contrast case: Aravinda and Gerhard planning the whole thing vs. merely responding to each other's plans.
+Meet Bratman's sufficient conditions for shared intention in both cases.
+(Specifically, in both cases they act on a shared intention that they coordinate the trains with the busses to the greatest extent possible given other constraints.)
+But intuitively is a case of coordinating the trains with the busses together whereas the other case involves Aravinda and Gerhard merely doing this in parallel.
+So shared intention is insufficient to fully explain the contrast cases.
+
+I'm also inclined to think it is not necessary for solving the contrast cases (distributive goals ...\ collective goals).
+The contrast cases do not provide a firm anchor for theorising about shared intention.
+
+
+
+\bibliography{$HOME/endnote/phd_biblio}
+
+\end{document}
