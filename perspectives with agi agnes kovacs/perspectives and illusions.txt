@@ -1,0 +1,61 @@
+Perspective taking studies
+
+
+A. Questions:
+
+1. Which kinds of perspective taking are automatic (i.e. their occurrence is to an interesting extent independent of the subject's motives and task)?
+
+2. Is there a difference between kinds of perspective taking with respect to the ages at infants first show evidence of perspective taking?
+
+
+B. Conjectures:
+
+Conjecture 1S (Agi): (a) Infant mindreading is continuous with full-blown adult mindreading in the sense that it involves the same concepts and representations.  
+(b) Automatic mindreading in adult humans is full-blown mindreading.
+
+Conjecture 2S (Steve): (a) Infant mindreading has signature limits distinct from those of full-blown adult mindreading.  Quick and dirty version: these limits correspond roughly to a distinction between Level-1 and Level-2 perspective taking.  More careful version: there is a minimal form of mindreading which involves representing relational mental states only, and does not involve representing representational mental states as such. Infant perspective taking is limited because it involves only this minimal form of mindreading.
+(b) Automatic mindreading in adult humans is distinct from full-blown mindreading and subject to the same arbitrary limits that infant mindreading is.
+
+
+C. Background
+
+Suppose that two people, A and B, are looking at a pair of biscuits.  The left biscuit is actually larger than the right biscuit, and this is how it looks to A.  But B is subject to the Ebbinghaus illusion, so to her the left biscuit looks smaller than the right biscuit.  To characterise the difference between A and B it is most natural to appeal to a difference in the content of their experiences.  And it is hard to characterise the difference in terms entirely of relational mental states.  This is because there is a single pair of objects which A and B experience as having contradictory properties.  (There might in principle be way to characterise these situations relationally by appeal to context---this could be done by appeal to something like an appearance profile which would describe the apparent size of objects in different contexts.  So in principle a defender of 2S could argue that even tracking perceptual illusions would not be evidence for more than relational mindreading.  But this would threaten to make the 2S view not measurably different from 1S, so we agree to discount this possibility.)
+ 
+The second conjecture, 2S, predicts that infants might be able to track both differences in experience which are due to the simple occlusion of objects (`Level 1') but are unable to track differences in experience  due to illusions (`Level 2').  So evidence that infants track differences in experience  due to illusions would count against 2S and in favour of 1S.
+
+The first conjecture, 1S, predicts that the difference between tracking experiences due to the simple occlusion of objects (`Level 1') and  experiences due to illusions (`Level 2') should not be reflected in infants' abilities, all things being equal.  So, if we had carefully matched tasks, evidence that turning a simple occlusion task into an illusion task would count against 1S and in favour of 2S.
+
+
+
+D. `Take the biscuit': Ebbinghaus (/Titchener) Task, `Level-2 version' 
+
+There are two circular biscuits, one just visibly larger than the other.
+There is also a special screen with two circular holes for the biscuits.
+One side of the screen is blank, so that inserting the biscuits into the holes and looking at them from this side has no affect on their apparent sizes.
+The other side of the screen---call it the Illusory Side---has circles painted surrounding the holes in such a way that an Ebbinghaus illusion is generated.
+So that when the biscuits are appropriately placed into the holes in the screen, seen from this side of the screen the larger biscuit now appears to be smaller than the small biscuit.
+
+Premises: (1) If subjects are prompted to take a biscuit, they will spontaneously take what visually appears to be the larger of the two biscuits.  (2) If subjects attempt to take the larger biscuit and they are naive about the screen having only ever seen it from one side and they have only ever seen these biscuits in the screen, then they will mistakenly take the smaller biscuit.  
+
+Task: subjects are familiarised with the screen and its effect on the apparent sizes of biscuits.  
+They see it from different sides.  
+The biscuits are then placed into the screen.  
+Let's assume that subjects see the Illusory Side of the screen (I'm not sure it matters theoretically which side they see).
+A Protagonist now spontaneously appears.  
+In the Congruent Condition, a Protagonist sits next to the subject, so that both subject and Protagonist experience the biscuits in the same way.  
+In the Incongruent Condition, a Protagonist sits opposite the subject, so that Protagonist sees the Illusory Side of the screen;
+in this condition the protagonist and subject have visual experiences concerning the relative sizes of the biscuits which cannot both be veridical.  
+Subjects are then prompted to take a biscuit.
+We can measure which biscuit they choose, movement onset time, total time taken to retrieve a biscuit, the trajectory of their reach, and which biscuit they look at first.
+
+Are subjects' influenced by the protagonists' perspective?  A difference in any measure between the Congruent and Incongruent conditions would be evidence that they are.
+Any such evidence supports 1S over 2S.
+
+How could we interpret the absence of a difference (null result)?  
+There is a `Level-1' version of Take the Biscuit.
+This is like the above task except that it involves two distinct sets of biscuits.
+Instead of putting biscuits into the screen, one pair is placed on one side of the screen and another pair is placed on the other side.
+If subjects are influences by the protagonists' perspective in the Level-1 but the not Level-2 version of Take the Biscuit, this might be evidence for 2S over 1S.
+
+
+E. Feed the Duck-Rabbit.
