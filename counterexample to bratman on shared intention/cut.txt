@@ -1,0 +1,174 @@
+
+\section{***OLD}
+Assuming for a moment that this is right,
+what might explain the difference between Yasmin and Zak on the one hand and cases like Gilbert's two people intentionally walking together on the other hand?
+To answer this question in the spirit of Bratman's planning-theoretic approach, we need to step back and think about planning generally.
+
+
+Imagine observing Ayesha and Benji as they play the game. 
+Suppose you decide to make a plan of action for one or both of them.
+In doing this you could either adopt one player's perspective or you could adopt a fictional shared perspective.
+Adopting one player's perspective, Ayesha's say, 
+	you think about what she might do to achieve her task,
+	predict how this will influence Benji's actions,
+	and then feed  these predictions back into the question of what Ayesha might do.
+From this perspective, Benji's actions are constraints to work around and opportunities to exploit.
+Alternatively you might adopt a fictional shared perspective, 
+	 mentally replacing Ayesha and Benji with a single, imaginary aggregate agent who has to perform both tasks alone.
+	 In this case, you think about what combination of actions would best achieve both tasks and then, right at the end, you assign these actions to Ayesha and Benji.
+From this perspective, it is as if there is a single mind behind the plan.
+
+Note that the number of agents involved does not dictate which perspective we can take.
+Just as we could take a fictional shared perspective where two or more agents are involved, 
+so also we could take a fictional split perspective on the actions of  a single agent, and even of ourselves.
+The newly elected  politician with a young family and working partner might see herself almost as if she were two people engaged in different projects while forced to shared a single body. 
+
+Shared perspective of a fictional aggregate agent.
+Can be a matter of negotiation what the fictional aggregate agent's values, preferences and intentions are.
+
+Perhaps the reason why Yasmin and Zak fail to have a shared intention (if they do---this has not yet been argued) is that each plans entirely from her own perspective. 
+Maybe shared intention sometimes requires that agents be disposed to plan at least some of their actions from a shared perspective.
+
+Now consider a third (and final) pair of players, Lily and Isabel.
+Lily and Isabel each take the appropriate shared perspective, as if imagining a fictional aggregate agent who had been assigned their two tasks, 
+and they plan accordingly.
+And this is common knowledge.
+What matters is not what they do, however.
+It is that the J which they intend is characterised in terms of planning from a shared perspective.
+What they intend when they intend that they J does not leave it open whether they will adopt a shared perspective in planning their J-ing.
+J is neutral with respect to shared intention but it is not neutral with respect to the requirement that each agent individually adopt a shared perspective when planning how to J.
+***HERE
+
+
+
+Imagine two tasks need to be completed; perhaps you need to buy some shoes and get a haircut. 
+Which actions you perform in attempting the first task constrains what actions you can perform in attempting the second task, and conversely.
+For instance, if you shop for the shoes in one store, you won't have enough money left for the best hairdressers.
+There are two ways to approach planning these tasks.
+One approach involves treating the two tasks as separate.
+Perhaps you first think of a plan that is optimal for buying shoes.
+Then, taking this plan as a constraint, you attempt to plan the haircut.
+But as it happens you discover that the options for the haircut are unsatisfactory.
+So you revise the shoe-buying plan and try again to plan the haircut.
+A different approach to planning would be to treat the two tasks as part of a larger, single task.
+Perhaps you identify several possible combinations of shoe-buying and haircut-getting actions.
+You then ask yourself which combination is best overall and then perform the component actions.
+
+
+
+
+Take a situation like the game Ayesha and Benji are playing but now imagine that you are taking over from both players and intend to perform both tasks. 
+One way to plan would involve thinking of two separate tasks.
+First you think about the best way to make the cross hit the red square.
+
+
+
+%
+%The difference separating Ayesha and Benji, on the one hand, from Yasmin and Zak on the other 
+%	is unlike the difference separating two strangers who merely happen to be walking side by side from two people intentionally walking together.
+%So if Ayesha and Benji's do not intentionally act together, then nor do Yasmin and Zak.
+
+
+ 
+
+***Can get a parallel to the special case discussed here by considering walkers whose legs have been tied together in such a way that they are forced to accommodate each other if they are to get around.  Such people may walk together and meet the Bratman conditions without actually 
+
+
+
+
+We shall argue that although Yasmin and Zak meet Bratman's conditions (1)--(3) for having a shared intention that they J$_1$, they do not have any such shared intention.
+This, then, is our counterexample.
+Of course it is probably not yet obvious that Yasmin and Zak do not have a shared intention.
+To see that they do not we need to introduce one more case.
+
+We started this paper by explaining the need for a notion of shared intention by appeal to contrast cases. 
+An account of shared intention should enable us to  distinguish systematically between two types of case in which we J together, one where we intentionally J together and the other where  our J-ing together involves  merely parallel actions.
+As noted, Gilbert's example of walking together shows that merely parallel actions can be mutually responsive, as when two strangers walking side by side avoid collision thanks to meshing subplans.
+
+
+
+*Yasmin and Zak: it's like we've tied the Gilbert's walking strangers' ankles together, so that they can only succeed together.
+
+
+
+
+
+***
+
+
+Our argument is:
+\begin{enumerate}[label=\roman*]
+\item Yasmin and Zak have a shared intention that they J$_1$ only if Ayesha and Benji have a shared intention in virtue of having the 
+ unshared intention that they <J$_1$, J$_2$>.
+\item Ayesha and Benji's unshared intention that they <J$_1$, J$_2$> is a not shared intention.
+\end{enumerate}
+%
+Therefore:
+%
+\begin{enumerate}[resume,label=\roman*]
+\item Yasmin and Zak do not have a shared intention that they J$_1$.
+\end{enumerate}
+%
+In the rest of this section we defend the two premises, starting with the second, (ii).
+
+Could Ayesha and Benji's unshared intention that they <J$_1$, J$_2$> be a  shared intention?
+This question might initially appear frivolous but it is not straightforward to answer.
+Since Bratman provides only sufficient conditions for shared intention, his account doesn't tell us that the unshared intention is not a shared intention.
+And while we might be tempted to assume that for two agents to intentionally J together they must at least each have intentions concerning J, 
+this assumption might reasonably be rejected by those who, like Bratman, reject the Simple View according to which when an individual intentionally J-s she has an intention concerning her J-ing \citep{Bratman:1984jr}.
+
+In defence of the second premise, (ii), consider that shared intentions are suppose to play a certain functional role.
+Among other things, they are supposed to coordinate 
+
+
+
+
+
+
+
+\section{Prior counterexamples}
+***Must mention that Tollefsen and Gold \& Sugden counterexamples fail.
+
+
+\section{The Counterexample}
+Suppose that Aravinda runs the trains and Gerhard  the busses.
+Let us stipulate that the extent to which the two services, train and bus, are coordinated is to be measured by the total time passengers spend waiting between a bus and a train.
+So changes to the timetables would result in better coordination just if the changes would total waiting time.
+To illustrate, improving coordination might involve having trains arrive at a station shortly before, rather than shortly after, busses depart from there.
+Now Aravinda and Gerhard each intend that they, Aravinda and Gerhard, coordinate the trains with the busses to the greatest extent possible given other constraints; and they intend to do this by way of these intentions and meshing subplans of them, and this is common knowledge between them. 
+Aravinda and Gerhard thus meet Bratman's sufficient conditions for them to have a shared intention.
+Acting on this intention, 
+every January Aravinda updates the train timetables and sends Gerhard the changes.
+Likewise, Gerhard  updates the bus timetables every June and sends Aravinda the changes.
+In this way  each is responsive to the other's intentions and subplans of these. 
+Indeed, each may even try to predict changes in the other's subplans and modify their own accordingly.  
+But from each individual's point of view, the other's plans are  merely a constraint.
+
+***
+
+So whether Gerhard succeeds relative to his intention depends on both his own and Aravinda's plans; and likewise for Aravinda.
+%This is why each intends that they optimally coordinate the services in accordance with meshing subplans.
+This is why each is responsive to the other's plans. 
+Indeed, each may even try to predict changes in the other's plans and modify their own accordingly.  
+But from each individual's point of view, the other's plans are  merely a constraint.
+This approach to planning suffers from two defects.
+First, it is unlikely to be optimal in the sense of resulting, eventually, in a combination of plans such that no other combination of plans would have been better for at least one service and no worse for either service.
+Second, it is unlikely to be efficient in the sense of allowing Gerhard and Aravinda to arrive at an optimal combination of plans for the two services, trains and buses, with the fewest iterations.
+How could they do better?
+One possibility may be to have a single plan covering busses and trains---perhaps, for example, Aravinda could buy Gerhard's franchise. 
+%But suppose that this is not possible, and that there are limits on how much information Aravinda and Gerhard can share. 
+Now there is a single goal to which Aravinda and Gerhard's activities are both directed.
+But suppose that this is not possible, and that they are unable to integrate their planning more tightly---practical constraints or regulation prevents them from opening up their planning to each other.
+Can they still do better than treat each other's plans as a constraint?
+Possibly.
+Each plans the whole bus--train operation. 
+
+New contrast case: Aravinda and Gerhard planning the whole thing vs. merely responding to each other's plans.
+Meet Bratman's sufficient conditions for shared intention in both cases.
+(Specifically, in both cases they act on a shared intention that they coordinate the trains with the busses to the greatest extent possible given other constraints.)
+But intuitively is a case of coordinating the trains with the busses together whereas the other case involves Aravinda and Gerhard merely doing this in parallel.
+So shared intention is insufficient to fully explain the contrast cases.
+
+I'm also inclined to think it is not necessary for solving the contrast cases (distributive goals ...\ collective goals).
+The contrast cases do not provide a firm anchor for theorising about shared intention.
+

@@ -6,7 +6,7 @@
 \documentclass[12pt,\papersize]{extarticle}
 % extarticle is like article but can handle 8pt, 9pt, 10pt, 11pt, 12pt, 14pt, 17pt, and 20pt text
 
-\def \ititle {Is This a Counterexample to Bratman on Shared Intention?}
+\def \ititle {A Counterexample to Bratman on Shared Intention}
 \def \isubtitle {}
 \def \iauthor {Stephen A.\ Butterfill}
 \def \iemail{s.butterfill@warwick.ac.uk}
@@ -32,14 +32,16 @@
 
 \begin{abstract}
 \noindent
-***
-
+At the centre of one leading account of shared agency, Michael Bratman's, is the claim that certain conditions are sufficient for us to have a shared intention that we J.
+This paper provides a counterexample to the sufficiency of these conditions and suggests a way of strengthening them to avoid the counterexample.
+%The counterexample exploits the possibility of two agents meeting Bratman's conditions for shared intention even though each conceives of the other's intentions and actions only as constraints to work around and opportunities to avoid.
+%Shared intention requires more than this: and it may require that the agents conceive of all of their actions as parts of a single plan.
 \end{abstract}
 
 \section{Shared Intention}
 Why, if at all, is a notion of shared intention needed? 
 This question is standardly answered by appeal to contrast cases \citep[compare][p.\ 150]{Bratman:2009lv}.
-Thus \citet{gilbert_walking_1990} contrasts our intentionally walking together with two people who happen to be walking side by side. 
+Thus \citet{gilbert_walking_1990} contrasts friends intentionally walking together with two people who happen to be walking side by side. 
 And \citet{Searle:1990em} contrasts park visitors who  simultaneously run to a central shelter in performing a dance with park visitors who likewise run to the central shelter but only because of an impending storm.
 %And Bratman (\citeyear{Bratman:1992mi}, p.\ 333; \citeyear{Bratman:1993je}, p.\ 103--4) contrasts two people who cooperatively plan to go to New York  together with two people who each have an intention that they go to New York together by way of coercing the other into travelling with her.
 These and other contrast cases invite the question, 
@@ -161,6 +163,7 @@ However, having introduced the primary counterexample in an artificial setting, 
 
 
 \section{Neutral with Respect to Shared Intentionality}
+\label{sec:netural_wrt_shared_intentionality}
 Before we can introduce the counterexample 
 we need to highlight a feature of Bratman's account 
 	which we shall be exploiting.
@@ -419,6 +422,7 @@ A first motive for introducing this new contrast case is that it provides an ind
 
 
 \section{Agent-neutral Plans}
+\label{sec:distributed_plan}
 
 Above we introduced what will turn out to be a counterexample to Bratman's account, the case of Yasmin and Zak. 
 But we have yet to show that this case really is a counterexample. 
@@ -437,8 +441,10 @@ We stipulate that a planning process, or a plan, is \emph{agent-neutral} just if
 This sort of planning is quite common.
 For example, some housemates who have decided to take on an allotment to grow vegetables might sit down together to plan what needs doing without yet assigning roles to particular individuals. 
 In so planning, each housemate is thinking about what is to be done and not what she herself will do.  
-(This is an idealisation, of course.)
-At some point the planning is done  and they divide up the roles.
+%(This is an idealisation, of course.)
+At some point the housemates stop planning.
+(This does not necessarily mean that they have a fully worked out plan; like any other plans, agent-neutral plans can have gaps that may need filling in later.)
+They now divide up the roles.
 Of course they may not find a way of dividing up roles that everyone is prepared to go along with---individuals' preferences, abilities and intentions may block the plan's adoption.
 But suppose the housemates do divide up the roles in a way that is acceptable to everyone, 
 	and that each implements her part in the plan.
@@ -450,16 +456,24 @@ In the above example of agent-neutral planning,
 	Planning together is plausibly an activity which involves shared agency.
 	Note, however, that an individual can construct an agent-neutral plan by herself, even if its eventual execution will involve others.
 	In fact, two or more individuals who are assigned a task might each individually engage in agent-neutral planning in parallel.
-	The task demands and their planning strategies may conspire to ensure that they each come up with the same agent-neutral plan, or at least that their plans are compatible.%
+	The task demands and their planning strategies may conspire to ensure that they each come up with the same agent-neutral plan, and task demands and manifest properties of the agents, such as their distribution in space, may ensure that each agent also assigns the same roles to the same individuals.
+(Strictly speaking it is not necessary for the plans and role assignments to be identical; it is enough if the resulting agent-specifying plans are, in a special sense, compatible.%
 \footnote{
-Suppose that, for some outcome, two or more agents each have a plan for the realisation of that outcome (these plans are possibly but not necessarily agent-neutral).
-Then their plans are \emph{compatible} just if 
-	there is a way of assigning agents to any unspecified roles in each plan such that  each agent could rationally act on the intention that they realise the outcome by 	performing the role she is assigned in her own plan even though all facts about which agents are performing which roles in which plans were common knowledge to the agents.
+\label{fn:df_compatible}
+Suppose that, for some outcome, two or more agents each have a plan for the realisation of that outcome. 
+(These plans may, but need not, specify roles for all of the agents; but the plans must be agent-specific, not agent-neutral.)
+By saying that these plans are \emph{compatible} we mean that:
+(i) 
+no agent would be prevented from performing the role she is assigned in her own plan by other agents performing the roles they are assigned in their plans;
+and
+(ii)
+if all facts about which agents have which roles in which plans were common knowledge to the agents,
+this would not affect the rationality of their each acting on the intention that they realise the outcome by performing the role she is assigned in her own plan.
+%	each agent could rationally act on the intention that they realise the outcome by performing the role she is assigned in her own plan,
+%	and she could do so even if all facts about which agents are performing which roles in which plans were common knowledge to the agents.
 To illustrate, suppose that our task is to press a button simultaneously. 
 If your plan specifies that the agents start to move in exactly 60 seconds and press the button 5 seconds later whereas my plan specifies only that there is a leader and the agents are to press the button 5 seconds after the  leader starts moving, then our plans are compatible.
-}
-%
-Similarly, even if the agents continue to operate individually and without communicating or otherwise intentionally sharing information, the task demands and manifest properties of the agents, such as their distribution in space, may ensure that, having arrived at their plans, each agent assigns the same roles to the same individuals (or at least that each agent assigns roles in such a way that the resulting agent-specifying plans are compatible).
+})
 %
 Finally, each agent may know enough about herself and the others to be able to determine, without communicating, whether the plan and role assignments will be acceptable to everyone. 
 	And all of this---that they engage in parallel agent-neutral planning resulting in compatible plans and role assignments, which are acceptable to all---may be common knowledge to the agents.
@@ -534,35 +548,124 @@ Perhaps humans in their situation would not normally ignore the fact that they h
 This may be why Bratman's conditions appear, misleadingly, to be sufficient for shared intention.
 
 
-\section{Revising Bratman's Account}
+
+\section{How to Fix Bratman's Account}
+\label{sec:fix}
+
 How could Bratman's account be revised to avoid the counterexample?
-Perhaps we can simply add to Bratman's conditions.
-Consider the view that these are sufficient condition for us to have a shared intention that we J:
+We might try strengthening Bratman's requirement about meshing subplans of intentions.
+This requirement is that, concerning our shared intention that we J, we each intend that we J in accordance with our intentions that we J and meshing subplans of them (see (2) \vpageref{quote:bratman_account}).
+The case of Yasmin and Zak suggests that this requirement is not strong enough.
+And the case of Lily and Isabel suggests that we might try strengthening it by appealing in some way to the idea that each agent can have a plan specifying roles for all of the agents.
+
+One way to strengthen Bratman's requirements is by constraining the possible ways in which agents who have a shared intention that they J may conceive of J in intending that they J.
+As we have seen, Bratman's account requires only that, in some cases, the agents conceive of J in a way that is neutral with respect to shared intentionality.
+We shall suggest a further requirement that is compatible with this one.
+
+We stipulate that an activity is \emph{distributed} just if: 
+	there is a single outcome, G,
+	and two or more agents each have a plan for G which specifies a role for all of the agents;	
+	these plans are compatible%
+\footnote{
+The notion of compatibility is defined in footnote \vref{fn:df_compatible}.
+}
 %
-\begin{enumerate}
-\label{revised_account}
-\item (a) I intend that we J and (b) you intend that we J.
- \item I intend that we J in accordance with and because of la, lb, and meshing subplans of la and lb; you intend that we J in accordance with and because of la, lb, and meshing subplans of la and lb.
-\item At some point in my planning, I produce a plan for all of our actions; and you do likewise.
-\item Our plans are compatible and we (partially) implement these plans.
-\item All of this, 1--4, is common knowledge between us.
-\end{enumerate}
+and each acceptable to all; 
+	each agent performs the roles assigned to her in her own plan;
+	the activity consists in nothing other than the agents performing these roles;
+	and
+	by performing these roles, the agents G.
+In specifying the class of distributed activities we have not made direct appeal to shared agency. 
+Nor is any covert appeal required, as our earlier discussion should  make clear (see Section \vref{sec:distributed_plan}).
+To use Bratman's term (see Section \vref{sec:netural_wrt_shared_intentionality}), distributed activities can be conceived of in ways that are neutral with respect to shared intentionality.
+So no circularity is involved in appealing to the notion of a distributed activity in explicating shared intention.
+
+Many ordinary interactions involve distributed activities.
+Two housemates have agreed to make a pizza and each start with an idea of what needs to be done.
+One starts by preparing the dough, so the other peels, washes and chops the vegetables.
+As the activity unfolds in this way, each gradually adds details to her plan and assigns roles. 
+
+We should also note that distributed activities do not have to be very complex.
+In walking to a metro station together,
+you and I may each form and act on a plan that specifies some details of both of our movements.
+
+It is possible, then, that when two or more agents each intend that they do something, 
+	perhaps to paint a house,
+in having these intentions they conceive of the activity as a distributed activity.
+Where this happens, part of what the agents intend is, in effect, that they each construe their own actions as part of a single plan which also involves the others' plans.
+
+We can exploit this possibility in strengthening Bratman's conditions for shared intention.
+To avoid counterexamples like the case of Yasmin and Zak,
+we leave the conditions for shared intention exactly as Bratman specifies them (see \vpageref{quote:bratman_account})
+but add the further requirement that the agents must, in intending that they J, each conceive of J as a distributed activity.
+
+We have not shown, of course, that this modification to Bratman's account will enable it to avoid any other counterexamples.
+Perhaps further requirements are necessary.
+Or perhaps it is impossible to give informative sufficient conditions for shared intention.
+Our aim here has only been to show that there is a way of avoiding one type of counterexample without abandoning core features of Bratman's planning approach to shared intention.
+If, as we suppose, that general approach succeeds in illuminating at least one kind of shared agency, it needs to be modified in order to capture a simple intuition about shared agency.
+The intuition is this:
+	our intending to act in accordance with our intentions and meshing subplans of them is not sufficient for us to have a shared intention;
+	instead we must conceive of our actions as part of a single plan.
+A planning approach to shared agency can readily accommodate this intuition by invoking distributed activities.
+
 %
-This view avoids the counterexamples we constructed,
-but at the cost of a loss of generality.
-For these conditions are only met once agents have not only done some planning but also started to act.
-While the aim is not to provide necessary conditions for shared intention, we should aim for enough generality to illuminate some central cases.
-So we shall not consider this view further.
+%
+%Consider the view that these are sufficient condition for us to have a shared intention that we J:
+%%
+%\begin{enumerate}
+%\label{revised_account}
+%\item (a) I intend that we J and (b) you intend that we J.
+%% --- Bratman's condition
+%% \item I intend that we J in accordance with and because of la, lb, and meshing subplans of la and lb; you intend that we J in accordance with and because of la, lb, and meshing subplans of la and lb.
+%\item I intend that we J by way of our each having and partially implementing on a plan for J-ing which specifies roles for both of us, where these plans are compatible%
+%\footnote{
+%The notion of compatibility is defined in footnote \vref{fn:df_compatible}.
+%}
+%%
+%and each acceptable to both of us; and you intend likewise.
+%\item 1 and 2 are common knowledge between us.
+%\end{enumerate}
+%%
+%If the new second requirement, (2), is met then so is Bratman's.
+%(This is because our having compatible plans which specify a role for both us ensures that our subplans mesh given how 
+%
+%Requirements (1), (2) and (4) are Bratman's; the others are new.
+%This view would avoid the counterexamples,
+%but at a heavy cost.
+%For these conditions are only met once agents have not only done some planning but also started to act.
+%While the aim is not to provide necessary conditions for shared intention, we should aim to illuminate some central cases.
+%We can do better than this.
+%
+%For a different approach, 
+%
+%Consider two agents who meet Bratman's sufficient conditions for having a shared intention that they J, 
+%	(1)--(3) on page ***,
+%	and who each conceive of J as a distributed activity.
+%	So part of what they intend when they intend that they, the two agents, J is that they perform a distributed activity.
+%	For example, they might intend that they perform the distributed activity of making the cross hit the red square.
+%	
 
-For a different approach, consider activities which meet these conditions concerning some outcome G:
-\begin{enumerate}
-\item Each agent has a plan for how they, the agents, can G.  (This can be an agent-neutral plan plus an assignment of roles.)
-\item Each agent's plan is acceptable to every agent (it does not conflict with any individual's preferences, abilities or intentions).
-\item The agents' plans are compatible.
-\item Each agent performs the roles assigned to her in her own plan, and the agents thereby G. 
-\end{enumerate}
 
-
+%	
+%	
+%
+%there are several agents 
+%
+%  which meet these conditions concerning some outcome, G:
+%%
+%\begin{enumerate}
+%\item Each agent has a plan for how they, the agents, can G.  (This can be an agent-neutral plan plus an assignment of roles.)
+%\item Each agent's plan is acceptable to every agent (it does not conflict with any individual's preferences, abilities or intentions).
+%\item The agents' plans are compatible.
+%\item Each agent performs the roles assigned to her in her own plan, and the agents thereby G. 
+%\end{enumerate}
+%%
+%
+%
+%***Can now get rid of the meshing subplans clause,
+%and probably the common knowledge clause too.
+%
 
 %
 %*** each thinks what \emph{we} should do.  The fact that they have the same task shows up in their planning.
@@ -572,185 +675,32 @@ For a different approach, consider activities which meet these conditions concer
 
 
 \section{Conclusion}
+We started with some contrasts between shared agency and parallel individual agency.
+These provide one intuitive fix on the notion of shared intention: 
+ shared intention, whatever it is, is what distinguishes thinks like two friends walking somewhere together from things like two strangers who walk the same route side by side.
+By introducing new contrast cases,
+we provided a counterexample to the view that a certain interlocking structure of intention and knowledge is sufficient for shared intention. 
+Two agents might meet conditions
+Bratman offers as sufficient for shared intention---that is, it might be common knowledge to them that they might each intend that they J and intend that they J in accordance with and because of these intentions and meshing subplans of them---even though they lack a shared intention.
+
 Bratman's conditions are not sufficient for shared intention because they leave open the possibility that  when two or more agents meet his conditions, each fails to rely on the fact that there is a single outcome to which all of their actions are directed and so conceives of the others' actions merely as constraints and opportunities.
-But Bratman's conditions appear to be sufficient for shared intention because it is natural that when two or more agents meet his conditions, they would rely on the fact that their is a single outcome to which all of their actions are directed and therefore be disposed to conceive of all their actions as parts of a single plan. 
-The case of Yasmin and Zak shows that although this may be natural, it not necessary.
+Bratman's conditions may appear to be sufficient for shared intention because it may be natural that when two or more agents meet his conditions, they would rely on the fact that there is a single outcome to which all of their actions are directed and therefore be disposed to conceive of all their actions as parts of a single plan. 
+Our counterexample, the case of Yasmin and Zak, shows that although this may be natural, it not necessary.
 
+There is a way to revise Bratman's account so as to avoid this sort of counterexample without departing from the spirit of his planning approach.
+The remedy we propose hinges on the possibility that sometimes an agent, in planning for an outcome, can specify both her own and other agent's actions.
+Further, in the right circumstances,
+two or more agents with the same task
+	can each individually specify roles for all of the agents in planning for that task.
+Even where such planning occurs in parallel (and so need not involve no shared agency), sometimes it can rationally result in coordinated action.
+These reflections suggest a way of appealing to the possibility that, in acting on a shared intention, each agent has a plan for all of their actions
+in order to capture the idea that agents acting on a shared intention conceive of all of their actions as part of a single plan.
+%One way to capture this idea, 
+%put roughly and without essential qualifications (see Section \vref{sec:fix}),
+% is by appeal to the idea that each agent has a plan for all of their actions.
 
-
-\section{***OLD}
-Assuming for a moment that this is right,
-what might explain the difference between Yasmin and Zak on the one hand and cases like Gilbert's two people intentionally walking together on the other hand?
-To answer this question in the spirit of Bratman's planning-theoretic approach, we need to step back and think about planning generally.
-
-
-Imagine observing Ayesha and Benji as they play the game. 
-Suppose you decide to make a plan of action for one or both of them.
-In doing this you could either adopt one player's perspective or you could adopt a fictional shared perspective.
-Adopting one player's perspective, Ayesha's say, 
-	you think about what she might do to achieve her task,
-	predict how this will influence Benji's actions,
-	and then feed  these predictions back into the question of what Ayesha might do.
-From this perspective, Benji's actions are constraints to work around and opportunities to exploit.
-Alternatively you might adopt a fictional shared perspective, 
-	 mentally replacing Ayesha and Benji with a single, imaginary aggregate agent who has to perform both tasks alone.
-	 In this case, you think about what combination of actions would best achieve both tasks and then, right at the end, you assign these actions to Ayesha and Benji.
-From this perspective, it is as if there is a single mind behind the plan.
-
-Note that the number of agents involved does not dictate which perspective we can take.
-Just as we could take a fictional shared perspective where two or more agents are involved, 
-so also we could take a fictional split perspective on the actions of  a single agent, and even of ourselves.
-The newly elected  politician with a young family and working partner might see herself almost as if she were two people engaged in different projects while forced to shared a single body. 
-
-Shared perspective of a fictional aggregate agent.
-Can be a matter of negotiation what the fictional aggregate agent's values, preferences and intentions are.
-
-Perhaps the reason why Yasmin and Zak fail to have a shared intention (if they do---this has not yet been argued) is that each plans entirely from her own perspective. 
-Maybe shared intention sometimes requires that agents be disposed to plan at least some of their actions from a shared perspective.
-
-Now consider a third (and final) pair of players, Lily and Isabel.
-Lily and Isabel each take the appropriate shared perspective, as if imagining a fictional aggregate agent who had been assigned their two tasks, 
-and they plan accordingly.
-And this is common knowledge.
-What matters is not what they do, however.
-It is that the J which they intend is characterised in terms of planning from a shared perspective.
-What they intend when they intend that they J does not leave it open whether they will adopt a shared perspective in planning their J-ing.
-J is neutral with respect to shared intention but it is not neutral with respect to the requirement that each agent individually adopt a shared perspective when planning how to J.
-***HERE
-
-
-
-Imagine two tasks need to be completed; perhaps you need to buy some shoes and get a haircut. 
-Which actions you perform in attempting the first task constrains what actions you can perform in attempting the second task, and conversely.
-For instance, if you shop for the shoes in one store, you won't have enough money left for the best hairdressers.
-There are two ways to approach planning these tasks.
-One approach involves treating the two tasks as separate.
-Perhaps you first think of a plan that is optimal for buying shoes.
-Then, taking this plan as a constraint, you attempt to plan the haircut.
-But as it happens you discover that the options for the haircut are unsatisfactory.
-So you revise the shoe-buying plan and try again to plan the haircut.
-A different approach to planning would be to treat the two tasks as part of a larger, single task.
-Perhaps you identify several possible combinations of shoe-buying and haircut-getting actions.
-You then ask yourself which combination is best overall and then perform the component actions.
-
-
-
-
-Take a situation like the game Ayesha and Benji are playing but now imagine that you are taking over from both players and intend to perform both tasks. 
-One way to plan would involve thinking of two separate tasks.
-First you think about the best way to make the cross hit the red square.
-
-
-
-%
-%The difference separating Ayesha and Benji, on the one hand, from Yasmin and Zak on the other 
-%	is unlike the difference separating two strangers who merely happen to be walking side by side from two people intentionally walking together.
-%So if Ayesha and Benji's do not intentionally act together, then nor do Yasmin and Zak.
-
-
- 
-
-***Can get a parallel to the special case discussed here by considering walkers whose legs have been tied together in such a way that they are forced to accommodate each other if they are to get around.  Such people may walk together and meet the Bratman conditions without actually 
-
-
-
-
-We shall argue that although Yasmin and Zak meet Bratman's conditions (1)--(3) for having a shared intention that they J$_1$, they do not have any such shared intention.
-This, then, is our counterexample.
-Of course it is probably not yet obvious that Yasmin and Zak do not have a shared intention.
-To see that they do not we need to introduce one more case.
-
-We started this paper by explaining the need for a notion of shared intention by appeal to contrast cases. 
-An account of shared intention should enable us to  distinguish systematically between two types of case in which we J together, one where we intentionally J together and the other where  our J-ing together involves  merely parallel actions.
-As noted, Gilbert's example of walking together shows that merely parallel actions can be mutually responsive, as when two strangers walking side by side avoid collision thanks to meshing subplans.
-
-
-
-*Yasmin and Zak: it's like we've tied the Gilbert's walking strangers' ankles together, so that they can only succeed together.
-
-
-
-
-
-***
-
-
-Our argument is:
-\begin{enumerate}[label=\roman*]
-\item Yasmin and Zak have a shared intention that they J$_1$ only if Ayesha and Benji have a shared intention in virtue of having the 
- unshared intention that they <J$_1$, J$_2$>.
-\item Ayesha and Benji's unshared intention that they <J$_1$, J$_2$> is a not shared intention.
-\end{enumerate}
-%
-Therefore:
-%
-\begin{enumerate}[resume,label=\roman*]
-\item Yasmin and Zak do not have a shared intention that they J$_1$.
-\end{enumerate}
-%
-In the rest of this section we defend the two premises, starting with the second, (ii).
-
-Could Ayesha and Benji's unshared intention that they <J$_1$, J$_2$> be a  shared intention?
-This question might initially appear frivolous but it is not straightforward to answer.
-Since Bratman provides only sufficient conditions for shared intention, his account doesn't tell us that the unshared intention is not a shared intention.
-And while we might be tempted to assume that for two agents to intentionally J together they must at least each have intentions concerning J, 
-this assumption might reasonably be rejected by those who, like Bratman, reject the Simple View according to which when an individual intentionally J-s she has an intention concerning her J-ing \citep{Bratman:1984jr}.
-
-In defence of the second premise, (ii), consider that shared intentions are suppose to play a certain functional role.
-Among other things, they are supposed to coordinate 
-
-
-
-
-
-
-
-\section{Prior counterexamples}
-***Must mention that Tollefsen and Gold \& Sugden counterexamples fail.
-
-
-\section{The Counterexample}
-Suppose that Aravinda runs the trains and Gerhard  the busses.
-Let us stipulate that the extent to which the two services, train and bus, are coordinated is to be measured by the total time passengers spend waiting between a bus and a train.
-So changes to the timetables would result in better coordination just if the changes would total waiting time.
-To illustrate, improving coordination might involve having trains arrive at a station shortly before, rather than shortly after, busses depart from there.
-Now Aravinda and Gerhard each intend that they, Aravinda and Gerhard, coordinate the trains with the busses to the greatest extent possible given other constraints; and they intend to do this by way of these intentions and meshing subplans of them, and this is common knowledge between them. 
-Aravinda and Gerhard thus meet Bratman's sufficient conditions for them to have a shared intention.
-Acting on this intention, 
-every January Aravinda updates the train timetables and sends Gerhard the changes.
-Likewise, Gerhard  updates the bus timetables every June and sends Aravinda the changes.
-In this way  each is responsive to the other's intentions and subplans of these. 
-Indeed, each may even try to predict changes in the other's subplans and modify their own accordingly.  
-But from each individual's point of view, the other's plans are  merely a constraint.
-
-***
-
-So whether Gerhard succeeds relative to his intention depends on both his own and Aravinda's plans; and likewise for Aravinda.
-%This is why each intends that they optimally coordinate the services in accordance with meshing subplans.
-This is why each is responsive to the other's plans. 
-Indeed, each may even try to predict changes in the other's plans and modify their own accordingly.  
-But from each individual's point of view, the other's plans are  merely a constraint.
-This approach to planning suffers from two defects.
-First, it is unlikely to be optimal in the sense of resulting, eventually, in a combination of plans such that no other combination of plans would have been better for at least one service and no worse for either service.
-Second, it is unlikely to be efficient in the sense of allowing Gerhard and Aravinda to arrive at an optimal combination of plans for the two services, trains and buses, with the fewest iterations.
-How could they do better?
-One possibility may be to have a single plan covering busses and trains---perhaps, for example, Aravinda could buy Gerhard's franchise. 
-%But suppose that this is not possible, and that there are limits on how much information Aravinda and Gerhard can share. 
-Now there is a single goal to which Aravinda and Gerhard's activities are both directed.
-But suppose that this is not possible, and that they are unable to integrate their planning more tightly---practical constraints or regulation prevents them from opening up their planning to each other.
-Can they still do better than treat each other's plans as a constraint?
-Possibly.
-Each plans the whole bus--train operation. 
-
-New contrast case: Aravinda and Gerhard planning the whole thing vs. merely responding to each other's plans.
-Meet Bratman's sufficient conditions for shared intention in both cases.
-(Specifically, in both cases they act on a shared intention that they coordinate the trains with the busses to the greatest extent possible given other constraints.)
-But intuitively is a case of coordinating the trains with the busses together whereas the other case involves Aravinda and Gerhard merely doing this in parallel.
-So shared intention is insufficient to fully explain the contrast cases.
-
-I'm also inclined to think it is not necessary for solving the contrast cases (distributive goals ...\ collective goals).
-The contrast cases do not provide a firm anchor for theorising about shared intention.
-
+No amount of acting on intentions about other's intentions is not sufficient for shared agency.  
+But conceiving of one's own and other's intentions and actions as part of a single plan might be.
 
 
 \bibliography{$HOME/endnote/phd_biblio}
