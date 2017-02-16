@@ -1,0 +1,1307 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=latex 2017.2.16)  16 FEB 2017 17:03
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"intention and motor representation in joint action.tex"
+(./intention and motor representation in joint action.tex
+LaTeX2e <2016/03/31>
+Babel <3.9r> and hyphenation patterns for 22 language(s) loaded.
+(/usr/local/texlive/2016basic/texmf-dist/tex/latex/extsizes/extarticle.cls
+Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
+(/usr/local/texlive/2016basic/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+(/usr/local/texlive/2016basic/texmf-dist/tex/latex/base/exscale.sty
+Package: exscale 2014/09/29 v2.1h Standard LaTeX package exscale
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+\big@size=\dimen102
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen103
+)
+
+! LaTeX Error: File `$HOME/Documents/submissions/preamble_steve_paper2.tex' not
+ found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: tex)
+
+Enter file name: 
+! Interruption.
+<to be read again> 
+                   }
+l.19 ...cuments/submissions/preamble_steve_paper2}
+                                                  ^^M
+? 
+(./intention and motor representation in joint action.aux)
+\openout1 = `"intention and motor representation in joint action.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+
+
+! LaTeX Error: No \title given.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.31 \maketitle
+               
+? sad
+OK, entering \scrollmode...
+! Interruption.
+\GenericError  ...                                
+                                                  \endgroup 
+l.31 \maketitle
+               
+? sd
+OK, entering \scrollmode...
+LaTeX Font Info:    External font `cmex7' loaded for size
+(Font)              <7> on input line 31.
+
+LaTeX Warning: No \author given.
+
+
+Overfull \hbox (5.96255pt too wide) in paragraph at lines 43--44
+\OT1/cmr/m/n/12 Collective In-ten-tion-al-ity (Manch-ester) ver-sion has some r
+e-fine-ments and makes
+ []
+
+[1
+
+]
+LaTeX Font Info:    External font `cmex7' loaded for size
+(Font)              <6> on input line 60.
+LaTeX Font Info:    External font `cmex7' loaded for size
+(Font)              <5> on input line 63.
+
+! Undefined control sequence.
+<argument> ...\ignorespaces  For instance, \citet 
+                                                  [p.\ 251]{bratman:2000_val...
+l.63 }
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.63 }
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+<argument> ...itet [p.\ 251]{bratman:2000_valuing}
+                                                   describes an agent called...
+l.63 }
+      
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra }, or forgotten $.
+\@footnotetext ...rut \strutbox }\color@endgroup }
+                                                  
+l.63 }
+      
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Undefined control sequence.
+l.64 ...ts are ordinary, individual actions \citep
+                                                  {butterfill:2012_intention}.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.71 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (2128.43433pt too wide) in paragraph at lines 63--71
+[][]\OT1/cmr/m/n/10 For in-stance, [p. 251]bratman:2000$[]\OML/cmm/m/it/10 alui
+ngdescribesanagentcalled\OT1/cmr/m/n/10 `\OML/cmm/m/it/10 Creature\OT1/cmr/m/n/
+10 2[]\OML/cmm/m/it/10 who\OT1/cmr/m/n/10 `\OML/cmm/m/it/10 actsonthebasisofits
+beliefsandconsidereddesires[]only\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 notintention
+s\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 asdoingthings\OT1/cmr/m/n/10 `\OML/cmm/m/it/
+10 intentionally[]:|Andothershavearguedthatmotorrepresentationandintentionarebo
+thneededinexplainingwhicheventsareordinary; individualactions[]:Ifanysuchviewis
+correct; itisimpossibletofullyexplainwhatitisforaneventtobeanactionbyappealtoin
+tentionalone:Ouraimistoprovidematerialforaparallelviewaboutjointaction:Weshallo
+fferconsiderationsinfavouroftwoclaims \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (1032.96016pt too wide) in paragraph at lines 63--71
+\OML/cmm/m/it/10 First; fullyexplainingwhicheventsarejointactionsrequiresappeal
+tostructuresofmotorrepresentationandnotonlytosharedintention:And; second; recog
+nisingaconstitutiveroleformotorrepresentationinjointactionmakespossibleanaccoun
+tofsharedintentionwhichissimplerandmoreelegantthananyoftheleadingalternatives:$
+ 
+ []
+
+! Undefined control sequence.
+l.74 Indeed, \citet
+                   [p.\ 376]{ludwig_collective_2007} has offered an independ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.74 Indeed, \citet[p.\ 376]{ludwig_
+                                    collective_2007} has offered an independ...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+l.74 ...d, \citet[p.\ 376]{ludwig_collective_2007}
+                                                   has offered an independen...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Undefined control sequence.
+l.75 Suppose we accept, following \citet
+                                        [pp.\ 49, 59]{Davidson:1971fz}, that...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.76 Or suppose we follow \citet
+                                {hornsby_actions_1980} in holding that actio...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.87 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (4599.65697pt too wide) in paragraph at lines 72--87
+\OT1/cmr/m/n/10 376]ludwig$[]\OML/cmm/m/it/10 ollective[]\OT1/cmr/m/n/10 007\OM
+L/cmm/m/it/10 hasofferedanindependentreasontorejectthisclaim:Supposeweaccept; f
+ollowing\OT1/cmr/m/n/10 [\OML/cmm/m/it/10 pp: \OT1/cmr/m/n/10 49\OML/cmm/m/it/1
+0 ; \OT1/cmr/m/n/10 59][]\OML/cmm/m/it/10 ; thatallactionsarebodilymovements:Or
+supposewefollow[]inholdingthatactionsaretryings:Thenitturnsoutthatfewornoparadi
+gmcasesofjointactionareactions:Inmakingthesauce; oneagentstirswhiletheotherpour
+s\OT1/cmr/m/n/10 ; \OML/cmm/m/it/10 inpaintingthehouse; onecoverstheoutsidewhil
+etheotherdoestheinside\OT1/cmr/m/n/10 ; \OML/cmm/m/it/10 andinwalkingtogetherea
+chwalkermovesherownlegs:Ineachofthesesupposedlyparadigmcasesofjointaction; asin
+manyothers; nobodilymovementswhichareactions\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 a
+ndnotryings\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 needhavetwoormoreagents:Apparently
+; then; jointactionsarenotactions:Thisraisesthepossibilitythattheingredientsinv
+olvedinexplainingwhicheventsareactionsdifferfromthoseinvolvedinexplainingwhiche
+ventsarejointactions:Ludwig[]sobservationonjointactionsnotbeingactionsalsosugge
+sts; moregenerally; thatcautionisneededingeneralisingclaimsaboutordinary; indiv
+idualactiontoincludejointaction:Althoughweshalldrawparallelsbetweenindividualan
+djointaction; suchparallelswillservemerelyexegeticalends:$ 
+ []
+
+! Undefined control sequence.
+<argument> ...ame term to describe reasons \citep 
+                                                  [on the latter, see][]{Par...
+l.99 }
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+! Undefined control sequence.
+l.135 ...ived as an interaction partnerâ€™  \citep
+                                                  [p.\ 4]{kourtis:2010_favor...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.135 ...n partnerâ€™  \citep[p.\ 4]{kourtis:2010_
+                                                  favoritism}.
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+l.135 ...™  \citep[p.\ 4]{kourtis:2010_favoritism}
+                                                  .
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.148 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (1491.04071pt too wide) in paragraph at lines 129--148
+\OT1/cmr/m/n/10 4]kourtis:2010$[]\OML/cmm/m/it/10 avoritism:Toestablishthisthey
+hadtwosubjectssitoppositeeachotheratatable\OT1/cmr/m/n/10 ; \OML/cmm/m/it/10 th
+erewasalsoaconfederateatthetable; the\OT1/cmr/m/n/10 `\OML/cmm/m/it/10 loner[]:
+Sometimesthesubjectsactedalone; pickingupandreplacinganobject:Andsometimestheyh
+adtoacttogether; passinganobjectbetweenthem:Theloneralwaysactedalone:EEGmeasure
+mentsofmotoractivationwererecorded:Theresearcherscomparedpatternsofmotoractivat
+ioninfourconditions \OT1/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (1785.78043pt too wide) in paragraph at lines 129--148
+\OML/cmm/m/it/10 whenthefirstsubjectacted; whenthesecondsubjectacted; whenthelo
+neractedandwhentherewasa\OT1/cmr/m/n/10 `\OML/cmm/m/it/10 nogo[]signalsothatnoo
+neacted:Theyfoundthatwhenoneofthesubjectsacted; patternsofactivationineachofthe
+twosubjectsweresimilarregardlessofwhichwasactingandwhichwasobserving:Bycontrast
+; whentheloneractedthesubjects[]patternsofactivationresembledthosefoundinthe\OT
+1/cmr/m/n/10 `\OML/cmm/m/it/10 nogo[]conditionwhentherewasnoaction:Sincetherese
+archersdidnotincludeaconditionwheretherewasacompetitive; non \OMS/cmsy/m/n/10 ^
+^@
+ []
+
+
+Overfull \hbox (2743.7189pt too wide) in paragraph at lines 129--148
+\OML/cmm/m/it/10 jointinteraction; wecannotconcludethattheeffecttheyfoundisspec
+ifictojointactionasopposedtootherkindsofinteraction:Whatwedotakethispapertoindi
+cate; togetherwithabodyofotherresearchonmotorrepresentationofobservedaction; is
+this:Ifyouareengagedinajointactionwithsomeone; onewhichinvolvesmovinganobjectby
+passingitbetweenyou; theneachofyouhasmotorrepresentationsofactionswhose\OT1/cmr
+/m/n/10 (\OML/cmm/m/it/10 perhapsimproper\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 comp
+onentsincludeactionswhichwillbeperformedbytheotherandthesemotorrepresentationsa
+refunctionallyequivalenttomotorrepresentationsofyourownactionsinthesensethatthe
+yarejustthesortsofrepresentationthatmighthavecausedyoutodowhattheotherisdoingif
+youwereinherposition:$ 
+ []
+
+! Undefined control sequence.
+l.151 The experiment by \citet
+                              {kourtis:2010_favoritism} was not designed to ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.151 The experiment by \citet{kourtis:2010_
+                                            favoritism} was not designed to ...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+l.151 ...riment by \citet{kourtis:2010_favoritism}
+                                                   was not designed to disti...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.157 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (2016.6783pt too wide) in paragraph at lines 149--157
+\OT1/cmr/m/n/10 kourtis:2010$[]\OML/cmm/m/it/10 avoritismwasnotdesignedtodistin
+guishcasesinwhicheachagentrepresentstheoutcometowhichthewholejointactionisdirec
+ted\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 inthiscase; theentiremovementoftheobject\O
+T1/cmr/m/n/10 )\OML/cmm/m/it/10 fromcasesinwhicheachagentrepresentsseparatelyou
+tcomestowhicheachoftheindividualactionscomprisingthejointaction\OT1/cmr/m/n/10 
+(\OML/cmm/m/it/10 inthiscase; theseveralmovementsoftheobjecteachofwhichjustonea
+gentisresponsiblefor\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 :Wearemakingaleapandassum
+ing\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 withoutargument\OT1/cmr/m/n/10 )\OML/cmm/m
+/it/10 thatincaseslikethatstudiedbyKourtisandcolleagues; thereissometimessocial
+motorrepresentation:$ 
+ []
+
+! Undefined control sequence.
+l.161 ... action contexts, and, inspired by \citet
+                                                  {kourtis:2010_favoritism},...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.161 ...ts, and, inspired by \citet{kourtis:2010_
+                                                  favoritism}, that
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+l.161 ...spired by \citet{kourtis:2010_favoritism}
+                                                  , that
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.166 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (1095.8996pt too wide) in paragraph at lines 161--166
+\OT1/cmr/m/n/10 spired by kourtis:2010$[]\OML/cmm/m/it/10 avoritism; thatsocial
+motorrepresentationsaremorelikelytooccurinjointactionthanwhenoneismerelyobservi
+ng:Itdoesn[]tfollow; ofcourse; thatsocialmotorrepresentationenablessomejointact
+ions:Butletusconsiderjustthepossibilitythatitmight:Howcouldsocialmotorrepresent
+ationenablejointactioneveninprinciple\OT1/cmr/m/n/10 ?$ 
+ []
+
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+! Undefined control sequence.
+l.247 as some have recently argued (\citealp
+                                            [pp.\ 189-90]{pacherie:2008_acti...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.247 ...ued (\citealp[pp.\ 189-90]{pacherie:2008_
+                                                  action}; \citealp{butterfi...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+l.247 ...itealp[pp.\ 189-90]{pacherie:2008_action}
+                                                  ; \citealp{butterfill:2012...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Undefined control sequence.
+l.247 ...\ 189-90]{pacherie:2008_action}; \citealp
+                                                  {butterfill:2012_intention}).
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.262 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--262
+[]\OT1/cmr/m/n/10 Motor rep-re-sen-ta-tions are rel-e-vantly sim-i-lar to in-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--262
+\OT1/cmr/m/n/10 ten-tions, as some have re-cently ar-gued ([pp. 189-
+ []
+
+
+Overfull \hbox (5193.98698pt too wide) in paragraph at lines 246--262
+\OT1/cmr/m/n/10 90]pacherie:2008$[]\OML/cmm/m/it/10 ction\OT1/cmr/m/n/10 ; [])\
+OML/cmm/m/it/10 :Ofcoursemotorrepresentationsdifferfromintentionsinsomeimportan
+tways\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 astheseauthorsnote\OT1/cmr/m/n/10 )\OML/
+cmm/m/it/10 :Buttheyaresimilarintherespectsthatmatterforexplainingthepurposiven
+essofaction:For; likeintentions; somemotorrepresentationsrepresentoutcomesandno
+tmerelykinematicfeaturesofaction:Likeintentions; somemotorrepresentationsplayar
+oleincoordinatingmultiplecomponentactivitiesbyvirtueoftheirroleaselementsinhier
+archicallystructuredplans:And; likeintentions; somemotorrepresentationscoordina
+tetheseactivitiesinawaythatwouldnormallyfacilitatetheoutcomesoccurrence:Soanyon
+ewhoacceptsthestandardstoryaboutpurposiveactionandintentionshouldalsoacceptthat
+asimilarstoryaboutpurposiveactionandmotorrepresentation:Giventhatthetwobasicque
+stionsaboutordinary; individualpurposiveactioncanalsobeansweredbyappealtointent
+ion; theycanalsobeansweringbyappealtomotorrepresentation:Thismotivatesthefollow
+ingview:Notallpurposiveactionsareboundtogetherandlinkedtooutcomesbyintentions:I
+nsomecaseswhatbindstogetherpurposiveactionsandlinksthemtooutcomesaremotorrepres
+entations:Andofcourseinmanycasesitmaybethatbothintentionandmotorrepresentationa
+reinvolved:$ 
+ []
+
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+! Undefined control sequence.
+<argument> ...ed processes underwrite what \citet 
+                                                  {Butterfill:2011_wija} cal...
+l.299 }
+       
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.299 }
+       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+<argument> ...e what \citet {Butterfill:2011_wija}
+                                                   calls \textit {collective...
+l.299 }
+       
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra }, or forgotten $.
+\@footnotetext ...rut \strutbox }\color@endgroup }
+                                                  
+l.299 }
+       
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.301 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (455.76555pt too wide) in paragraph at lines 299--301
+\OT1/cmr/m/n/10 what Butterfill:2011$[]\OML/cmm/m/it/10 ijacalls[]:|Sosocialmot
+orrepresentationcanbindtogethertheactivitiescomprisingajointactionandlinkthemto
+anoutcomeinmuchthewaythatsharedintentioncan:$ 
+ []
+
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+! Undefined control sequence.
+<argument> ...ootnotesep \ignorespaces  In \citet 
+                                                  {Bratman:1992mi}, the foll...
+l.324 }
+       
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...ficient conditions occurs in \citet 
+                                                  [][pp.\ 143-4]{Bratman:199...
+l.324 }
+       
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.332 ...2 are common knowledge between us' \citep
+                                                  [][p.\ View 4]{Bratman:199...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...is assumption is wrong (as \citealp 
+                                                  {pacherie:2008_action} sug...
+l.346 }
+       
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.346 }
+       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+<argument> ... (as \citealp {pacherie:2008_action}
+                                                   suggests), social motor r...
+l.346 }
+       
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra }, or forgotten $.
+\@footnotetext ...rut \strutbox }\color@endgroup }
+                                                  
+l.346 }
+       
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.347 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 346--347
+[][]\OT1/cmr/m/n/10 Here and be-low were are as-sum-ing that no mo-tor rep-re-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 346--347
+\OT1/cmr/m/n/10 sen-ta-tions are in-ten-tions. If this as-sump-tion is wrong (a
+s
+ []
+
+
+Overfull \hbox (161.55643pt too wide) in paragraph at lines 346--347
+\OT1/cmr/m/n/10 pacherie:2008$[]\OML/cmm/m/it/10 ctionsuggests\OT1/cmr/m/n/10 )
+\OML/cmm/m/it/10 ; socialmotorrepresentationmaybeevenmorecloselyrelatedtoshared
+intentionthatwesuggesthere:|$ 
+ []
+
+! Undefined control sequence.
+<argument> ...otnotesep \ignorespaces  See \citet 
+                                                  [p.\ 117]{Bratman:1993je}:...
+l.367 }
+       
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ... him under some description' \citep 
+                                                  [p.\ 50]{Davidson:1971fz}....
+l.389 }
+       
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.412 Thus \citet
+                 {gilbert_walking_1990} contrasts two people walking togethe...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.412 Thus \citet{gilbert_
+                          walking_1990} contrasts two people walking togethe...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+l.412 Thus \citet{gilbert_walking_1990}
+                                        contrasts two people walking togethe...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Undefined control sequence.
+l.414 Relatedly,  \citet
+                        {Searle:1990em}  contrasts a case in which several p...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.419 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 409--419
+[]\OT1/cmr/m/n/10 What guides and con-strains the-o-ris-ing about shared in-ten
+-tion? While
+ []
+
+
+Underfull \hbox (badness 1881) in paragraph at lines 409--419
+\OT1/cmr/m/n/10 there is lit-tle agree-ment on what shared in-ten-tion is or wh
+at it is for, in-tu-
+ []
+
+
+Underfull \hbox (badness 1701) in paragraph at lines 409--419
+\OT1/cmr/m/n/10 itions about it are some-times grounded in con-trast cases. Con
+-trast cases are
+ []
+
+
+Underfull \hbox (badness 2285) in paragraph at lines 409--419
+\OT1/cmr/m/n/10 pairs of events which are sim-i-lar in terms of the be-haviour 
+and co-or-di-na-tion
+ []
+
+
+Underfull \hbox (badness 2080) in paragraph at lines 409--419
+\OT1/cmr/m/n/10 they in-volve but where one is a joint ac-tion while the other 
+is not. Thus
+ []
+
+
+Overfull \hbox (4267.34676pt too wide) in paragraph at lines 409--419
+\OT1/cmr/m/n/10 gilbert$[]\OML/cmm/m/it/10 alking[]\OT1/cmr/m/n/10 990\OML/cmm/
+m/it/10 contraststwopeoplewalkingtogetherwithtwopeopleindividuallywalkingsideby
+side:Thetwopairs[]movementsmaybethesameandsimilarlycoordinated\OT1/cmr/m/n/10 (
+\OML/cmm/m/it/10 toavoidcollision\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; butwalking
+togetherisajointactionwhereasmerelywalkingsidebysideisnot:Relatedly; []contrast
+sacaseinwhichseveralparkvisitorssimultaneouslyruntoacentralshelterinordertoperf
+ormadancewithanothercaseinwhichtheparkvisitorsruntothecentralshelterinordertoes
+capeastorm:Thefirstisacaseofjointaction; thesecondisnot\OT1/cmr/m/n/10 ; \OML/c
+mm/m/it/10 butthesamemovementsoccurinboth:Thesesortsofcontrastcaseinvitetheques
+tion; Howdojointactionsdifferfromindividualbutparallelactions\OT1/cmr/m/n/10 ?\
+OML/cmm/m/it/10 Gilbertsexampleshowsthatthedifferencecantjustbeamatterofcoordin
+ation; becausepeoplewhoaremerelywalkingalongsideeachotheralsoneedtocoordinateth
+eiractionsinordertoavoidcolliding:AndSearlesexampleshowsthatthedifferencebetwee
+njointactionandparallelindividualactioncantjustbethattheactionshaveacommoneffec
+tbecausemerelyparallelactionscanhavecommoneffectstoo:$ 
+ []
+
+! Undefined control sequence.
+<argument> ...alisation of a notion due to \citet 
+                                                  {pietroski_actions_1998}.)...
+l.459 }
+       
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.459 }
+       
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+<argument> ...e to \citet {pietroski_actions_1998}
+                                                  .) Event $D$ \emph {partia...
+l.459 }
+       
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra }, or forgotten $.
+\@footnotetext ...rut \strutbox }\color@endgroup }
+                                                  
+l.459 }
+       
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.475 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (5244.21329pt too wide) in paragraph at lines 459--475
+\OT1/cmr/m/n/10 pietroski$[]\OML/cmm/m/it/10 ctions[]\OT1/cmr/m/n/10 998\OML/cm
+m/m/it/10 :\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 Event$\OT1/cmr/m/n/10 D$[]\OML/cmm
+/m/it/10 event$\OT1/cmr/m/n/10 E$\OML/cmm/m/it/10 if$\OT1/cmr/m/n/10 D$\OML/cmm
+/m/it/10 alonedoesnotground$\OT1/cmr/m/n/10 E$\OML/cmm/m/it/10 butthereareevent
+sincluding$\OT1/cmr/m/n/10 D$\OML/cmm/m/it/10 whichdoground$\OT1/cmr/m/n/10 E$\
+OML/cmm/m/it/10 :|Asitturnedout; bothintentionswerefulfilled:Neithershotwasindi
+viduallyfatalbuttogethertheyweredeadly:Anambulancearrivedonthescenealmostatonce
+butFreddidn[]tmakeittothehospital:NowNoraandOlive[]sactionshaveadistributivegoa
+l:Afterall; eachagent[]sactionsareindividuallydirectedtoFred[]sdeathanditiscons
+istentwiththestipulationsmadeaboutthisscenariothatthesegoalrelationsarecompatib
+leinthesensethatbothagentscouldsucceedtogether:ButistheirkillingofFredajointact
+ion\OT1/cmr/m/n/10 ?\OML/cmm/m/it/10 ImaginethatNoraandOlivehadnoknowledgeofeac
+hother; norofeachother[]sactions; andthattheireffortswereentirelyuncoordinated:
+WemightevensupposethatNoraandOlivearesoantagonistictoeachotherthattheywould; if
+eitherknewtheother[]slocation; turntheirgunsoneachother:Theiractionsnevertheles
+shaveadistributivegoal:Butgiventhesefurthersuppositionsitislikelytoseemcounteri
+ntuitivetosupposethattheirkillingFredwasajointaction:Soalthoughwecandistinguish
+thestandardlyconsideredcontrastcasesjustbyappealtothenotionofadistributivegoal;
+ weshouldnotassumethatthisnotioncapturestheintendedcontrastbetweenjointandmerel
+yparallelactions:$ 
+ []
+
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+! Undefined control sequence.
+l.512 ...lective'' or ``shared'' intention' \citep
+                                                  [pp.\ 444-5]{alonso_shared...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.512 ...d'' intention' \citep[pp.\ 444-5]{alonso_
+                                                  shared_2009}.%
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+l.512 ...n' \citep[pp.\ 444-5]{alonso_shared_2009}
+                                                  .%
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.521 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (702.66998pt too wide) in paragraph at lines 508--521
+\OT1/cmr/m/n/10 5]alonso$[]\OML/cmm/m/it/10 hared[]\OT1/cmr/m/n/10 009\OML/cmm/
+m/it/10 :[]Ifthiswereright; itwouldbefalseoratleastunclearthatsocialmotorrepres
+entationisneededtoanswerthequestionaboutwhicheventsarejointactions:Wemusttheref
+oredefendtheviewthatjointactionneednotinvolvesharedintention:$ 
+ []
+
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ˜ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ˜ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 684.
+
+(/usr/local/texlive/2016basic/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 684.
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ˜ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ˜ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+
+! Undefined control sequence.
+l.763 ...n what you are about to do with it \citep
+                                                  {zhang:2007_planning}.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.763 ...re about to do with it \citep{zhang:2007_
+                                                  planning}.
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+l.763 ...to do with it \citep{zhang:2007_planning}
+                                                  .
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.764 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+No file "intention and motor representation in joint action".bbl.
+(./intention and motor representation in joint action.aux)
+! You can't use `\end' in internal vertical mode.
+\enddocument ... \endgroup \deadcycles \z@ \@@end 
+                                                  
+l.792 \end{document}
+                    
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.792 \end{document}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.792 \end{document}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.792 \end{document}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.792 \end{document}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.792 \end{document}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.792 \end{document}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.792 \end{document}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.792 \end{document}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.792 \end{document}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.792 \end{document}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.792 \end{document}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.792 \end{document}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.792 \end{document}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.792 \end{document}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.792 \end{document}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.792 \end{document}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.792 \end{document}
+                    
+Things are pretty mixed up, but I think the worst is over.
+
+)
+*a
+
+*
+! Emergency stop.
+<*> a
+     
+End of file on the terminal!
+
+ 
+Here is how much of TeX's memory you used:
+ 304 strings out of 494448
+ 5696 string characters out of 6166792
+ 150788 words of memory out of 5000000
+ 3702 multiletter control sequences out of 15000+600000
+ 10700 words of font info for 38 fonts, out of 8000000 for 9000
+ 319 hyphenation exceptions out of 8191
+ 25i,17n,20p,799b,629s stack positions out of 5000i,500n,10000p,200000b,80000s
+Output written on "intention and motor representation in joint action.dvi" (1 p
+age, 2740 bytes).
